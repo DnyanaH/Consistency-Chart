@@ -1,0 +1,149 @@
+Here is a comprehensive, exam-ready breakdown of **Unit 1.2 — Structure and Composition of Atmosphere, Hydrosphere, Lithosphere, and Biosphere**, covering every angle UGC NET might test.
+
+---
+
+## The Four Spheres of Earth
+
+The Earth system is divided into four major spheres that interact continuously. Let's go through each one with the depth and precision needed to handle any question format.
+
+---
+
+### 🌫️ Atmosphere
+
+The atmosphere is the gaseous envelope surrounding Earth, held by gravity, extending up to ~10,000 km but with 99% of its mass within 30 km.
+
+**Composition of the Dry Atmosphere:**
+
+| Gas | % by Volume |
+|---|---|
+| Nitrogen (N₂) | 78.09% |
+| Oxygen (O₂) | 20.95% |
+| Argon (Ar) | 0.93% |
+| Carbon dioxide (CO₂) | ~0.04% (variable) |
+| Other gases (Ne, He, CH₄, Kr, H₂, N₂O, O₃) | Trace |
+
+> **Tricky exam point**: Water vapour (H₂O) is NOT included in dry composition — it is variable (0–4%). Ozone is a trace gas but critically important. CO₂ is a variable gas (not constant), unlike N₂ and O₂.
+
+**Layers of the Atmosphere** (bottom to top):**Critical temperature gradient pattern** (most frequently tested):
+- Troposphere: temperature **decreases** with altitude (normal lapse rate ~6.5°C/km)
+- Stratosphere: temperature **increases** (due to ozone absorbing UV)
+- Mesosphere: temperature **decreases** again
+- Thermosphere: temperature **increases** sharply
+
+> This alternating pattern is a favourite MCQ trap — remember **DIDI** (Down, Increase, Down, Increase).
+
+---
+
+### 💧 Hydrosphere
+
+The hydrosphere includes all water on, above, and within Earth's surface.
+
+**Distribution of Water on Earth:**
+
+| Reservoir | % of Total Water |
+|---|---|
+| Oceans | ~96.5% |
+| Ice caps / glaciers | ~1.74% |
+| Groundwater | ~1.69% |
+| Surface freshwater (lakes, rivers, swamps) | ~0.013% |
+| Soil moisture, atmosphere, biota | Tiny fractions |
+
+> **Tricky point**: ~97.5% of all water is saline; only ~2.5% is fresh. Of freshwater, ~69% is locked in glaciers — so liquid freshwater available to ecosystems is extremely small.
+
+**Key properties of water relevant to environment:**
+- Highest specific heat capacity among common substances → regulates climate
+- Universal solvent → carries dissolved salts, minerals, gases
+- Anomalous expansion at 4°C (maximum density) → ice floats, protecting aquatic life in winter
+- High latent heat of vaporisation → important in heat transfer across atmosphere
+
+**Zones of the ocean** (tested frequently):
+- Photic zone: 0–200 m (sunlight penetrates, photosynthesis occurs)
+- Aphotic zone: below 200 m (no light)
+- Abyssal zone: 4000–6000 m
+- Hadal zone: >6000 m (ocean trenches)
+
+---
+
+### 🪨 Lithosphere
+
+The lithosphere is the solid outer shell of Earth, comprising the **crust + upper mantle**, extending to ~100 km depth.
+
+**Internal structure of Earth:**
+
+| Layer | Depth | Composition |
+|---|---|---|
+| Continental crust | 30–70 km thick | Sialic (Si + Al) — granite type |
+| Oceanic crust | 5–10 km thick | Simatic (Si + Mg) — basaltic type |
+| Mantle | 35–2900 km | Peridotite (Si, Mg, Fe) — plastic/viscous |
+| Outer core | 2900–5100 km | Liquid Fe + Ni — generates magnetic field |
+| Inner core | 5100–6371 km | Solid Fe + Ni |
+
+> **Tricky distinction**: The **lithosphere** ≠ **crust**. Lithosphere = crust + rigid upper mantle. The **asthenosphere** (below lithosphere, ~100–350 km) is partially molten and allows tectonic plate movement.
+
+**SIAL vs SIMA** (exam favourite):
+- SIAL = Continental crust (Silicon + Aluminium), lighter, density ~2.7 g/cm³
+- SIMA = Oceanic crust (Silicon + Magnesium), heavier, density ~3.0 g/cm³
+
+**Mohorovičić Discontinuity (Moho):** Boundary between crust and mantle — marked by sharp increase in seismic wave velocity.
+
+**Gutenberg Discontinuity:** Boundary between mantle and outer core (~2900 km).
+
+**Lehmann Discontinuity:** Boundary between outer and inner core (~5100 km).
+
+---
+
+### 🌿 Biosphere
+
+The biosphere is the zone of life — the global sum of all ecosystems, extending from ~11 km below ocean surface to ~10 km altitude in atmosphere (wherever life exists).
+
+**Boundaries of the biosphere:**
+- Extends across parts of all three other spheres
+- Lower limit: ~11 km (deep ocean trenches — chemolithotrophs)
+- Upper limit: ~10 km altitude (some microorganisms, spores in atmosphere)
+- Thermophiles in deep-sea hydrothermal vents: up to 121°C
+
+**Key concepts:**
+- **Biosphere ≠ ecosphere**: Some use these interchangeably, but technically ecosphere includes the physical environment interacting with biota.
+- The biosphere is entirely dependent on energy from the sun (and chemosynthesis in a few exceptional ecosystems).
+- It acts as the interface where matter cycles (C, N, P, S, H₂O) between lithosphere, hydrosphere, and atmosphere.
+
+---
+
+### Interactions Between the Four Spheres
+
+This is where many higher-order UGC NET questions come from. Every environmental process involves sphere interactions:
+
+| Process | Spheres Involved |
+|---|---|
+| Photosynthesis | Biosphere + Atmosphere + Hydrosphere |
+| Weathering of rocks | Lithosphere + Hydrosphere + Atmosphere |
+| Acid rain | Atmosphere + Hydrosphere + Lithosphere + Biosphere |
+| Carbon cycle | All four spheres |
+| Soil formation (pedogenesis) | Lithosphere + Biosphere + Hydrosphere + Atmosphere |
+| Volcanic eruption | Lithosphere → Atmosphere (CO₂, SO₂, ash) |
+| El Niño | Hydrosphere ↔ Atmosphere |
+
+---
+
+### High-Probability Tricky MCQ Targets
+
+**1.** The **ozone layer** is in the stratosphere — not the mesosphere or troposphere.
+
+**2.** The **coldest layer** of the atmosphere is the **mesosphere** (~−90°C at mesopause) — NOT the stratosphere.
+
+**3.** **Noctilucent clouds** form in the mesosphere (~80 km); **nacreous/mother-of-pearl clouds** form in the stratosphere.
+
+**4.** The tropopause is **higher at the equator** (~16–18 km) and **lower at the poles** (~8 km) — temperature inversion starts here.
+
+**5.** **97.5% of water is saline**; of freshwater, the largest store is **glaciers and ice caps** (~69%), NOT rivers or lakes.
+
+**6.** The **lithosphere includes upper mantle + crust**, not just crust. Plate tectonics happens because the lithosphere floats on the **asthenosphere**.
+
+**7.** The Earth's magnetic field is generated by the **liquid outer core**, not the solid inner core.
+
+**8.** **SIAL** (lighter, continental crust) floats on **SIMA** (heavier, oceanic crust) — this is why continents don't subduct easily.
+
+**9.** Life exists in the biosphere up to ~10 km altitude and down to ~11 km ocean depth — so the biosphere **penetrates all other spheres**.
+
+**10.** Water has **maximum density at 4°C** (not 0°C) — this is why lakes freeze from the top, protecting aquatic life.
+
