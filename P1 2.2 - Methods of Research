@@ -1,0 +1,140 @@
+Here's a deep-dive study guide for **Unit 2.2 — Methods of Research**. This is one of the most important and frequently tested topics in UGC NET Paper 1.
+
+---
+
+## What is a Research Method?
+
+Think of a research method as the **strategy or plan** a researcher uses to find answers to questions. Just like you pick a different tool to fix different things — a hammer for nails, a screwdriver for screws — you pick a different method depending on *what* you want to know.
+
+UGC NET expects you to know **5 main methods**:
+
+1. Experimental
+2. Descriptive
+3. Historical
+4. Qualitative
+5. Quantitative
+
+Let's go through each one from the ground up.---
+
+## 1. Experimental Research
+
+**Core Idea:** You *manipulate* something and *observe* what happens. You are testing cause and effect.
+
+**Real-life example:** A teacher gives one class a new teaching method (Group A) and keeps the old method for another class (Group B). After 3 months, she compares their marks. The new method is the **cause** she is testing; the marks are the **effect**.
+
+**Key terms you MUST know:**
+
+- **Independent Variable (IV):** The thing the researcher *changes* (the new teaching method)
+- **Dependent Variable (DV):** The thing that *gets affected* (marks scored)
+- **Control Group:** The group that does NOT get the new treatment (Group B)
+- **Experimental Group:** The group that DOES get the new treatment (Group A)
+- **Hypothesis:** A prediction before the experiment: *"The new method will improve scores by 15%"*
+
+**When is it used?** When you want to *prove* that X causes Y. It is the most scientific and rigorous method.
+
+**Limitation:** Many real-world situations cannot be controlled perfectly. You cannot randomly assign people to poverty or illness for an experiment.
+
+---
+
+## 2. Descriptive Research
+
+**Core Idea:** You *describe* what is happening as it is — without changing anything. You are a photographer, not a director.
+
+**Real-life example:** A researcher wants to know the study habits of college students in Pune. She gives a questionnaire to 500 students and reports: "72% study between 10 PM–12 AM, 45% use YouTube for notes…" She changed nothing — she just *described*.
+
+**Common tools:** Surveys, questionnaires, interviews, observation.
+
+**Types of Descriptive Research:**
+- **Survey method** — asking questions to a large group
+- **Case study** — deep study of one individual/institution
+- **Observation** — watching behaviour without interfering
+- **Census** — data from everyone in a population
+
+**When is it used?** When you want to know the *current state* of something — attitudes, behaviours, characteristics.
+
+**Limitation:** It tells you *what* but cannot explain *why*. It cannot prove cause and effect.
+
+---
+
+## 3. Historical Research
+
+**Core Idea:** You study the *past* to understand the present. You work with documents, records, and relics.
+
+**Real-life example:** A researcher studies the evolution of the Indian education system from the Vedic age to post-Independence. She reads old government documents, autobiographies, and newspapers to reconstruct the past.
+
+**Key terms:**
+
+- **Primary sources:** Original documents — letters, diaries, government records, photographs
+- **Secondary sources:** Books or articles *about* those original sources — textbooks, biographies
+- **External criticism:** Is the document *genuine*? (checking if a letter is actually from that era)
+- **Internal criticism:** Is the content *accurate* and *trustworthy*? (checking if the writer was biased)
+
+**When is it used?** In education, sociology, political science — whenever you want to trace how something evolved.
+
+**Limitation:** Documents may be incomplete, biased, or destroyed. The researcher cannot go back to verify facts directly.
+
+---
+
+## 4. Qualitative Research
+
+**Core Idea:** Understanding human experience through *words, stories, and meanings* — not numbers.
+
+**Real-life example:** A researcher wants to understand *why* students drop out of college. She conducts in-depth interviews with 20 dropouts. She records their stories, finds patterns in their words (e.g., "financial stress," "family pressure"), and builds a rich understanding.
+
+**Key features:**
+- Small sample size, but very deep study
+- Flexible, evolving research design
+- Researcher is the main instrument
+- Data = words, narratives, observations
+
+**Common approaches:**
+- **Phenomenology** — lived experience of individuals
+- **Grounded Theory** — building theory from data
+- **Ethnography** — studying a culture from within
+- **Case Study** — deep study of one unit
+
+**When is it used?** When the *why* and *how* matters more than the *how many*.
+
+**Limitation:** Results cannot be generalized to a large population. It is subjective and time-consuming.
+
+---
+
+## 5. Quantitative Research
+
+**Core Idea:** Using *numbers and statistics* to study a large population and find patterns.
+
+**Real-life example:** A researcher surveys 10,000 students across India and finds: "Students who sleep less than 6 hours score 23% lower on average." This uses statistics to draw a broad conclusion.
+
+**Key features:**
+- Large sample size
+- Structured questionnaires (yes/no, rating scales)
+- Statistical analysis (mean, correlation, regression)
+- Objective and replicable
+
+**When is it used?** When you want results that can be *generalized* to a large population.
+
+**Limitation:** Numbers can miss the deeper human story. A student may score 95% but be deeply unhappy — quantitative data won't capture that.
+
+---
+
+## Qualitative vs. Quantitative — The Crucial Comparison---
+
+## Memory Trick — One-Line Identifiers
+
+When a UGC NET question describes a research scenario, identify it instantly using these cues:
+
+- "Controlled experiment, two groups, cause-effect" → **Experimental**
+- "Survey, questionnaire, current status, large group" → **Descriptive**
+- "Past records, documents, primary/secondary sources" → **Historical**
+- "In-depth interviews, small group, lived experience" → **Qualitative**
+- "Statistical analysis, large sample, numbers" → **Quantitative**
+
+---
+
+## What's Coming Next?
+
+This topic connects directly to:
+- **2.1** (types of research align with these methods)
+- **2.3** (steps of research differ based on method chosen)
+
+Would you like me to continue with **2.3 Steps of Research**, give you **UGC NET practice MCQs** on 2.2, or go deeper into any one method?
