@@ -1,0 +1,585 @@
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 1
+Topic 2.1 Fundamentals of Environmental
+Chemistry
+Syllabus Coverage – Topic 2.1
+Sub-Topic Key Concepts
+Classification of Elements Periodic table groups, Mendeleev, modern classification
+Stoichiometry Mole concept, limiting reagent, yield calculations, balancing equations
+Gibbs' Energy DG, spontaneity, DG = DH – TDS, standard free energy
+Chemical Potential μ, partial molar Gibbs energy, thermodynamic equilibrium
+Chemical Kinetics Rate laws, order, Arrhenius equation, half-life, catalysis
+Chemical Equilibria Kc, Kp, Le Chatelier principle, Ksp, common ion effect
+Solubility of Gases Henry's law, On & COn dissolution, temperature effects
+Carbonate System COn–HnCOn–HCOnn–COn²n equilibria, ocean acidification
+Hydrocarbons Saturated (alkanes) vs unsaturated (alkenes/alkynes/aromatics)
+Radioisotopes a/b/g decay, half-life, environmental tracers, nuclear waste
+1. Classification of Elements
+The Periodic Table is the cornerstone of chemistry. Elements are arranged in increasing order of atomic
+number (protons in the nucleus). Understanding classification helps predict reactivity, bonding, and
+environmental behaviour of elements.
+1.1 Historical Development
+Scientist Year Contribution
+Lavoisier 1789 First list of 33 elements; divided into metals & non-metals
+Döbereiner 1829 Law of Triads – middle element has average properties
+Newlands 1864 Law of Octaves – every 8th element similar
+Mendeleev 1869 Periodic Law: properties periodic function of atomic mass; predicted gaps
+Moseley 1913 Modern Periodic Law: function of atomic NUMBER, not mass
+Seaborg 1944 Added Actinides to periodic table
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 2
+1.2 Modern Periodic Table – Structure
+The table has 118 elements, arranged in 7 Periods (horizontal rows) and 18 Groups (vertical columns).
+Elements in the same group share similar chemical properties because they have the same number of valence
+electrons.
+Category Groups / Position Properties Environmental Examples
+Alkali Metals Group 1 (Li–Fr) Soft, highly reactive, +1
+oxidation state
+Nan, Kn in water/soil salinity
+Alkaline Earth Group 2 (Be–Ra) Harder, +2 state, less reactive Ca²n, Mg²n (water hardness)
+Transition Metals Groups 3–12 Variable oxidation states,
+catalysts, coloured ions
+Fe, Mn, Cr, Cu in water; Hg, Cd, Pb –
+toxic
+Halogens Group 17 Highly electronegative, -1
+state
+Cln disinfectant; Fn fluorosis
+Noble Gases Group 18 Inert, zero oxidation state Rn – radioactive indoor pollutant
+Lanthanides Period 6, f-block +3 state, rare earth elements REE in e-waste, nuclear industry
+Actinides Period 7, f-block Mostly radioactive U, Th, Pu – nuclear fuel/waste
+Metalloids Staircase boundary Intermediate properties As, Se – environmental toxicants
+1.3 Periodic Trends (Critical for MCQs)
+Property Across Period (L®R) Down Group
+(Top®Bottom)
+Why Important Env.
+Atomic Radius Decreases Increases Determines ion size & hydration
+Ionisation Energy Increases Decreases Reactivity of metals in soil
+Electronegativity Increases Decreases Bond polarity, toxicity prediction
+Metallic Character Decreases Increases Corrosion, heavy metal mobility
+Electron Affinity Increases Decreases Oxidising power, redox in water
+n EXAM TIP: UGC NET frequently asks: "Which element violates the Periodic Law?" ® Ar(18) before K(19)
+by mass but correct by atomic number. Also know: Lanthanide Contraction explains similar radii of 4d and
+5d transition metals.
+2. Stoichiometry
+Stoichiometry (Greek: stoicheion = element, metron = measure) is the quantitative relationship between
+reactants and products in a chemical reaction. It is the backbone of pollution load calculations, water treatment
+dosing, and atmospheric chemistry modelling.
+2.1 The Mole Concept
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 3
+One mole = 6.022 × 10²³ particles (Avogadro's Number, NA). It is the amount of substance containing as many
+elementary entities as atoms in exactly 12 g of Carbon-12. Molar Mass = mass in grams of one mole
+(numerically equal to atomic/molecular weight).
+Quantity Formula Example
+Number of moles (n) n = mass / molar mass 36 g HnO ® n = 36/18 = 2 mol
+Number of particles N = n × Nn 2 mol HnO ® 12.04 × 10²³ molecules
+Molarity (M) M = moles / volume(L) 0.5 mol NaCl in 1 L = 0.5 M
+Molality (m) m = moles / kg(solvent) Independent of temperature
+Normality (N) N = equivalents / L Used in acid-base & redox titrations
+Mole Fraction (c) cn = nn / (nn + n_b) Used in gas law partial pressures
+2.2 Balancing Chemical Equations
+Chemical equations must be balanced to satisfy the Law of Conservation of Mass: atoms of each element
+must be equal on both sides.
+Worked Example – Combustion of Methane
+Unbalanced: CHn + On ® COn + HnO
+Balanced: CHn + 2On ® COn + 2HnO
+Molar ratio: 1 mol CHn requires 2 mol On; produces 1 mol COn + 2 mol HnO
+Environmental use: Calculate COn emissions from burning 1 tonne of natural gas.
+2.3 Limiting Reagent & Percentage Yield
+The limiting reagent is the reactant that is completely consumed first, determining the maximum amount of
+product. The excess reagent is left over. Percentage Yield = (Actual Yield / Theoretical Yield) × 100.
+Environmental significance: In water treatment, when adding excess lime Ca(OH)n for phosphorus removal, knowing the
+limiting reagent prevents both under-dosing (treatment failure) and over-dosing (cost and pH problems).
+2.4 Stoichiometry in Environmental Applications
+Application Reaction Stoichiometric Use
+BOD Calculation CnHnnOn + 6On ® 6COn + 6HnO ThOD = 1 mg glucose needs 1.067 mg On
+Lime Dosing (softening) Ca(HCOn)n + Ca(OH)n ® 2CaCOn¯
++ 2HnO
+Calculate lime dose for given hardness
+Chlorination Cln + HnO ® HOCl + HCl Disinfection dosage calculation
+Acid Rain SOn + HnO + ½On ® HnSOn Acid load in precipitation
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 4
+Application Reaction Stoichiometric Use
+Ozone Formation NOn + hn ® NO + O; O + On ® On Photochemical smog stoichiometry
+n EXAM TIP: Theoretical Oxygen Demand (ThOD) calculation is a favourite NET question. For CnHnOn:
+ThOD = (MW of On × n) / MW of compound, where n = x + y/4 – z/2. For glucose (CnHnnOn): ThOD =
+192/180 = 1.067 g On/g glucose.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 5
+3. Gibbs' Free Energy
+Gibbs' Free Energy (G) combines enthalpy (heat content) and entropy (disorder) to predict whether a chemical
+reaction will occur spontaneously under constant temperature and pressure conditions. Named after J. Willard
+Gibbs (1878).
+3.1 The Fundamental Equation
+Gibbs' Energy Equation
+DG = DH – TDS
+Where:
+• DG = Change in Gibbs Free Energy (kJ/mol)
+• DH = Change in Enthalpy (heat absorbed/released, kJ/mol)
+• T = Absolute Temperature in Kelvin (K)
+• DS = Change in Entropy (J/mol·K) – measure of disorder
+3.2 Spontaneity Rules
+DH DS DG Spontaneous? Example
+- + Always - YES (all T) Combustion reactions
++ - Always + NEVER Decomposition of water (electrolysis needed)
+- - - at low T Only at low T Freezing of water (0°C)
++ + - at high T Only at high T Melting of ice (>0°C)
+3.3 Relationship with Equilibrium Constant
+At equilibrium, DG = 0. The Standard Gibbs Energy (DG°) is related to the equilibrium constant by: DG° = -RT
+ln K, where R = 8.314 J/mol·K and K is the equilibrium constant. A large negative DG° means K >> 1 (products
+favoured). A large positive DG° means K << 1 (reactants favoured).
+3.4 Environmental Applications of Gibbs Energy
+Process DG Relevance
+Biodegradation of pollutants Microbes exploit reactions with negative DG for energy
+Heavy metal speciation DG determines which ionic form is stable in soil/water
+Acid mine drainage Pyrite oxidation is highly spontaneous (large -DG)
+Photosynthesis +DG reaction driven by solar energy (non-spontaneous)
+Ozone depletion CFC + On ® products has -DG (thermodynamically favoured)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 6
+Process DG Relevance
+COn sequestration DG calculation guides mineral carbonation feasibility
+n EXAM TIP: DG < 0 ® spontaneous (exergonic); DG > 0 ® non-spontaneous (endergonic); DG = 0 ®
+equilibrium. The NET exam tests the sign analysis when DH and DS have opposite signs.
+4. Chemical Potential
+Chemical Potential (μ) is the partial molar Gibbs free energy: the change in total Gibbs energy of a system
+when one mole of a substance is added, while T, P, and amounts of other components remain constant. It is the
+driving force for chemical reactions and mass transfer.
+Formula: μn = μn° + RT ln(an)
+where μn° = standard chemical potential, an = activity of species i (» concentration for dilute solutions, partial
+pressure for gases), R = gas constant, T = temperature.
+Key Principles:
+• Substances move from regions of HIGH chemical potential to LOW (like water flows downhill).
+• At equilibrium: μ(reactants) = μ(products) for all species.
+• For ideal gases: μ = μ° + RT ln(P/P°) where P is partial pressure.
+• For ideal solutions: μ = μ° + RT ln(c) where c is mole fraction.
+Environmental Application How Chemical Potential Is Used
+Pollutant partitioning Predicts distribution of pollutant between air-water-soil phases
+Osmosis in cells Water moves to higher chemical potential (lower water activity)
+Ion exchange in soil Ions migrate to equalise chemical potential across soil-water interface
+Evaporation of VOCs VOC moves from soil (high μ) to air (low μ) until equilibrium
+Membrane processes RO/UF driven by chemical potential difference across membrane
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 7
+5. Chemical Kinetics
+Chemical Kinetics studies the rate of chemical reactions and the factors controlling them (concentration,
+temperature, catalysts, surface area, light). While thermodynamics tells us IF a reaction will occur, kinetics tells
+us HOW FAST.
+5.1 Rate of Reaction
+Rate = decrease in concentration of reactant (or increase in product) per unit time. Units: mol Ln¹ sn¹. For
+reaction A ® B: Rate = -d[A]/dt = +d[B]/dt
+5.2 Rate Law and Order of Reaction
+For reaction: aA + bB ® products, the rate law is: Rate = k[A]n[B]n
+Order Rate Law Half-life (t½) Units of k Example
+0 Rate = k t½ = [A]n/2k mol Ln¹ sn¹ Enzyme saturation reactions
+1 Rate = k[A] t½ = 0.693/k sn¹ Radioactive decay, first-order pollutant degradation
+2 Rate = k[A]² t½ = 1/(k[A]n) L moln¹ sn¹ NOn dimerisation, ozone reactions
+5.3 Arrhenius Equation – Effect of Temperature
+Arrhenius Equation
+k = A × e^(-En/RT) OR ln k = ln A - En/RT
+where: k = rate constant; A = frequency/pre-exponential factor; En = activation energy (kJ/mol); R = 8.314
+J/mol·K; T = temperature (K)
+Practical rule: Rate » doubles for every 10°C rise (for En ~ 50 kJ/mol)
+5.4 Catalysis
+Type Definition Environmental Example
+Homogeneous Catalyst in same phase as
+reactants
+Hn catalysing ester hydrolysis in water
+Heterogeneous Catalyst in different phase Pt/Pd in catalytic converters (CO®COn)
+Enzyme (Biocatalyst) Biological protein catalyst Microbial degradation of pollutants
+Photocatalysis Light activates catalyst TiOn decomposing organic pollutants in UV
+Autocatalysis Product acts as catalyst Chain reactions in ozone depletion
+5.5 Kinetics in Environmental Processes
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 8
+Process Kinetic Order Environmental Significance
+Radioactive decay First order Predicting fallout, carbon dating, radon accumulation
+BOD exertion First order Stream oxygen sag curve, treatment design
+Ozone photolysis First order (photolysis) Stratospheric ozone depletion rates
+Heavy metal precipitation Second order Metal removal in treatment plants
+Chlorine disinfection Pseudo-first order CT concept for pathogen kill
+Photochemical smog Complex chain NOx–VOC–On reaction chains
+n EXAM TIP: First-order kinetics: plot ln[A] vs t ® straight line with slope = -k. Half-life is constant and
+independent of initial concentration for 1st order. This is the basis of carbon-14 dating and BODn
+calculation.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 9
+6. Chemical Equilibria
+A system reaches chemical equilibrium when the forward and reverse reaction rates are equal and
+concentrations remain constant (though reactions continue). Equilibrium is dynamic, not static.
+6.1 Equilibrium Constant
+For reaction: aA + bB n cC + dD
+Equilibrium Expressions
+Kc = [C]n[D]n / [A]n[B]n (concentration; mol/L)
+Kp = (Pn_C × Pn_D) / (Pn_A × Pn_B) (partial pressures; atm)
+Relationship: Kp = Kc(RT)^Dn where Dn = moles of gas (products - reactants)
+K >> 1: Products favoured (complete reaction) | K << 1: Reactants favoured | K = 1: Roughly equal
+6.2 Le Chatelier's Principle
+When a system at equilibrium is disturbed, it shifts to counteract the disturbance and re-establish equilibrium.
+Disturbance System Response Environmental Example
+Increase [reactant] Shifts forward ® more product Adding lime shifts carbonate equilibrium
+Decrease [product] Shifts forward Precipitation removes Ca²n ® more CaCOn dissolves
+Increase temperature Favours endothermic direction Warmer water holds less COn (exothermic dissolution)
+Increase pressure Favours fewer moles of gas High pressure COn storage in oceans
+Add catalyst No shift; equilibrium reached
+faster
+Enzyme treatment speeds biodegradation
+6.3 Solubility Product (Ksp) & Common Ion Effect
+For a sparingly soluble salt MnXn n nMn + mXn: Ksp = [Mn]n[Xn]n. A lower Ksp means less soluble.
+Common Ion Effect: Adding a common ion suppresses solubility (shifts equilibrium left). Example: Adding
+NanSOn to BaSOn solution ® [SOn²n] increases ® [Ba²n] decreases. Used in water treatment to remove
+heavy metals.
+Salt Ksp (25°C) Relevance
+CaCOn (calcite) 3.3 × 10nn Water hardness, scale formation, ocean chemistry
+BaSOn 1.1 × 10n¹n Gravimetric analysis of sulphate
+PbS 3 × 10n²n Pb immobilisation in contaminated soils
+Cd(OH)n 7.2 × 10n¹n pH control in Cd-contaminated water
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 10
+Salt Ksp (25°C) Relevance
+Fe(OH)n 2.8 × 10n³n Fe precipitation in acid mine drainage
+Al(OH)n 3 × 10n³n Coagulant in water treatment (alum dosing)
+7. Solubility of Gases in Water – Henry's Law
+The dissolution of gases in water is fundamental to aquatic chemistry, oxygen availability for aquatic life, COn
+cycling, and environmental fate of pollutants. Henry's Law (William Henry, 1803) quantifies this.
+Henry's Law
+p = Kn × C OR C = p / Kn
+where: p = partial pressure of gas (atm); C = molar concentration in solution (mol/L); Kn = Henry's law
+constant (atm·L/mol) – specific to each gas and temperature.
+Higher Kn ® gas less soluble in water (e.g., On, Nn have high Kn)
+7.1 Key Factors Affecting Gas Solubility
+Factor Effect on Solubility Environmental Implication
+Temperature ­ DECREASES solubility Thermal pollution ® On depletion ® fish kills
+Pressure ­ INCREASES solubility COn absorbed at ocean depths; deep-sea gas release
+Salinity ­ DECREASES (salting-out) Marine water holds less On than freshwater
+Polarity match Polar gases more soluble NHn, SOn very soluble; On, CHn less soluble
+7.2 Solubility of Key Environmental Gases
+Gas Solubility at 25°C Mechanism Environmental Role
+On 8.3 mg/L (saturation) Physical dissolution Aerobic life, BOD, DO sag
+COn ~1450 mg/L COn + HnO n HnCOn Ocean acidification, pH buffering
+SOn ~110,000 mg/L SOn + HnO ® HnSOn Acid rain formation
+NHn ~480,000 mg/L NHn + HnO n NHnn +
+OHn
+Eutrophication, toxicity at high pH
+HnS ~3800 mg/L HnS n Hn + HSn Anaerobic conditions, odour, toxicity
+CHn ~22 mg/L Physical dissolution Greenhouse gas, anaerobic digestion
+Nn ~14 mg/L Physical dissolution Inert; nitrogen fixation by dissolved Nn
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 11
+n EXAM TIP: Henry's Law is used to calculate Dissolved Oxygen saturation at different temperatures and
+altitudes. DO at 25°C sea level » 8.3 mg/L; at 5°C » 12.8 mg/L. UGC NET asks: why does DO decrease in
+summer? ® Temperature increases ® Henry's Kn increases ® less On dissolves.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 12
+8. The Carbonate System
+The carbonate system is the most important buffering system in natural waters. It governs the pH of oceans,
+rivers, groundwater, and determines the availability of COn for photosynthesis. It involves four species in
+equilibrium.
+8.1 Carbonate Equilibrium Chain
+COn (gas, atmosphere)
+t
+COn (aq) – dissolved carbon dioxide | COn(g) n COn(aq)
+t
+HnCOn – carbonic acid | COn(aq) + HnO n HnCOn [Ka» 10n²·n]
+t
+HCOnn – bicarbonate ion | HnCOn n Hn + HCOnn [Ka1 = 4.3×10nn]
+t
+COn²n – carbonate ion | HCOnn n Hn + COn²n [Ka2 = 4.7×10n¹¹]
+8.2 pH Dominance of Carbonate Species
+pH Range Dominant Species Water Type Example
+< 6.3 COn (aq) / HnCOn Acidic rain, acid mine drainage
+6.3 – 10.3 HCOnn (bicarbonate) Most natural freshwaters (pH 7–8)
+> 10.3 COn²n (carbonate) Soda lakes, over-limed water
+8.3 Alkalinity and Buffering
+Total Alkalinity = HCOnn + 2COn²n + OHn - Hn (in equivalents). Alkalinity resists pH changes (buffers).
+Natural waters with high alkalinity (high HCOnn) are more resistant to acid rain. Alkalinity is expressed in mg/L
+as CaCOn.
+8.4 Ocean Acidification
+Ocean Acidification Mechanism
+Rising atmospheric COn ® more COn dissolves in ocean ® more HnCOn forms ® more Hn released ®
+pH drops. Ocean pH has fallen from 8.2 to 8.1 since industrialisation (a 26% increase in Hn concentration).
+Impact: COn²n concentration decreases ® coral reefs and shell-forming organisms (pteropods, molluscs)
+cannot form CaCOn shells ® bleaching and dissolution.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 13
+n EXAM TIP: The crossover pH points are critical: COn/HCOnn crossover at pH 6.3; HCOnn/COn²n
+crossover at pH 10.3. These are pKa values: pKa1 » 6.3, pKa2 » 10.3. Also: Total carbonate (CT) = [COn] +
+[HCOnn] + [COn²n]. UGC NET asks which species dominates at a given pH.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 14
+9. Unsaturated and Saturated Hydrocarbons
+Hydrocarbons are organic compounds containing only C and H. They are the primary components of fossil fuels
+and many environmental pollutants. Their chemical nature determines environmental persistence, toxicity, and
+fate.
+9.1 Classification Tree of Hydrocarbons
+HYDROCARBONS (contain only C and H)
+SATURATED (Alkanes – only single bonds
+C–C)
+UNSATURATED (one or more multiple bonds
+C=C or CºC)
+Methane CHn Ethane CnHn Propane CnHn
+Formula: CnHnnnn
+Alkenes (C=C): CnHnn Ethylene CnHn
+Alkynes (CºC): CnHnnnn Acetylene CnHn
+Aromatics (benzene ring)
+Property Saturated
+(Alkanes)
+Alkenes Alkynes Aromatics (Benzene)
+General Formula CnHnnnn CnHnn CnHnnnn CnHn (ring)
+Bond Type C-C single only One C=C double One CºC triple Delocalised p ring
+Reactivity Low (substitution) Moderate (addition) High (addition) Moderate (substitution)
+Combustibility High (clean fuel) High Very high Smoky flame (carcinogen)
+Water Solubility Insoluble Insoluble Slight Very slight
+Env. Concern CHn – GHG; LPG
+fuel
+Ethylene – plant
+hormone
+Acetylene – welding
+gas
+PAHs – carcinogenic!
+9.2 Aromatics and PAHs – Environmental Focus
+Polycyclic Aromatic Hydrocarbons (PAHs) contain multiple fused benzene rings. They are produced by
+incomplete combustion and are persistent organic pollutants (POPs) – carcinogenic, mutagenic, and
+bioaccumulative.
+PAH Compound Rings Source Health Effect
+Naphthalene 2 Coal tar, moth balls Eye/skin irritant, haemolytic anaemia
+Anthracene 3 Coal combustion Phototoxic
+Benzo[a]pyrene 5 Cigarette smoke, grilled food, diesel
+exhaust
+Potent carcinogen (IARC Group 1)
+Pyrene 4 Petroleum, vehicle exhaust Indicator PAH for contamination
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 15
+10. Radioisotopes
+Radioisotopes (radioactive isotopes) are atoms of an element with the same atomic number (protons) but
+different mass numbers (different neutrons), whose nuclei are unstable and emit radiation spontaneously. They
+are critical in environmental tracing, nuclear energy, medicine, and hazard assessment.
+10.1 Types of Radioactive Decay
+Decay
+Type
+Particle/Ray Emitted Penetration Shielding Example
+Alpha (a) He nucleus (2p + 2n) Low (cm in air) Paper/skin U-238 ® Th-234; Ra-226 ® Rn-222
+Beta (b) Electron (bn) or Positron
+(bn)
+Medium
+(metres)
+Aluminium
+plate
+C-14 ® N-14; H-3 (tritium)
+Gamma (g) High-energy photon (EM
+radiation)
+Very high (km) Dense
+Pb/concrete
+Co-60; Cs-137
+Neutron (n) Free neutrons Very high Water/concret
+e
+Fission products in reactors
+10.2 Half-Life – The Key Concept
+Radioactive Decay Equation
+N(t) = Nn × e^(-lt) where l = decay constant = 0.693 / t½
+Activity A = lN (in Becquerel: 1 Bq = 1 decay/second)
+t½ = 0.693 / l – time for half the atoms to decay
+This is FIRST-ORDER kinetics – same equation as BOD and chemical decay!
+Radioisotope Half-Life Decay Environmental Significance
+C-14 (Carbon-14) 5730 years bn Archaeological dating; atmospheric tracer
+H-3 (Tritium) 12.3 years bn Groundwater dating; nuclear weapon marker
+Cs-137 30.2 years bn, g Chernobyl/Fukushima fallout; soil tracer
+Sr-90 28.8 years bn Bone-seeking; nuclear weapon fallout
+I-131 8.02 days bn, g Thyroid cancer risk; nuclear accident indicator
+Ra-226 1600 years a Groundwater contamination; radon precursor
+Rn-222 3.82 days a Indoor air pollutant; lung cancer (second leading cause)
+U-238 4.5 × 10n yr a Nuclear fuel; geologic dating; uranium mill tailings
+Pu-239 24,100 years a Nuclear weapon/reactor; long-term waste concern
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 16
+Radioisotope Half-Life Decay Environmental Significance
+Tc-99 2.1 × 10n yr bn Nuclear waste; highly mobile in groundwater
+10.3 Radiation Units
+Unit Measures Definition SI Unit
+Becquerel (Bq) Activity 1 radioactive decay per second Replaces Curie (1 Ci = 3.7×10¹n Bq)
+Gray (Gy) Absorbed dose 1 J of energy absorbed per kg
+tissue
+Replaces Rad (1 Gy = 100 rad)
+Sievert (Sv) Effective dose Gy × radiation weighting factor (Wr) Replaces Rem (1 Sv = 100 rem)
+Roentgen (R) Exposure in air Ionisation of air by X/g rays Legacy unit (not SI)
+10.4 Environmental Applications of Radioisotopes
+Application Radioisotope Used Principle
+Carbon dating C-14 C-14/C-12 ratio decreases after death ® age of organic
+material
+Groundwater age dating H-3 (Tritium), C-14 Tritium peak (1963) marks nuclear bomb tests
+Ocean circulation tracing Cs-137, H-3 Tracks water mass movement after fallout events
+Sediment accumulation rate Pb-210 (t½ = 22yr) Used in lake paleolimnology
+Soil erosion study Cs-137 Compares fallout deposition vs. redistributed amounts
+Industrial process tracing Various g emitters Leakage detection in pipelines
+Food irradiation Co-60, Cs-137 Kills pathogens without radioactive contamination of food
+n EXAM TIP: Radiation weighting factors: a = 20, b = 1, g = 1, neutrons = 5–20. So alpha radiation is most
+biologically harmful per unit dose! Radon (Rn-222) is the main indoor alpha source – decays quickly to
+Po-218, Pb-214 etc. – these lodge in lungs. Second leading cause of lung cancer.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 17
+11. UGC NET Pattern MCQs with Explanations
+Q1. Which scientist first arranged elements by atomic NUMBER rather than atomic mass?
+(a) Mendeleev
+(b) Moseley
+(c) Newlands
+(d) Döbereiner
+4 Answer: (b)
+Explanation: Henry Moseley (1913) showed that atomic number (protons) is the true basis of periodicity, resolving
+anomalies in Mendeleev's table (e.g., Ar before K).
+Q2. The Gibbs free energy change for a reaction is -120 kJ/mol. This indicates the reaction is:
+(a) Non-spontaneous
+(b) At equilibrium
+(c) Spontaneous
+(d) Endothermic
+4 Answer: (c)
+Explanation: DG < 0 always means the reaction is spontaneous (can proceed without external energy). Note:
+spontaneous ¹ fast; kinetics is a separate consideration.
+Q3. According to Henry's Law, the solubility of a gas in water is:
+(a) Directly proportional to temperature
+(b) Directly proportional to partial pressure
+(c) Inversely proportional to partial pressure
+(d) Independent of pressure
+4 Answer: (b)
+Explanation: Henry's Law: C = p/Kn. Concentration (solubility) is directly proportional to the partial pressure of the
+gas above the solution. Temperature DECREASES solubility.
+Q4. The dominant carbonate species in natural river water at pH 7.5 is:
+(a) COn(aq)
+(b) HnCOn
+(c) HCOnn
+(d) COn²n
+4 Answer: (c)
+Explanation: Between pKa1 (6.3) and pKa2 (10.3), bicarbonate (HCOnn) dominates. pH 7.5 falls in this range, so
+HCOnn is the dominant species.
+Q5. Which of the following is a first-order reaction in environmental chemistry?
+(a) Bimolecular collision between NO and On
+(b) Radioactive decay of Carbon-14
+(c) Coagulation of colloidal particles
+(d) Formation of ozone from atomic oxygen
+4 Answer: (b)
+Explanation: Radioactive decay is classically first-order: Rate = lN, and t½ = 0.693/l (constant). BOD exertion and
+pollutant photolysis are also first-order processes.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 18
+Q6. Benzo[a]pyrene is classified as which type of compound?
+(a) Aliphatic hydrocarbon
+(b) Polycyclic Aromatic Hydrocarbon (PAH)
+(c) Alkene
+(d) Chlorofluorocarbon
+4 Answer: (b)
+Explanation: Benzo[a]pyrene has 5 fused benzene rings. It is a PAH produced by incomplete combustion (tobacco,
+grilled food, diesel exhaust) and is classified as IARC Group 1 carcinogen.
+Q7. The half-life of Cs-137 is approximately 30 years. After 90 years, what fraction of the original Cs-137
+remains?
+(a) 1/2
+(b) 1/4
+(c) 1/8
+(d) 1/16
+4 Answer: (c)
+Explanation: 90 years = 3 half-lives. After 1 t½: 1/2; after 2 t½: 1/4; after 3 t½: 1/8. Use N = Nn × (1/2)^(t/t½) = Nn ×
+(1/2)³ = Nn/8.
+Q8. Which of the following increases when temperature increases?
+(a) Dissolved oxygen in water
+(b) Solubility of On
+(c) Biological Oxygen Demand rate
+(d) Henry's constant for On (decreasing solubility)
+4 Answer: (c)
+Explanation: Higher temperature ® faster microbial metabolism ® faster BOD rate. DO and On solubility
+DECREASE with temperature (Henry's Kn increases). Option (d) is true but is stated as a result not an increase in
+solubility.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 19
+12. Assertion–Reason Questions
+Q1. [Assertion–Reason]
+Assertion (A): All reactions with negative DH are spontaneous.
+Reason (R): Spontaneity is determined by DG = DH - TDS, which depends on both enthalpy and entropy.
+(a) Both A and R are true and R is the correct explanation of A (b) Both A and R are true but R is NOT the
+correct explanation (c) A is true but R is false (d) A is false but R is true
+4 Answer: (a)
+Explanation: A is false: Some exothermic (-DH) reactions are non-spontaneous if -TDS is large enough to make DG
+positive. R is true and correctly explains why A is wrong. Select (c): A is false, R is true.
+Q2. [Assertion–Reason]
+Assertion (A): Ocean water absorbs less COn per unit volume as surface temperature increases.
+Reason (R): This is because COn solubility in water decreases with increasing temperature as described
+by Henry's Law.
+(a) Both A and R are true and R is the correct explanation of A (b) Both A and R are true but R is NOT the
+correct explanation (c) A is true but R is false (d) A is false but R is true
+4 Answer: (a)
+Explanation: Both A and R are true. Warmer ocean surface ® Kn(COn) increases ® less COn dissolves. R
+correctly explains A using Henry's Law. Select (a).
+Q3. [Assertion–Reason]
+Assertion (A): Alpha radiation is considered most dangerous when the source is inside the body
+(internally).
+Reason (R): Alpha particles have high penetration power and easily pass through body tissue.
+(a) Both A and R are true and R is the correct explanation of A (b) Both A and R are true but R is NOT the
+correct explanation (c) A is true but R is false (d) A is false but R is true
+4 Answer: (c)
+Explanation: A is true: alpha particles (high LET) cause intense ionisation damage in close proximity. R is FALSE:
+alpha particles have very LOW penetration (stopped by skin) – they are dangerous INTERNALLY (e.g., radon in
+lungs) precisely because they deposit ALL energy locally. Select (c).
+Q4. [Assertion–Reason]
+Assertion (A): The Ksp of CaCOn is exceeded in coastal water when COn increases.
+Reason (R): Increased COn lowers pH, which shifts carbonate equilibrium toward HCOnn and COn,
+reducing COn²n ion concentration.
+(a) Both A and R are true and R is the correct explanation of A (b) Both A and R are true but R is NOT the
+correct explanation (c) A is true but R is false (d) A is false but R is true
+4 Answer: (a)
+Explanation: Both A and R are correct. More COn ® more Hn ® COn²n consumed ® [Ca²n][COn²n] < Ksp ®
+CaCOn dissolves (undersaturation). R correctly explains ocean acidification mechanism. Select (a).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.1 – Fundamentals of Environmental Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.1 Page 20
+13. Master Revision Summary Table
+Concept Key Formula / Value Environmental Relevance UGC NET Focus
+Periodic Law Properties µ f(atomic no.) Predict element behaviour in env. Trends, exceptions,
+classification
+Stoichiometry n = m/M; ThOD =
+MW(On)×n/MW
+Pollution load, treatment dosing BOD calculation, limiting
+reagent
+Gibbs' Energy DG = DH - TDS; DG° = -RT ln
+K
+Spontaneity of env. processes Sign of DG, relation to K
+Chemical Potential μ = μ° + RT ln a Phase distribution of pollutants Concept-based questions
+Kinetics Rate = k[A]n; k =
+A·e^(-En/RT)
+BOD, decay, degradation rates Order, half-life, Arrhenius
+Equilibrium Kc, Kp, Ksp, Le Chatelier pH, solubility, precipitation Ksp, common ion, Le
+Chatelier
+Henry's Law p = KnC; solubility ¯ as T­ DO in water, gas dissolution DO saturation, COn
+oceans
+Carbonate System pKa1=6.3, pKa2=10.3 Water pH buffering, ocean acid. Dominant species at
+given pH
+Hydrocarbons CnHnnnn (alkane); CnHnn
+(alkene)
+Fossil fuels, PAH carcinogens PAH, saturation, benzene
+Radioisotopes N = Nne^(-lt); t½ = 0.693/l Dating, fallout, indoor Rn Half-life calc, decay types,
+units
+n Final Exam Strategy for Topic 2.1
+1. Memorise half-lives of key isotopes (C-14: 5730y; Cs-137: 30y; Rn-222: 3.8d).
+2. Know the carbonate pKa values (6.3 and 10.3) and which species dominates at each pH.
+3. DG sign rules: Negative = spontaneous. Always remember TDS term.
+4. ThOD formula for glucose and other organic molecules.
+5. First-order reactions: radioactive decay, BOD, pollutant photolysis.
+6. PAHs: benzo[a]pyrene is the key carcinogen from combustion.
+7. Henry's Law: increased temperature ® decreased On solubility.
+8. Radiation units: Becquerel (activity), Gray (absorbed dose), Sievert (effective dose).
