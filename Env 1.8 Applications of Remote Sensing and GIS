@@ -1,0 +1,797 @@
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 1
+UGC NET / JRF
+Environmental Sciences
+Subject Code: 89 | Paper II & III
+n Complete JRF-Level Study Notes
+UNIT – I : Fundamentals of Environmental Sciences
+1.7 Applications of Remote Sensing and GIS in Land Cover /
+Land Use Planning,
+Urban Sprawl, Vegetation, Forestry, Natural Resources, Waste
+Management & Climate Change
+n What You Will Learn in This PDF
+n Land Cover vs Land Use — definition, classification systems (NLCMS, LULC)
+n RS+GIS for Land Use Planning and Management — detailed applications
+n Urban Sprawl Detection and Smart City planning using RS and GIS
+n Vegetation Study — NDVI, LAI, biomass estimation, phenology
+n Forestry Applications — forest inventory, deforestation, fire detection
+n Natural Resource Management — water, soil, minerals, fisheries
+n Waste Management — landfill siting, illegal dumping, e-waste zones
+n Climate Change Monitoring — glaciers, sea level, SST, carbon stocks
+n Key indices (NDVI, NDWI, NDBI, NBR, LST), Indian case studies, PYQs
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 2
+INTRODUCTION : THE POWER OF RS AND GIS IN
+ENVIRONMENTAL MANAGEMENT
+Topic 1.7 is the applied counterpart of Topic 1.6. Where 1.6 covered the principles of Remote Sensing
+and GIS, 1.7 covers their applications across all major environmental domains. This is a high-yield topic
+for UGC NET — questions often present a scenario and ask which RS/GIS technique or satellite is most
+appropriate. Understanding WHY each technique is used for each application is the key to scoring.
+Key Spectral Indices — Master Reference (Used Across All
+Applications)
+Index Full Name Formula Primary Use Value
+Range/Threshold
+NDVI Normalized Difference
+Vegetation Index
+(NIR-Red)/(NIR+Red) Vegetation health,
+biomass, drought
+-1 to +1; veg: >0.3;
+dense: >0.6
+NDWI Normalized Difference
+Water Index
+(Green-NIR)/(Green+NI
+R)
+Open water body
+detection, flood mapping
+Water: >0; land: <0
+NDBI Normalized Difference
+Built-up Index
+(SWIR-NIR)/(SWIR+NIR
+)
+Urban built-up area
+mapping
+Built-up: >0;
+vegetation: <0
+NBR Normalized Burn Ratio (NIR-SWIR)/(NIR+SWIR
+)
+Forest fire burn severity
+mapping
+Unburned: >0.1;
+high severity:
+<-0.44
+EVI Enhanced Vegetation
+Index
+2.5×(NIR-Red)/(NIR+6R
+ed-7.5Blue+1)
+Vegetation in
+high-biomass/canopy
+areas
+Improved NDVI;
+less atmospheric
+interference
+LST Land Surface
+Temperature
+Derived from Thermal IR
+band (TIR)
+Urban heat island, fire
+detection, drought
+Expressed in °C or
+K; UHI: city 3–8°C >
+rural
+MNDW
+I
+Modified NDWI (Green-SWIR)/(Green+S
+WIR)
+Better water body
+mapping in urban areas
+Suppresses built-up
+noise better than
+NDWI
+SAVI Soil-Adjusted Vegetation
+Index
+(NIR-Red)/(NIR+Red+L)
+×(1+L)
+Vegetation in sparse/arid
+areas (soil correction)
+L=0.5 (standard).
+Better than NDVI in
+sparse veg
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 3
+SECTION A : LAND COVER / LAND USE PLANNING AND
+MANAGEMENT
+A.1 Land Cover vs Land Use — Critical Distinction
+Feature Land Cover Land Use
+Definition Physical material on the Earth's
+surface — what is actually THERE
+Human activity on the land — how it is USED by people
+Determined by Remote sensing (satellite imagery)
+— direct observation
+Ground survey + RS + socioeconomic data
+Examples Forest, grassland, water body, bare
+soil, snow, urban
+Agriculture, residential, industrial, protected area,
+mining
+Change drivers Natural processes: fire, flood,
+drought, climate change
+Human decisions: policy, economics, population growth
+Map scale Detectable at any scale from RS Requires fine scale with socioeconomic overlay
+Key product Land Cover Map (e.g., India:
+NLCMS at 1:50,000)
+Land Use Plan (e.g., Master Plan, Regional Plan)
+A.2 Land Cover Classification Systems Used in India
+n National Land Cover Mapping System (NLCMS):
+ISRO/NRSC developed a National Land Cover Map of India using IRS Resourcesat imagery at
+1:50,000 scale. Covers entire India with 18 Level-I and 50 Level-II classes. Updated every 2 years.
+Used for national planning.
+n National Land Use Land Cover (LULC) Mapping — SAC, Ahmedabad:
+Space Applications Centre (SAC) produces LULC maps at 1:250,000 scale using IRS data. Classifies
+into: Agricultural land, Forest, Wasteland, Water bodies, Built-up land, Pasture/Grassland, Barren land.
+n Wasteland Atlas of India:
+NRSC produces Wasteland Atlas — maps degraded, unused and underutilised land. Identifies: ravines,
+gullied land, salt-affected, waterlogged, mining/industrial wastelands. Used for land reclamation
+planning.
+n National Wetland Atlas:
+ISRO/SAC maps all wetlands of India (lakes, ponds, rivers, coastal wetlands) using IRS data. Identifies
+Ramsar sites, wetland health, change over time.
+n CORINE Land Cover (European):
+Coordination of Information on the Environment — EU land cover mapping system. 44 classes at
+1:100,000 scale using Sentinel-2. Template for many national systems.
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 4
+A.3 RS+GIS Applications in Land Use Planning
+n Change Detection — Monitoring LULC Transitions:
+Multi-date satellite imagery classifies land cover at two or more time points. GIS overlay identifies pixels
+that changed class. Transition matrices show how much forest converted to agriculture, or agriculture to
+built-up. Example: India lost 15% of its forest cover between 1990–2015 (tracked by NRSC biennial
+reports). Critical for EIA baseline studies.
+n Agricultural Land Use Planning:
+LULC maps identify available agricultural land, irrigated vs rainfed areas, fallow land and
+encroachments. GIS overlay with soil maps, groundwater maps and agro-climatic zones helps plan
+optimal cropping zones. India's National Agricultural Land Use Policy uses RS/GIS data.
+n Master Plan / Town Planning:
+Urban planners use RS-derived LULC maps as base maps for Master Plans. GIS analysis identifies
+developable land, green spaces, water bodies, heritage zones and hazard zones. Helps zone areas for
+residential, commercial, industrial, recreational use.
+n Encroachment Detection:
+Comparing current satellite imagery with authorised land use plans identifies illegal encroachments on
+forest land, riverbanks, coastal zones and public land. Used by courts and government for enforcement.
+n Eco-Sensitive Zone Delineation:
+Buffers around protected areas are mapped using GIS. Land use within buffers is assessed from RS
+imagery. Activities incompatible with conservation (mining, industries, resorts) are identified for
+regulation.
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 5
+SECTION B : URBAN SPRAWL DETECTION AND URBAN
+MANAGEMENT
+Urban sprawl refers to the uncontrolled, rapid and low-density expansion of urban areas into surrounding
+rural and natural land. It is driven by population growth, rural-urban migration, industrialisation and poor
+land use planning. RS and GIS are the primary tools for detecting, monitoring and managing urban sprawl.
+B.1 RS Techniques for Urban Mapping
+n Built-up Index (NDBI):
+NDBI = (SWIR - NIR) / (SWIR + NIR). Positive values indicate built-up areas. SWIR band is strongly
+reflected by concrete, asphalt and metal roofs. Used to map urban extent and monitor annual
+expansion.
+n Urban Index (UI):
+UI = (SWIR - NIR) / (SWIR + NIR). Variant of NDBI. High values in densely built-up areas; negative in
+vegetated areas.
+n Land Surface Temperature (LST):
+Derived from Thermal Infrared (TIR) band of LANDSAT/MODIS. Urban areas have significantly higher
+LST than vegetated surroundings (Urban Heat Island = UHI effect). LST maps identify heat-stressed
+zones within cities — critical for public health and urban greening planning.
+n Impervious Surface Mapping:
+Impervious surfaces (roads, buildings, parking lots) prevent water infiltration. RS classifies impervious
+vs pervious (vegetated, soil) surfaces. Higher impervious surface % ® more runoff ® flooding ® water
+stress. Used for stormwater management planning.
+n Night-time Light (NTL) Imagery:
+VIIRS/DMSP satellite sensors detect artificial light at night. NTL data tracks urban growth, economic
+activity, electrification and informal settlements. India's electrification progress tracked through NTL.
+n High Resolution Imagery:
+Cartosat-3 (0.25m), WorldView-3 (0.3m) provide building-level mapping. Used for slum identification,
+infrastructure assessment, property tax mapping and Smart City planning.
+B.2 GIS Applications for Urban Planning and Sprawl
+Management
+GIS Application Purpose Example
+Urban Growth Boundary
+Delineation
+Define legal limits of urban
+expansion to prevent encroachment
+on farmland/forest
+Delhi's Master Plan 2041; Bengaluru's Urban
+Development Authority boundary
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 6
+Sprawl Metrics
+(Shannon's Entropy)
+Quantify degree of sprawl:
+Shannon's Entropy H = -S
+Pi×ln(Pi). High H = dispersed
+sprawl; Low H = compact city
+Hyderabad urban sprawl analysis; Mumbai
+Metropolitan Region growth
+Traffic and Transport
+Network Analysis
+Optimise road networks, public
+transport routes, traffic signal
+timing, pedestrian paths using
+network GIS
+Metro rail route planning; BRT corridor design;
+intersection analysis
+Green Space Analysis Map parks, trees, green roofs;
+calculate green cover per capita;
+identify green space deficient zones
+NDVI-based tree canopy mapping in Indian
+cities; WHO recommends 9 m²/person
+Flood Risk in Urban
+Areas
+DEM + impervious surface +
+drainage network ® identify
+flood-prone areas; design
+stormwater drainage
+Mumbai flood zone mapping; Chennai flood
+2015 post-analysis
+Smart City Dashboard Real-time GIS dashboards
+integrating RS, IoT sensors,
+census, traffic — for city
+management
+India's 100 Smart Cities Mission uses GIS-based
+Integrated Command and Control Centres
+Property Tax Mapping
+(GIS-based)
+High-res imagery identifies
+buildings; GIS links to property
+records; improves tax assessment
+and revenue
+NRSC-supported urban cadastral mapping in
+many Indian municipalities
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 7
+SECTION C : VEGETATION STUDY
+Vegetation monitoring is the most widely used application of remote sensing. Plants have unique spectral
+signatures — they absorb red light for photosynthesis and strongly reflect NIR radiation (due to leaf cell
+structure). This spectral contrast forms the basis of all vegetation indices.
+C.1 Vegetation Parameters Measured by RS
+Parameter What it measures RS Method Application
+NDVI Photosynthetic activity;
+greenness; vegetation
+density
+(NIR-Red)/(NIR+Red)
+from multispectral
+imagery
+Crop monitoring, drought,
+deforestation, phenology
+Leaf Area Index
+(LAI)
+Total leaf area per unit
+ground area; indicator of
+canopy density
+Empirical models from
+NDVI; MODIS LAI
+product
+Crop yield modelling; forest
+productivity; carbon flux
+Fractional
+Vegetation Cover
+(FVC)
+% of ground covered by
+vegetation canopy
+NDVI-based linear
+unmixing; MODIS FVC
+product
+Desertification monitoring; soil
+erosion risk
+Biomass
+Estimation
+Amount of organic matter
+(above-ground) per unit
+area
+Allometric models +
+NDVI/LAI; LiDAR canopy
+height
+Carbon stock estimation;
+deforestation impact
+Vegetation
+Phenology
+Seasonal timing of plant
+growth stages (greenup,
+peak, senescence)
+Time-series NDVI from
+MODIS (8-day
+composites)
+Crop calendar; climate change
+impact on seasons
+Plant Stress
+Detection
+Disease, drought,
+nutrient deficiency, pest
+infestation
+Hyperspectral imagery;
+red edge analysis;
+thermal stress
+Precision agriculture; early warning
+for crop failure
+Species
+Identification
+Distinguishing tree/plant
+species based on
+spectral signature
+Hyperspectral (100s of
+bands); machine learning
+classification
+Invasive species mapping;
+biodiversity assessment
+C.2 Vegetation Monitoring Applications — India Focus
+n Crop Area and Production Estimation (FASAL Project):
+FASAL (Forecasting Agricultural output using Space, Agro-meteorology and Land based observations)
+is India's operational crop forecasting system by MNCFC (Ministry of Agriculture). Uses IRS AWiFS
+(56m), Sentinel-2 (10m) NDVI data to forecast wheat, rice, cotton and other crop areas at district level
+— 3 forecasts before harvest. Accuracy: within 5% of actual production.
+n Desertification and Land Degradation Atlas:
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 8
+ISRO/SAC used IRS data + NDVI trend analysis to map India's desertification extent. Declining NDVI
+trend over years = vegetation degradation = desertification indicator. India: ~97 million ha under
+degradation (2019).
+n Invasive Species Mapping:
+Lantana camara (a major forest invasive) mapped in Rajaji Tiger Reserve using hyperspectral data —
+its unique spectral signature distinguishes it from native vegetation. Prosopis juliflora (mesquite)
+mapped in semi-arid areas of Rajasthan and Gujarat using NDVI anomaly.
+n Grassland and Pasture Monitoring:
+Grassland NDVI time series from MODIS tracks forage availability. Useful for nomadic pastoralists,
+wildlife managers and drought early warning in Rajasthan, Gujarat, Himalayan alpine meadows.
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 9
+SECTION D : FORESTRY APPLICATIONS
+Forestry is one of the earliest and most mature application domains of remote sensing. India's Forest
+Survey of India (FSI) has been using satellite data since the 1980s to produce its biennial 'State of Forest
+Report' (SFR).
+D.1 Forest Inventory and Mapping
+n Forest Cover Mapping:
+Multispectral classification of IRS Resourcesat-2 LISS-III (23.5m) imagery into forest classes: Very
+Dense Forest (VDF, canopy density >70%), Moderately Dense Forest (MDF, 40–70%), Open Forest
+(OF, 10–40%) and Scrub (<10%). India's total forest cover (2021): 7,13,789 km² = 21.71% of
+geographical area. This is from FSI's biennial State of Forest Report.
+n Forest Type Mapping:
+Distinguish tropical wet evergreen, tropical dry deciduous, temperate coniferous, mangroves,
+grasslands etc. using seasonal multi-date imagery (deciduous forests lose leaves in dry season —
+detectable by NDVI drop). Champion and Seth's forest type classification used as reference.
+n Above-Ground Biomass (AGB) Estimation:
+LiDAR-derived canopy height + allometric equations ® biomass. ALOS PALSAR (L-band SAR) also
+sensitive to forest biomass. Critical for REDD+ (Reducing Emissions from Deforestation and forest
+Degradation) — countries earn carbon credits by proving forest carbon stocks.
+n Forest Fragmentation Analysis:
+GIS spatial metrics (patch size, edge density, connectivity) quantify how forests are being fragmented
+by roads, agriculture, settlements. Fragmentation reduces wildlife corridors and increases edge effects.
+Used for wildlife corridor planning and protected area management.
+n Growing Stock Volume Estimation:
+Combination of field-measured tree diameters (DBH), heights and RS-derived parameters (canopy
+cover, NDVI) estimate timber volume. Used by State Forest Departments for sustainable harvest
+planning.
+D.2 Deforestation and Degradation Monitoring
+n Deforestation Detection:
+Annual or seasonal comparison of classified forest maps detects areas converted to non-forest. Hansen
+et al. Global Forest Watch uses LANDSAT to map deforestation globally at 30m resolution — annual
+updates, freely available. India-specific: NRSC monitors forest cover change for each state.
+n REDD+ (Reducing Emissions from Deforestation and Forest Degradation):
+UN REDD+ programme uses RS+GIS to establish reference emission levels and measure forest
+carbon. Countries receive payments for verified forest carbon conservation. India has submitted Forest
+Reference Emission Level (FREL) to UNFCCC based on RS data.
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 10
+n Encroachment Detection in Forest Areas:
+High-resolution imagery (Cartosat-2/3, Google Earth) compared with legal forest boundary (GIS data)
+identifies encroachments. Used by Forest Departments and courts as evidence.
+n Illegal Logging Detection:
+Sudden NDVI decline in small patches without official clearance indicates illegal logging. SAR
+(Sentinel-1) can detect canopy gaps even under cloud cover — critical in tropical regions.
+D.3 Forest Fire Detection and Management
+n Active Fire Detection:
+MODIS Terra/Aqua satellites detect active fires globally using thermal bands (3.9 mm and 11 mm). Fires
+emit strongly at these wavelengths. MODIS provides near-real-time fire alerts (4 times/day with
+Terra+Aqua). SNPP VIIRS: 375m resolution — more accurate for small fires. India: Forest Survey of
+India and NRSC maintain fire alert portals.
+n Burn Severity Mapping (NBR):
+NBR = (NIR - SWIR)/(NIR + SWIR). Pre-fire minus post-fire NBR = dNBR. dNBR > 0.66: high severity;
+0.44–0.66: moderate-high; 0.1–0.44: low; <0.1: unburned. USGS fire severity classification. Used for
+post-fire rehabilitation planning.
+n Fire Risk/Susceptibility Mapping:
+GIS integration of: dry fuel load (NDVI), slope, aspect, wind direction, road proximity (ignition risk), land
+cover ® fire risk zones. Helps pre-position fire-fighting resources.
+n Post-Fire Recovery Monitoring:
+Time-series NDVI tracks vegetation recovery after fire. Recovery rates differ by vegetation type and fire
+severity. Provides data for replanting plans and insurance claims.
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 11
+SECTION E : NATURAL RESOURCE MANAGEMENT
+E.1 Water Resource Management
+Application RS Technique GIS Analysis Satellite/Tool
+Surface Water
+Body Mapping
+NDWI =
+(Green-NIR)/(Green+NIR);
+MNDWI for urban. Positive
+values = water. All water pixels
+extracted.
+Area calculation per water
+body; seasonal change;
+reservoir storage volume
+using DEM
+LANDSAT, Sentinel-2, IRS
+Flood Mapping &
+Monitoring
+SAR (Sentinel-1) maps flood
+extent through clouds and at
+night. Water appears dark in
+SAR (low backscatter).
+MODIS/VIIRS for large-scale
+daily monitoring.
+Flood area, affected villages,
+crop loss, evacuation routes;
+DEM + flood depth ®
+inundation model
+Sentinel-1 SAR, MODIS,
+VIIRS, RISAT
+Watershed
+Delineation
+DEM from SRTM (90m), ASTER
+(30m) or Cartosat (30m) ® flow
+direction, flow accumulation ®
+watershed boundary
+Sub-watershed delineation;
+drainage network; stream
+order; runoff modelling
+(SCS-CN)
+SRTM DEM, ASTER
+GDEM, Cartosat DEM
+Groundwater
+Prospecting
+Lineament mapping
+(faults/fractures from radar);
+vegetation stress (NDVI); land
+cover (recharge zones)
+Weighted overlay of:
+geology, slope, soil,
+drainage, lineaments ®
+groundwater potential zones
+LANDSAT (lineaments),
+IRS, DEM
+Irrigation
+Monitoring
+NDVI in non-monsoon season
+® irrigated crops (green) vs
+rainfed (dry/brown). Irrigation
+maps from AWiFS.
+District-wise irrigated area;
+canal command area
+efficiency; waterlogging
+detection
+IRS AWiFS, Sentinel-2
+Glacier Monitoring Glacier boundary from optical +
+SAR; glacier velocity from
+InSAR; snow cover from NDSI=(
+Green-SWIR)/(Green+SWIR)
+Glacier area change over
+time; glacier lake outburst
+flood (GLOF) risk
+assessment
+LANDSAT, Sentinel-1
+InSAR, MODIS
+E.2 Soil and Land Degradation Assessment
+n Soil Erosion Mapping:
+Erosion hotspots identified by RS indicators: bare soil exposure (low NDVI, high SWIR reflectance),
+gully formation (visible in high-res imagery), rill patterns. RUSLE (Revised Universal Soil Loss Equation)
+model uses GIS layers: rainfall erosivity (R), soil erodibility (K), slope-length (LS), cover management (C
+from NDVI), support practice (P). India: ICAR-NBSS&LUP; maps soil erosion at national scale.
+n Desertification Monitoring:
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 12
+Long-term NDVI decline + vegetation cover decrease + surface albedo increase = desertification
+indicators. MODIS 16-year NDVI time series tracks desertification progress in Rajasthan, Gujarat, parts
+of AP. UNCCD (UN Convention to Combat Desertification) uses RS for Land Degradation Neutrality
+(LDN).
+n Waterlogging and Salinity Detection:
+Waterlogged areas appear bright in SAR; SWIR bands sensitive to soil salinity (salt crusts have
+distinctive reflectance). IRS imagery used to map waterlogged areas in canal commands of
+Punjab/Haryana. Saline soils mapped using SWIR–NIR ratio.
+n Land Degradation Neutrality (LDN):
+SDG 15.3.1 indicator — uses RS-derived metrics: land cover change, NDVI-based soil organic carbon
+change, and land productivity. Countries monitor progress toward zero net land degradation by 2030.
+E.3 Marine and Fisheries Resource Management
+n Potential Fishing Zone (PFZ) Advisories:
+INCOIS (Indian National Centre for Ocean Information Services) uses Ocean Colour (chlorophyll-a
+concentration) from MODIS-Aqua/OCEANSAT-3 and Sea Surface Temperature (SST) from
+AVHRR/MODIS to identify zones of high fish aggregation. Daily PFZ advisories issued to fishermen —
+reduces search time, saves fuel, increases catch. Covers India's entire EEZ.
+n Coral Reef Monitoring:
+Multispectral imagery distinguishes healthy coral (high reflectance in blue-green), bleached coral and
+algae-covered reef. WorldView-3, Sentinel-2 used for Lakshadweep and Andaman reefs. Temperature
+threshold from NOAA Coral Reef Watch — bleaching when SST exceeds Degree Heating Weeks
+(DHW) threshold.
+n Mangrove Mapping:
+Mangroves have unique spectral signatures: high NIR reflectance, low red reflectance. Classified using
+Resourcesat-2 LISS-IV (5.8m). India's mangrove cover (FSI 2021): 4,992 km² (increased by 17 km²
+since 2019). GIS overlays mangrove patches with coastal development plans.
+n Sea Surface Temperature (SST) Mapping:
+AVHRR (Advanced Very High Resolution Radiometer) and MODIS thermal bands map global SST.
+ENSO monitoring (El Niño/La Niña); Indian Ocean Dipole; upwelling zones; cyclone intensity prediction
+(warm SST fuels cyclones).
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 13
+SECTION F : WASTE MANAGEMENT APPLICATIONS
+While waste management is often considered a ground-level activity, RS and GIS provide powerful tools
+for planning, siting, monitoring and regulating waste facilities. This is an emerging application area
+increasingly tested in UGC NET.
+F.1 RS and GIS in Solid Waste Management
+n Landfill Site Selection using GIS:
+GIS multi-criteria analysis identifies optimal landfill locations by integrating: land use (avoid
+agriculture/forest/residential), soil permeability (avoid high permeability near aquifers), slope (<5%
+preferred), distance from settlements (>500m), distance from roads (<2km for accessibility),
+groundwater depth, wind direction (away from population). Weighted overlay of all criteria ® suitability
+map. Used in most Indian cities under Swachh Bharat Mission.
+n Monitoring Existing Landfills:
+High-resolution satellite imagery monitors landfill area extent over time. Thermal infrared detects heat
+from decomposing waste (methane generation). NDVI decline around landfills indicates leachate
+contamination of vegetation. SAR can detect surface subsidence and methane gas emissions.
+n Illegal Dumping Detection:
+Change detection using high-resolution imagery (before/after) identifies new waste dumps in
+unauthorised locations. Spectral signatures of fresh waste (white/grey on imagery) distinguished from
+soil and vegetation. GPS coordinates provided to enforcement agencies.
+n Waste Generation Estimation:
+GIS overlay of population density, income levels, commercial activity with empirical per-capita waste
+generation rates ® spatial waste generation model for city planning. Helps design optimal collection
+routes and transfer station locations.
+n Collection Route Optimisation:
+GIS network analysis optimises waste collection vehicle routes — minimises distance, avoids
+bottlenecks, maximises coverage. Used in smart waste management systems with IoT bin sensors.
+n E-Waste Zone Identification:
+GIS mapping of industrial clusters, electronics markets, repair shops and informal e-waste recycling
+areas. Buffer analysis identifies residential exposure zones. Used for e-waste collection drive planning
+and health impact assessment.
+n Bio-Medical Waste Management:
+GIS maps healthcare facilities, their waste generation and proximity to common bio-medical waste
+treatment facilities (CBWTFs). Identifies under-served areas requiring new CBWTFs. Enforced under
+Bio-Medical Waste Management Rules, 2016.
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 14
+SECTION G : CLIMATE CHANGE MONITORING AND
+ASSESSMENT
+Climate change is the most critical environmental challenge of our time. RS and GIS are indispensable
+tools for monitoring its indicators, quantifying its impacts and supporting adaptation and mitigation
+strategies. Satellite observations provide the only consistent, global, long-term record of Earth system
+change.
+G.1 Climate Change Indicators Monitored by RS
+Indicator RS Method Key Satellite Observed Trend
+Glacier Retreat Optical classification; InSAR
+for velocity; LiDAR for mass
+balance; NDSI for snow
+cover
+LANDSAT (long
+archive),
+Sentinel-1/2, CryoSat
+Himalayan glaciers losing ~0.3–0.7 m
+water equivalent/year; global glacier
+mass loss accelerating
+Sea Ice Extent Passive microwave detects
+sea ice concentration
+through clouds; SAR for ice
+type
+SSMI, AMSR2
+(passive microwave),
+Sentinel-1
+Arctic sea ice minimum extent
+declining ~13%/decade; first ice-free
+Arctic summer projected before 2040
+Sea Level Rise Radar altimetry measures
+sea surface height precisely
+to cm accuracy
+TOPEX/Poseidon,
+Jason-1/2/3,
+Sentinel-6
+Global sea level rising ~3.7 mm/year
+(accelerating). Total rise since 1993:
+~10 cm
+Ocean
+Temperature
+(SST)
+Thermal infrared +
+microwave radiometers
+measure SST globally
+AVHRR, MODIS,
+AMSR2
+Global SST rising; coral bleaching;
+ENSO intensification; cyclone
+intensification
+Carbon Stock
+(Forests)
+LiDAR (canopy height), SAR
+(ALOS PALSAR —
+biomass), NDVI trends
+GEDI (NASA LiDAR),
+ALOS-2 PALSAR
+Tropical deforestation releases ~4.8
+Gt COn/year. REDD+ payments
+based on verified carbon stocks
+Land Surface
+Temperature
+(LST)
+Thermal bands map surface
+temperature; urban heat
+island detection
+LANDSAT TIR,
+MODIS LST product
+Global LST trend +0.5–1.0°C since
+1979; extreme heat events more
+frequent and intense
+Vegetation
+Greenness (NDVI
+Trends)
+Long-term NDVI time series
+from AVHRR/MODIS detects
+greening/browning
+AVHRR (since 1981),
+MODIS (since 2000)
+Global 'greening' in some areas (COn
+fertilisation, Arctic tundra); browning in
+semi-arid regions (drought)
+Permafrost Thaw InSAR measures ground
+subsidence from permafrost
+thaw; LST trends in Arctic
+Sentinel-1 InSAR,
+ALOS-2
+Arctic permafrost thawing releases
+stored methane (CHn) — positive
+feedback accelerating warming
+Ocean
+Acidification
+Ocean colour satellites
+measure phytoplankton
+abundance (affected by pH
+changes)
+MODIS-Aqua,
+OCEANSAT-3 (India)
+Ocean pH fallen from 8.2 to 8.1 since
+industrial revolution (30% more
+acidic). Threatens calcifying
+organisms
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 15
+G.2 RS+GIS for Climate Change Adaptation and Mitigation
+n Carbon Sequestration Monitoring:
+RS-derived forest biomass (LiDAR + SAR + optical) estimates carbon stored. Annual forest cover
+change × carbon density = carbon flux. India's forest carbon stock estimated at 7,204 million tonnes
+COn equivalent (FSI 2021). This supports India's NDC target of creating additional carbon sink of 2.5–3
+billion tonnes.
+n Renewable Energy Site Assessment:
+Solar irradiance maps (from MODIS/NASA POWER) + cloud cover frequency ® solar energy potential
+maps. Wind speed maps (from scatterometer data) ® wind energy potential. GIS overlay with land use,
+grid proximity, slope ® optimal site selection. MNRE uses RS/GIS for India's 500 GW renewable
+energy target siting.
+n Extreme Event Monitoring:
+Cyclone tracking (INSAT meteorological satellites), flood mapping (Sentinel-1 SAR), drought monitoring
+(NDVI + LST + rainfall anomaly), heatwave mapping (LST from LANDSAT/MODIS). Early warning
+systems save lives and property.
+n Coastal Vulnerability Assessment:
+RS maps: shoreline change (multi-date high-res imagery), coastal land use, elevation (LiDAR/DEM),
+mangrove cover. GIS overlay ® Coastal Vulnerability Index (CVI). Identifies coasts at high risk from sea
+level rise and storm surge. India: NIOT maps coastal vulnerability for all districts.
+n Urban Heat Island Mitigation Planning:
+LST maps identify hot spots in cities. NDVI shows green cover deficiency. GIS analysis links LST to
+land cover type — helps prioritise urban greening, cool roofs, reflective pavements, water bodies to
+reduce UHI intensity.
+n Climate-Smart Agriculture:
+RS monitoring of crop stress, drought, rainfall anomalies ® early warnings for farmers. GIS models
+climate scenarios + soil suitability ® recommend climate-resilient crops and varieties. ICAR uses
+RS/GIS for National Innovations in Climate Resilient Agriculture (NICRA).
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 16
+SECTION H : EXAM STRATEGY AND PRACTICE QUESTIONS
+H.1 Quick-Fire Application Reference
+Application Key RS/GIS Method + Satellite
+Vegetation health monitoring NDVI = (NIR-Red)/(NIR+Red). MODIS 8-day composites. Healthy: >0.6; stressed:
+0.2–0.4; bare soil: <0.1
+Forest cover mapping (India) IRS Resourcesat-2 LISS-III (23.5m). VDF(>70%), MDF(40–70%), OF(10–40%). FSI
+biennial State of Forest Report.
+Active fire detection MODIS thermal bands (3.9mm + 11mm). 4 observations/day. VIIRS (375m) for small
+fires. Near-real-time alerts.
+Burn severity NBR = (NIR-SWIR)/(NIR+SWIR). dNBR (pre-post fire). High severity: dNBR > 0.66.
+Urban built-up mapping NDBI = (SWIR-NIR)/(SWIR+NIR). Positive = built-up. Cartosat-3 (0.25m) for
+detailed urban mapping.
+Urban Heat Island LST from LANDSAT TIR or MODIS. Cities 3–8°C warmer than surroundings. Used
+for urban greening planning.
+Flood mapping Sentinel-1 SAR — all-weather, day/night. Water = low backscatter (dark). GIS
+overlay with population/infrastructure ® impact.
+Water body detection NDWI = (Green-NIR)/(Green+NIR). >0 = water. MNDWI =
+(Green-SWIR)/(Green+SWIR) better in urban areas.
+Groundwater potential GIS weighted overlay: geology + lineaments (fractures from RS) + soil + slope +
+drainage ® groundwater potential zones.
+Glacier monitoring NDSI = (Green-SWIR)/(Green+SWIR) for snow cover. InSAR for velocity. LANDSAT
+long-term archive (1972-present).
+Sea level rise Radar altimetry: Jason-3, Sentinel-6. ~3.7 mm/year rise. TOPEX/Poseidon data
+since 1992.
+Fishing zone advisory INCOIS uses chlorophyll-a (ocean colour) + SST from MODIS-Aqua/OCEANSAT-3.
+Daily PFZ advisories.
+Crop monitoring (India) FASAL project: IRS AWiFS (56m) + Sentinel-2. NDVI time series for
+wheat/rice/cotton forecasting.
+Landfill siting GIS multi-criteria analysis: land use + slope + soil + groundwater + wind direction +
+distance. Weighted overlay.
+Carbon stock/REDD+ GEDI LiDAR (canopy height) + ALOS PALSAR (biomass). India forest carbon: 7,204
+Mt COn eq. (FSI 2021).
+Deforestation detection Global Forest Watch: LANDSAT 30m annual updates. Hansen et al. India: NRSC
+biennial forest cover change maps.
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 17
+Mangrove mapping IRS LISS-IV (5.8m). India mangrove: 4,992 km² (FSI 2021). High NIR, low Red
+reflectance = mangrove spectral signature.
+Soil erosion modelling RUSLE in GIS: R (rainfall) × K (soil) × LS (slope-length) × C (NDVI-derived cover) ×
+P (practice) = soil loss (t/ha/yr).
+H.2 Practice Questions (UGC NET / JRF Pattern)
+[MCQ] Which spectral index is most appropriate for detecting open water bodies?
+(a) NDVI (b) NDBI (c) NDWI (d) NBR
+3 Answer: (c) NDWI = (Green-NIR)/(Green+NIR). Positive values indicate water. NDVI detects vegetation;
+NDBI detects built-up; NBR detects burn severity.
+[MCQ] MODIS satellite detects active forest fires using which wavelength?
+(a) Visible (0.5 mm) (b) NIR (0.8 mm) (c) Thermal IR (~3.9 mm and 11 mm) (d) Microwave
+3 Answer: (c) Fires emit strongly at thermal wavelengths (~3.9 mm and 11 mm). MODIS provides fire alerts 4
+times/day. VIIRS (375m) is even more accurate.
+[MCQ] The Normalized Burn Ratio (NBR) uses which two bands?
+(a) Red and NIR (b) NIR and SWIR (c) Green and NIR (d) Blue and SWIR
+3 Answer: (b) NBR = (NIR - SWIR) / (NIR + SWIR). High NIR = healthy vegetation; high SWIR =
+burned/bare. dNBR (pre-post fire) measures burn severity.
+[MCQ] India's FASAL project uses remote sensing for:
+(a) Flood mapping (b) Forest fire detection (c) Crop area and production forecasting (d) Glacier monitoring
+3 Answer: (c) FASAL = Forecasting Agricultural output using Space, Agro-meteorology and Land based
+observations. Uses IRS AWiFS and Sentinel-2 NDVI for crop forecasting before harvest.
+[MCQ] Which satellite data is used for sea level rise monitoring?
+(a) MODIS (optical) (b) LANDSAT (multispectral) (c) Jason-3/Sentinel-6 (radar altimetry) (d) Cartosat
+(panchromatic)
+3 Answer: (c) Radar altimetry measures sea surface height to centimetre accuracy. Jason series
+(1992–present) shows ~3.7 mm/year rise. Sentinel-6 is the latest altimetry satellite.
+[MCQ] Shannon's Entropy in GIS is used to measure:
+(a) Forest biomass (b) Degree of urban sprawl (c) Soil salinity (d) Glacier retreat rate
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 18
+3 Answer: (b) Shannon's Entropy H = -S Pi×ln(Pi) quantifies urban sprawl pattern. High H =
+dispersed/sprawling city; Low H = compact city. Used in urban growth analysis.
+[MCQ] INCOIS uses ocean colour data primarily for:
+(a) Coral bleaching mapping (b) Sea level measurement (c) Potential Fishing Zone (PFZ) advisory (d)
+Tsunami prediction
+3 Answer: (c) INCOIS issues daily PFZ advisories to Indian fishermen using chlorophyll-a (from
+MODIS-Aqua/OCEANSAT) and SST. Reduces search time and fuel costs.
+[MCQ] Which model uses GIS layers including rainfall erosivity (R), soil erodibility (K),
+slope-length (LS), cover (C) and practice (P) to estimate soil loss?
+(a) SWAT model (b) RUSLE (Revised Universal Soil Loss Equation) (c) Streeter-Phelps (d) SCS-CN model
+3 Answer: (b) RUSLE: Soil loss = R × K × LS × C × P. C factor derived from NDVI (satellite data). GIS
+integrates all layers. Output: tonnes of soil lost per hectare per year.
+[MCQ] The difference between Land Cover and Land Use is that:
+(a) Land cover is measured in the field; land use by satellite (b) Land cover is what physically exists; land use
+is how humans use it (c) They are the same thing (d) Land use is measurable by RS; land cover requires field
+surveys
+3 Answer: (b) Land cover = physical surface (forest, water, bare soil). Land use = human activity
+(agriculture, residential, conservation). Same area can have forest cover but conservation land use.
+[MCQ] GIS multi-criteria weighted overlay is used in waste management for:
+(a) Tracking individual waste vehicles (b) Landfill site selection (c) Measuring methane emissions (d) Sorting
+recyclable materials
+3 Answer: (b) Landfill siting uses weighted overlay of: land use, slope, soil type, groundwater depth, wind
+direction, distance from settlements and roads to identify the most suitable location.
+UGC NET Environmental Sciences (Code 89) | Unit I – 1.7 | Page 19
+SECTION I : MASTER REVISION SUMMARY
+Domain Key RS+GIS Applications and Facts for JRF
+Key Indices NDVI=(NIR-R)/(NIR+R) [veg]. NDWI=(G-NIR)/(G+NIR) [water].
+NDBI=(SWIR-NIR)/(SWIR+NIR) [built-up]. NBR=(NIR-SWIR)/(NIR+SWIR) [fire]. LST
+[thermal, UHI]. EVI [improved veg]. SAVI [sparse veg]. NDSI [snow].
+Land Cover/
+Land Use
+Land cover = what exists (RS detectable). Land use = human activity. NLCMS
+(NRSC/ISRO): 18 L-I classes at 1:50,000. Wasteland Atlas, National Wetland Atlas by
+NRSC. Change detection tracks deforestation, urban expansion.
+Urban Sprawl NDBI for built-up; LST for UHI (cities 3–8°C warmer); impervious surface mapping for
+runoff; Night-time Light for growth. Shannon's Entropy = urban sprawl metric. Cartosat-3
+(0.25m) for detail. Smart City: GIS dashboards + IoT. India: 100 Smart Cities Mission.
+Vegetation &
+Forestry
+NDVI, LAI, FVC, biomass, phenology from MODIS/IRS. FASAL = crop forecasting (AWiFS
++ Sentinel-2). FSI biennial SFR: India forest cover 21.71% (7,13,789 km²). VDF>70%,
+MDF 40–70%, OF 10–40%. REDD+ uses LiDAR+SAR for carbon. Fire: MODIS thermal
+(3.9mm). NBR for burn severity.
+Natural
+Resources
+Water: NDWI (water bodies); SAR (flood); SRTM DEM (watershed); GIS weighted overlay
+(groundwater potential); AWiFS (irrigation). Glacier: NDSI + InSAR + LiDAR. Soil: RUSLE
+in GIS (R×K×LS×C×P). Marine: INCOIS PFZ advisory (chlorophyll + SST from
+MODIS/OCEANSAT). Mangrove: 4,992 km² India (IRS LISS-IV).
+Waste
+Management
+Landfill siting: GIS multi-criteria weighted overlay (slope, soil, land use, groundwater, wind,
+distance). Illegal dump: high-res change detection. Thermal IR: landfill heat. Route
+optimisation: GIS network analysis. E-waste zones: buffer analysis. Bio-medical: GIS
+mapping of HCFs + CBWTFs.
+Climate Change Glacier retreat: LANDSAT archive; InSAR velocity; CryoSat mass balance. Sea ice:
+passive microwave (SSMI). Sea level: Jason-3/Sentinel-6 altimetry (~3.7mm/year). SST:
+AVHRR/MODIS. Carbon stocks: GEDI LiDAR + ALOS PALSAR. LST trends: LANDSAT
+TIR. Permafrost: Sentinel-1 InSAR. India carbon sink target: 2.5–3 Gt COneq (NDC).
+n Topic 1.7 Complete!
+Next PDF: Topic 1.8 — Environmental Education and Awareness | Environmental Ethics
+Key to remember: NDWI=water | NDBI=built-up | NBR=fire | LST=temperature | FASAL=crop forecast |
+FSI=forest cover | INCOIS=fishing zones | Jason-3=sea level | GEDI=forest carbon
