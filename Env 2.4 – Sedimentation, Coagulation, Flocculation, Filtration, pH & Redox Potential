@@ -1,0 +1,880 @@
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 1
+Topic 2.4
+Sedimentation · Coagulation ·
+Flocculation · Filtration · pH · Redox
+Potential (Eh)
+Syllabus Coverage – Topic 2.4
+Sub-Topic Key Concepts
+Sedimentation Plain & aided; Stokes' Law; overflow rate; types of settling; ideal settling tank
+Coagulation Definition; coagulants (alum, ferric, lime); zeta potential; jar test; dose optimisation
+Flocculation Definition vs coagulation; gentle mixing; G value; Camp number; floc formation
+Filtration Slow/rapid sand filter; multi-media; pressure; membrane filtration; backwashing
+pH Definition; pH scale; buffer systems; pH in environment; measurement;
+Henderson–Hasselbalch
+Redox Potential (Eh) Definition; Nernst equation; Eh–pH diagrams; environmental redox zones; pe concept
+1. Sedimentation
+Sedimentation (also called settling or clarification) is the gravitational separation of suspended solids from
+water. It is the most widely used unit operation in water and wastewater treatment, and also a key natural
+process in rivers, lakes, and reservoirs.
+1.1 Types of Settling
+Type Also Called Description Example / Occurrence
+Type I – Discrete
+Settling
+Free settling Particles settle independently with
+no interaction; size/shape/density
+constant
+Grit removal in wastewater; sand in river
+bed; plain sedimentation
+Type II – Flocculent
+Settling
+Flocculent
+settling
+Particles aggregate as they settle ®
+increasing size/velocity; not
+independent
+Secondary clarifiers; upper zones of
+settling tanks in water treatment
+Type III – Zone
+(Hindered) Settling
+Hindered
+settling
+High concentration; particles settle
+as a blanket/zone; inter-particle
+forces dominate
+Activated sludge thickeners; sludge blanket
+Type IV –
+Compression
+Settling
+Compression Particles supported by those
+beneath; water squeezed out under
+weight
+Bottom of sludge thickeners; sludge
+compaction
+1.2 Stokes' Law – Discrete Particle Settling
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 2
+Stokes' Law (Type I Settling)
+v_s = g(r_p - r_w) d² / 18m
+Where:
+v_s = terminal settling velocity (m/s)
+g = gravitational acceleration (9.81 m/s²)
+r_p = particle density (kg/m³); r_w = water density (~1000 kg/m³)
+d = particle diameter (m)
+m = dynamic viscosity of water (kg/m·s) – decreases with temperature
+Valid for: Reynolds number Re = r_w × v_s × d / m < 0.5 (laminar flow around particle)
+Key insight: v_s µ d² ® doubling diameter ® 4× faster settling!
+1.3 Settling Velocity of Common Particles
+Particle Type Diameter Settling Velocity Time to settle 1 m
+Gravel > 1 mm > 1 m/s < 1 second
+Coarse sand 0.1 mm (100
+μm)
+~10 mm/s ~100 seconds
+Fine sand 0.01 mm (10
+μm)
+~0.1 mm/s ~3 hours
+Silt 0.002 mm (2
+μm)
+~0.004 mm/s ~70 hours
+Clay (colloid) < 1 μm < 0.001 mm/s Months–years (won't settle alone)
+Bacteria ~1 μm ~0.001 mm/s Years (need coagulation)
+1.4 Ideal Settling Tank & Overflow Rate
+An ideal settling tank has four zones: Inlet zone (uniform flow distribution), Settling zone (quiescent settling),
+Sludge zone (collected sediment), and Outlet zone (clarified effluent withdrawal).
+Surface Overflow Rate (SOR) – Key Design Parameter
+SOR = Q / A_s = v_s (critical settling velocity)
+Where: Q = flow rate (m³/day); A_s = surface area of tank (m²)
+Any particle with v_s ³ SOR will be COMPLETELY removed (100% removal)
+Particles with v_s < SOR are partially removed proportionally: removal % = v_s/SOR × 100
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 3
+Typical SOR: Primary clarifier: 30–50 m³/m²·day; Secondary clarifier: 16–28 m³/m²·day
+Key: SOR is INDEPENDENT of tank depth! Only surface area matters for Type I settling.
+1.5 Factors Affecting Sedimentation
+Factor Effect Reason
+Particle size ­ Faster settling (µ d²) Stokes' Law; larger particle ® more gravity vs drag
+Particle density ­ Faster settling (µ Dr) Greater density difference ® higher gravitational force
+Temperature ­ Faster settling Water viscosity decreases ® less drag on particle
+Turbulence ­ Slower/no settling Upward currents prevent particles sinking
+Coagulation Dramatically faster Aggregates colloids into larger settleable flocs
+Shallow tank depth More efficient Less distance to travel; tube/lamella settlers exploit this
+High flow rate Poor removal Reduces residence time; SOR increases beyond particle v_s
+n EXAM TIP: Stokes' Law: v_s = g(r_p-r_w)d²/18m. Key: v_s µ d² and µ (r_p-r_w). SOR (overflow rate) =
+Q/A_s = design parameter; independent of depth for discrete settling. Colloidal particles (< 1 μm) CANNOT
+settle by gravity alone ® need coagulation–flocculation. Type I: discrete; Type II: flocculent; Type III:
+zone/hindered; Type IV: compression.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 4
+2. Coagulation
+Coagulation is the process of destabilising colloidal particles by neutralising their surface charge, allowing them
+to come together. The term refers specifically to the chemical destabilisation step. Colloidal particles (1 nm – 1
+μm) are stable because they carry a negative surface charge that causes electrostatic repulsion – preventing
+aggregation.
+2.1 Colloidal Stability and Zeta Potential
+Colloidal Stability – The Electric Double Layer
+Colloidal particles in water acquire a negative surface charge (usually from ionisation of surface groups or
+preferential adsorption of anions).
+This creates an Electric Double Layer:
+• Stern layer: tightly bound counter-ions (cations) immediately adjacent to particle surface
+• Diffuse layer: loosely bound ions extending into solution; gradually mixing with bulk
+Zeta potential (z) = electrical potential at the shear plane (boundary between Stern layer and diffuse
+layer)
+High |z| (e.g., -30 mV) ® stable colloid (repels other particles)
+Low |z| (near 0 mV) ® destabilised ® coagulation occurs
+Coagulation aim: reduce z to near 0 mV by adding positively charged coagulant
+2.2 Mechanisms of Coagulation
+Mechanism Description Dominant Condition
+Double-layer
+compression
+Adding electrolytes (salts) compresses diffuse
+layer ® particles approach closer
+High ionic strength; natural waters
+Charge neutralisation Coagulant ions (Al³n, Fe³n) adsorb on particle
+surface ® neutralise negative charge ® z ® 0
+Low–moderate turbidity; optimal coagulant
+dose
+Sweep coagulation Excess coagulant precipitates as Al(OH)n or
+Fe(OH)n "sweep floc" that enmeshes particles
+High turbidity; higher coagulant doses
+Inter-particle bridging Long-chain polymers adsorb on multiple
+particles simultaneously ® bridge flocs
+together
+Polymer coagulants/flocculants; high MW aids
+Adsorption &
+destabilisation
+Cationic polymers adsorb on negative surface
+® patch charge neutralisation
+Low turbidity; polyelectrolyte use
+2.3 Common Coagulants
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 5
+Coagulant Formula Reaction in Water Optimal
+pH
+Advantages / Disadvantages
+Alum (Aluminium
+sulphate)
+Aln(SOn)n·
+18HnO
+Al³n + 3HnO ® Al(OH)n¯ +
+3Hn (consumes alkalinity)
+6.5–8.0 Most widely used; cheap; effective;
+lowers pH ® may need lime addition
+Ferric Chloride FeCln Fe³n + 3HnO ® Fe(OH)n¯ +
+3HCl Fe(OH)n = dense
+reddish-brown floc
+4.0–11.0 Wider pH range; denser floc; effective
+for colour removal; can stain
+Ferric Sulphate Fen(SOn)n Similar to FeCln; no Cln
+introduced
+4.0–11.0 Good for low turbidity; wider pH range
+than alum
+Lime (Calcium
+hydroxide)
+Ca(OH)n Raises pH ® CaCOn and
+Mg(OH)n precipitate (sweep
+floc)
+> 10.5 Softening + coagulation; cheap; large
+sludge volumes
+Poly-aluminium
+chloride (PAC)
+[Al_n(OH)_
+m
+Cl_(3n-m)]
+Pre-hydrolysed; more effective
+at low T
+5.5–8.0 Effective in cold water; less pH
+depression; higher cost
+Cationic polymers Polyacrylam
+ide, polyDA
+DMAC
+Adsorb on negative particles;
+bridge/neutralise
+5–9 Low dose; aid flocculation; some
+toxicity concerns
+2.4 Alum Hydrolysis – Full Chemistry
+Alum Coagulation Chemistry
+Aln(SOn)n + 6HnO ® 2Al(OH)n¯ + 3HnSOn (simplified)
+More accurately, Al³n forms hydrolysis products based on pH:
+• pH < 4: Al³n (free ion) dominates – positively charged
+• pH 4–6: Al(OH)²n, Al(OH)nn, Alnn polymer (excellent coagulants)
+• pH 6.5–8: Al(OH)n precipitate (sweep floc – most effective)
+• pH > 9: Al(OH)nn (aluminate – negatively charged; coagulation fails)
+Alkalinity consumption: Aln(SOn)n·18HnO + 3Ca(HCOn)n ® 2Al(OH)n¯ + 3CaSOn + 6COn + 18HnO
+1 mg/L alum consumes ~0.5 mg/L alkalinity as CaCOn
+2.5 Jar Test – Determining Optimum Coagulant Dose
+The jar test (beaker test) is the standard laboratory method to determine the optimum coagulant type, dose, and
+pH for a given water sample before full-scale treatment plant operation.
+STEP 1: Fill 6 identical jars with raw water sample
+t
+STEP 2: Add increasing doses of coagulant to each jar (e.g., 5,10,20,30,40,50 mg/L)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 6
+t
+STEP 3: RAPID MIX at ~100–150 rpm for 1–2 min (coagulation/charge neutralisation)
+t
+STEP 4: SLOW MIX at 20–40 rpm for 15–20 min (flocculation/floc growth)
+t
+STEP 5: SETTLE for 30–60 min undisturbed
+t
+STEP 6: Measure turbidity, colour, pH of supernatant; select OPTIMUM DOSE (lowest turbidity at lowest
+coagulant cost)
+n EXAM TIP: Zeta potential of -30 mV or more = stable colloid. Optimal coagulation brings z to near zero.
+Alum optimal pH = 6.5–8.0; Ferric = 4–11 (wider range). Jar test: rapid mix (coagulation) ® slow mix
+(flocculation) ® settle ® measure turbidity. Alum consumes alkalinity: add lime to restore alkalinity if pH
+drops too low.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 7
+3. Flocculation
+Flocculation is the gentle agitation step following coagulation that promotes collision and aggregation of
+destabilised particles into larger, settleable flocs. While coagulation destroys particle stability (chemical step),
+flocculation builds the floc (physical/mechanical step).
+3.1 Coagulation vs Flocculation – Clear Distinction
+Feature Coagulation Flocculation
+Nature Chemical process Physical/mechanical process
+Step First (destabilisation) Second (aggregation)
+Mixing RAPID (100–300 rpm; G = 300–1000
+sn¹)
+SLOW (10–40 rpm; G = 10–100 sn¹)
+Duration 1–2 minutes 15–45 minutes
+Purpose Neutralise surface charge; add
+coagulant
+Grow particles into large settleable flocs
+Chemical addition Yes (coagulant) Sometimes (polymer aid)
+Result Microflocs (pin flocs; < 0.1 mm) Macroflocs (> 1 mm; visible to eye)
+3.2 Velocity Gradient (G Value) – Camp Number
+Velocity Gradient G and Camp Number (Gt)
+G = Ö(P / mV)
+Where: G = mean velocity gradient (sn¹); P = power input (W); m = dynamic viscosity (Pa·s); V = tank volume
+(m³)
+Camp Number = G × t (dimensionless; t = flocculation time in seconds)
+Optimal G values:
+• Coagulation (rapid mix): G = 300–1000 sn¹
+• Flocculation (slow mix): G = 10–100 sn¹
+• Optimal Camp number (Gt): 10n – 10n for flocculation
+Too high G ® flocs break apart (shear); Too low G ® insufficient particle collisions
+3.3 Types of Flocculators
+Type Mechanism G Value Advantages
+Mechanical (paddle) Paddles rotate slowly in tank; G
+controlled by speed
+10–80 sn¹ Flexible G control; most common in large
+plants
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 8
+Type Mechanism G Value Advantages
+Hydraulic (baffled
+channel)
+Water flows through baffled
+channel; energy from head loss
+20–80 sn¹ No moving parts; low maintenance; suitable for
+small plants
+Pneumatic (air
+diffusion)
+Rising air bubbles provide
+gentle mixing
+20–60 sn¹ Simple; suitable for tropical water; aids
+dissolved gas removal
+Diffusion (static
+mixer)
+Fixed internal elements create
+turbulence
+50–200 sn¹ Compact; no maintenance; used for in-line
+mixing
+3.4 Factors Affecting Flocculation
+Factor Optimum / Effect
+Velocity gradient (G) Must be gentle (10–100 sn¹); too high breaks flocs; tapered flocculation (G decreasing through
+stages) is best
+Time (t) 15–45 minutes; longer time allows larger floc growth; Gt product should be 10n–10n
+Temperature Lower T ® higher viscosity ® lower G for same power; cold water needs more time and/or
+polymer aid
+Coagulant dose Optimal dose from jar test; under-dosing leaves colloids unstable; over-dosing restabilises (zeta
+reversal)
+Polymer aids Anionic/non-ionic polyacrylamide: bridge between floc particles; extends floc size; improves
+settleability
+pH Must be within optimal range for coagulant; alum: 6.5–8; ferric: 4–11
+n EXAM TIP: G (velocity gradient): coagulation = 300–1000 sn¹ (rapid); flocculation = 10–100 sn¹ (slow).
+Camp number Gt = 10n–10n for flocculation. Tapered flocculation = G decreases in successive
+compartments (protects fragile flocs). Flocculation follows coagulation; they are two SEPARATE steps with
+different mixing intensities.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 9
+4. Filtration
+Filtration is the process of passing water through a porous medium to remove suspended solids, colloidal
+particles, and microorganisms. It follows sedimentation in water treatment and is a critical barrier to pathogens.
+Filtration removes particles too small to settle even after coagulation–flocculation.
+4.1 Comparison of Filtration Types
+Parameter Slow Sand Filter
+(SSF)
+Rapid Sand Filter
+(RSF)
+Pressure Filter Multi-Media Filter
+Filtration rate 0.1–0.4 m/hr 4–12 m/hr 8–25 m/hr 5–15 m/hr
+Media Fine sand (0.15–0.35
+mm)
+Coarse sand (0.5–1.0
+mm)
+Sand/anthracite Anthracite + sand + garnet
+Pre-treatment None needed Coagulation required Coagulation
+usually
+Coagulation required
+Cleaning Scraping top layer
+(weeks–months)
+Backwashing
+(daily/every 1–3
+days)
+Backwash under
+pressure
+Backwash
+Key mechanism Schmutzdecke
+(biological layer)
+Physical straining +
+adsorption
+Physical
+straining
+Depth filtration; adsorption
+Pathogen removal Excellent (log 3–4 for
+Giardia)
+Good (with
+coagulation)
+Good Good
+Capital cost High (large area) Moderate Moderate–high Moderate
+Suitable for Rural/small community Municipal; large
+plants
+Package plants;
+industry
+High flow; turbid water
+4.2 Slow Sand Filter (SSF) – Schmutzdecke
+Schmutzdecke – The Biological Skin
+The Schmutzdecke (German: "dirt skin") is a biologically active layer 1–5 cm thick that forms on the surface
+of a slow sand filter. It consists of:
+• Algae, bacteria, protozoa, rotifers, diatoms, fungi
+• Organic matter and trapped particles
+This layer provides: biological degradation of organics, predation of bacteria and pathogens, physical
+straining of particles
+Schmutzdecke takes 2–4 weeks to mature (ripening period). During this time, filter effluent quality is poor ® filtrate
+must be recycled or wasted.
+After scraping for cleaning, the schmutzdecke must re-mature again.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 10
+4.3 Rapid Sand Filter – Operating Cycle
+FILTRATION PHASE Water flows down through coarse sand; particles trapped; head loss builds up
+t
+TERMINAL HEAD LOSS REACHED (filter "choked") Head loss > 2–3 m; turbidity breakthrough possible
+t
+BACKWASH PHASE Clean water flows UPWARD through sand at 35–50 m/hr Sand bed expands 25–50%;
+dislodges trapped particles Duration: 5–15 minutes
+t
+FILTER-TO-WASTE (First-flush) First 10–15 min of filtrate wasted until filter ripens Then return to service
+4.4 Membrane Filtration
+Process Pore Size Pressure What is Removed Application
+Microfiltration (MF) 0.1–10 μm 0.1–0.5
+bar
+Bacteria, protozoa, large colloids,
+TSS
+Pre-treatment; drinking water;
+tertiary WWT
+Ultrafiltration (UF) 0.01–0.1 μm 0.5–5 bar Viruses, macromolecules,
+proteins, colloids
+Drinking water; dairy;
+pharmaceutical
+Nanofiltration (NF) 0.001–0.01
+μm
+5–20 bar Divalent ions (Ca²n, Mg²n),
+NOM, pesticides
+Softening; colour removal; EDC
+removal
+Reverse Osmosis
+(RO)
+< 0.001 μm 15–80 bar Almost all: monovalent ions (Nan,
+Cln), all dissolved salts
+Desalination; ultra-pure water;
+brine treatment
+n EXAM TIP: SSF rate = 0.1–0.4 m/hr; RSF = 4–12 m/hr. Schmutzdecke = biological layer on SSF; matures
+in 2–4 weeks; key for pathogen removal. RSF backwashed with upward flow. Membrane filtration order: MF
+> UF > NF > RO (increasing pressure, decreasing pore size). RO can remove dissolved salts (NaCl); NF
+removes divalent ions; UF removes viruses.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 11
+5. pH – Concept, Scale and Environmental Significance
+pH (potential of Hydrogen) is the negative logarithm (base 10) of the hydrogen ion activity in a solution. It is the
+most frequently measured water quality parameter and controls virtually all chemical and biological processes in
+aquatic environments. Introduced by Søren Sørensen in 1909.
+5.1 Definition and pH Scale
+pH Definition
+pH = -lognn [Hn] (strictly: pH = -lognn {Hn} where {} = activity)
+At 25°C: Kw = [Hn][OHn] = 10n¹n ® pH + pOH = 14
+• Pure water: [Hn] = [OHn] = 10nn M ® pH = 7 (neutral)
+• pH < 7: acidic ([Hn] > 10nn M)
+• pH > 7: alkaline/basic ([OHn] > [Hn])
+pH 6 = 10× more acidic than pH 7; pH 5 = 100× more acidic (log scale!)
+5.2 pH of Common Environmental Systems
+System / Sample Typical pH Environmental Context
+Battery acid ~1 Acid mine drainage can approach this
+Acid rain (polluted) < 5.6 Normal rain COn-equilibrated at 5.6; polluted < 4.5
+Acidic lake (affected) 4–5 Fish die < pH 4.5; sensitive ecosystems
+Normal rain 5.6 COn + HnO ® HnCOn; natural background acidity
+Unpolluted river 6.5–8.5 Optimal for most aquatic life
+Drinking water (IS/WHO) 6.5–8.5 BIS 10500: acceptable limit 6.5–8.5
+Seawater 7.9–8.3 Declining (ocean acidification); was ~8.2 pre-industrial
+Optimal soil (agriculture) 6.0–7.5 Nutrient availability maximised in this range
+Soda lake (alkaline) 9–11 High NanCOn; e.g., Lonar Lake (India)
+Lime-treated water 10–12 Softening process; disinfection by lime
+Caustic soda 13–14 Industrial chemical
+5.3 Buffer Solutions and Henderson–Hasselbalch Equation
+A buffer resists change in pH when small amounts of acid or base are added. Buffers consist of a weak acid and
+its conjugate base (or weak base + conjugate acid). Most important environmental buffer: the carbonate system.
+Henderson–Hasselbalch Equation
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 12
+pH = pKa + lognn([An] / [HA])
+Where: pKa = negative log of acid dissociation constant; [An] = conjugate base conc.; [HA] = weak acid
+conc.
+Buffer capacity is maximum when pH = pKa (equal concentrations of acid and base)
+Environmental examples:
+• Carbonate buffer: HnCOn/HCOnn (pKa = 6.35) ® buffers pH 5.5–7.5 in natural water
+• Phosphate buffer: HnPOnn/HPOn²n (pKa = 7.2) ® important in biological systems
+• Ammonia buffer: NHnn/NHn (pKa = 9.25) ® relevant in wastewater treatment
+5.4 pH Measurement Methods
+Method Principle Accuracy Use
+pH meter (glass
+electrode)
+Glass membrane generates potential
+proportional to [Hn]; reference
+electrode (Ag/AgCl)
+±0.01 pH
+units
+Standard lab and field method; must
+calibrate with buffers (pH 4, 7, 10)
+Colorimetric (indicators) Acid-base indicators change colour
+with pH (phenolphthalein, litmus,
+methyl orange)
+±0.5–1 pH
+units
+Rough field estimate; pH paper; not
+suitable for coloured/turbid samples
+Ion-selective electrode Similar to glass electrode; ion-specific
+membrane
+±0.01–0.05 Specialised; also for other ions (Fn,
+NOnn)
+Titration (alkalinity) Acid titration to pH 8.3 (P alkalinity)
+and 4.5 (T alkalinity)
+±0.05 Used to determine alkalinity, not directly
+pH
+5.5 Environmental Effects of pH
+pH Condition Effect on Aquatic Life Effect on Pollutant
+Chemistry
+Effect on Treatment
+Very acidic (< 4) Most fish and invertebrates
+die; only acid-tolerant algae
+and fungi survive
+Heavy metals mobilised
+(Fe²n, Mn²n, Al³n soluble);
+leaching from soils
+Coagulation fails; corrosion of pipes and
+equipment
+Mildly acidic
+(4–6)
+Stress on sensitive fish
+(salmon); loss of diversity;
+leaching of Al toxic to fish
+Metals partially mobile;
+carbonates dissolve
+Coagulation less effective; some
+treatment chemicals affected
+Neutral
+(6.5–8.5)
+Optimal for most aquatic
+organisms; maximum
+biological diversity
+Most metals precipitated;
+nutrients available; stable
+chemistry
+Optimal for coagulation, flocculation,
+disinfection, biological treatment
+Alkaline
+(8.5–10)
+Stress on sensitive species;
+ammonia toxicity increases
+(NHnn ® NHn)
+CaCOn precipitates;
+phosphate precipitates;
+metals immobile
+Chlorine less effective; lime softening
+occurs
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 13
+pH Condition Effect on Aquatic Life Effect on Pollutant
+Chemistry
+Effect on Treatment
+Very alkaline (>
+10)
+Lethal to most organisms Dissolution of silica; Al
+re-dissolves as aluminate
+Lime softening conditions; strong
+disinfection by OHn
+n EXAM TIP: pH = -log[Hn]; pH 7 = neutral at 25°C; Kw = 10n¹n; pH + pOH = 14. Normal rain pH = 5.6
+(COn equilibrated); acid rain < 5.6. BIS 10500 drinking water: pH 6.5–8.5. Henderson–Hasselbalch: pH =
+pKa + log([An]/[HA]). Buffer capacity maximum when pH = pKa. Carbonate pKa1 = 6.35, pKa2 = 10.33.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 14
+6. Redox Potential (Eh) – Oxidation–Reduction Potential
+Redox potential (Eh), also called Oxidation–Reduction Potential (ORP), measures the tendency of a solution
+to accept or donate electrons. It is as fundamental as pH in controlling the chemical speciation and fate of
+elements in natural waters, soils, and sediments. Measured in millivolts (mV).
+6.1 Basic Redox Concepts
+Key Redox Definitions
+Oxidation = loss of electrons (OIL: Oxidation Is Loss)
+Reduction = gain of electrons (RIG: Reduction Is Gain)
+Oxidising agent = electron acceptor (gets reduced); e.g., On, NOnn, Fe³n, SOn²n
+Reducing agent = electron donor (gets oxidised); e.g., organic matter, Fe²n, HnS, NHnn
+pe = negative log of electron activity = Eh × F/(2.303RT) At 25°C: pe = Eh(mV) / 59.2
+High Eh (+): Oxidising conditions (On present; aerobic)
+Low Eh (-): Reducing conditions (On absent; anaerobic)
+6.2 The Nernst Equation
+Nernst Equation
+Eh = E° + (RT/nF) × ln([Ox]/[Red])
+At 25°C simplified: Eh = E° + (0.0592/n) × log([Ox]/[Red])
+Where:
+E° = standard electrode potential (mV) at standard conditions (25°C, 1 atm, 1 M)
+R = 8.314 J/mol·K; T = temperature (K); n = number of electrons transferred
+F = Faraday constant = 96,485 C/mol
+[Ox] = concentration of oxidised form; [Red] = concentration of reduced form
+Example: Fe³n + en ® Fe²n; E° = +0.771 V Eh = 0.771 + 0.0592 × log([Fe³n]/[Fe²n])
+6.3 Eh–pH Diagram (Pourbaix Diagram)
+The Eh–pH diagram (Pourbaix diagram) maps the thermodynamically stable chemical species of an element as
+a function of both Eh and pH. It is the single most powerful tool for predicting element speciation in natural
+waters, soils, and sediments.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 15
+Environment Type Eh (mV) pH Dominant
+Condition
+Key Chemical Processes
+Oxygenated surface
+water
++400 to
++800
+6–9 Strongly oxidising;
+aerobic
+On is electron acceptor; aerobic respiration;
+Fe³n stable
+Rainwater, clean river +200 to
++500
+5.5–8 Moderately oxidising Normal weathering; most metals as higher
+oxidation state
+Hypolimnion (stagnant
+deep lake)
+0 to +200 6–8 Mildly reducing On depletion; Mnnn®Mn²n; early diagenesis
+Waterlogged soil -100 to
++100
+6–8 Reducing (anoxic) Fe³n®Fe²n; Mnnn®Mn²n; NOnn®Nn
+(denitrification)
+Organic-rich sediment -200 to 0 6–8 Strongly reducing SOn²n®HnS; Fe²n dissolved; CHn production
+begins
+Wetland/swamp
+anaerobic
+-300 to
+-200
+5–7 Methanogenic COn®CHn; complete anaerobic; only
+methanogens survive
+Acid mine drainage +400 to
++700
+2–4 Strongly oxidising +
+acidic
+Fe²n®Fe³n (by Acidithiobacillus); pyrite
+oxidation; metal leaching
+6.4 Redox Sequence – Electron Acceptor Hierarchy
+As oxygen is consumed in a closed system, microorganisms switch to alternative electron acceptors in a
+predictable thermodynamic sequence (from highest to lowest energy yield):
+On REDUCTION: On + 4Hn + 4en ® 2HnO Eh ~ +400 to +800 mV; Aerobic respiration; highest energy
+t
+NOnn REDUCTION (Denitrification): NOnn + 10Hn + 8en ® NHnn or Nn Eh ~ +200 to +400 mV; Anaerobic
+respiration; 2nd highest energy
+t
+Mnnn REDUCTION: MnOn + 2en ® Mn²n Eh ~ +200 to +400 mV; Mn released to water
+t
+Fe³n REDUCTION: Fe(OH)n + 3Hn + en ® Fe²n + 3HnO Eh ~ 0 to +200 mV; Iron mobilised; rusty-coloured
+water
+t
+SOn²n REDUCTION: SOn²n + 8Hn + 8en ® HnS Eh ~ -200 to 0 mV; Rotten egg smell; HnS toxic; black FeS
+t
+COn REDUCTION (Methanogenesis): COn + 8Hn + 8en ® CHn + 2HnO Eh < -200 mV; Lowest energy yield;
+methane production
+6.5 Environmental Significance of Eh
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 16
+Element Oxidising (High Eh) Reducing (Low Eh) Environmental Consequence
+Iron (Fe) Fe³n (insoluble; ferric
+hydroxide)
+Fe²n (soluble;
+ferrous)
+Low Eh ® Fe²n released to groundwater; "red water"
+problem
+Manganese
+(Mn)
+Mnnn (MnOn; insoluble) Mn²n (soluble) Staining; taste problems in drinking water at low Eh
+Sulphur (S) SOn²n (sulphate; stable) HnS / S²n (toxic;
+odour)
+HnS in septic tanks, sediments; corrosion; toxicity
+Nitrogen (N) NOnn (nitrate; mobile) Nn, NHnn Denitrification removes N from soil; NnO GHG
+production
+Arsenic (As) Asnn (arsenate;
+adsorbed to Fe oxides)
+As³n (arsenite;
+soluble; MORE toxic)
+Reducing groundwater (Bangladesh/West Bengal) ®
+As contamination
+Mercury
+(Hg)
+Hg²n, Hgn²n (less
+methylated)
+CHnHgn
+(methylmercury;
+bioaccumulates)
+Low Eh + sulphate reducers ® methylation ® fish
+contamination
+Carbon (C) COn (carbon dioxide) CHn (methane;
+GHG)
+Wetlands, rice paddies: major CHn sources
+(GWP=28–84)
+6.6 Measurement of Eh
+Eh is measured using a platinum electrode (inert; measures electron transfer) combined with a reference
+electrode (e.g., Ag/AgCl, calomel). The measured potential is converted to Standard Hydrogen Electrode (SHE)
+scale: Eh(SHE) = Eh(measured) + E(reference electrode). For Ag/AgCl reference: add +197 mV; for calomel:
+add +242 mV. Measurement must be in situ or immediately after sampling (Eh changes rapidly on exposure to
+air).
+n EXAM TIP: Redox sequence (memorise order): On ® NOnn ® Mnnn ® Fe³n ® SOn²n ® COn
+(decreasing Eh). High Eh = oxidising (aerobic); Low Eh = reducing (anaerobic). Nernst equation: Eh = E° +
+(0.0592/n) × log([Ox]/[Red]) at 25°C. Eh–pH diagram = Pourbaix diagram. pe = Eh/59.2 at 25°C. Arsenic
+crisis in Bangladesh: reducing groundwater ® As³n released from Fe oxides.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 17
+7. UGC NET Pattern MCQs with Explanations
+Q1. According to Stokes' Law, if the diameter of a particle is doubled, its settling velocity will:
+(a) Double
+(b) Increase by 4 times
+(c) Increase by 8 times
+(d) Remain the same
+4 Answer: (b)
+Explanation: Stokes' Law: v_s µ d². Doubling d ® v_s increases by 2² = 4 times. This is why coagulation (which
+aggregates fine particles into larger ones) so dramatically improves settling – a 10× increase in diameter ® 100×
+faster settling.
+Q2. The surface overflow rate (SOR) of an ideal sedimentation tank is 25 m³/m²·day. A particle with a
+settling velocity of 15 m/day will be removed to what extent?
+(a) 100%
+(b) 75%
+(c) 60%
+(d) 25%
+4 Answer: (c)
+Explanation: For Type I settling, particles with v_s < SOR are removed proportionally: Removal = v_s / SOR × 100 =
+15/25 × 100 = 60%. Only particles with v_s ³ SOR (³ 25 m/day) are completely removed.
+Q3. The jar test in water treatment is used to determine:
+(a) Turbidity of the raw water
+(b) Optimum coagulant dose and pH
+(c) Backwash velocity for sand filters
+(d) BOD of the treated water
+4 Answer: (b)
+Explanation: The jar test (beaker test) simulates the coagulation–flocculation–sedimentation sequence at bench
+scale to determine: (1) best coagulant type, (2) optimum dose, (3) optimal pH, and (4) required mixing conditions –
+before scaling up to the plant.
+Q4. The Schmutzdecke in a slow sand filter is:
+(a) A chemical coagulant layer
+(b) A biologically active layer on the filter surface that removes pathogens
+(c) The gravel support layer beneath the sand
+(d) A membrane used in reverse osmosis
+4 Answer: (b)
+Explanation: Schmutzdecke (German: "dirt skin") is a 1–5 cm biologically active layer of algae, bacteria, protozoa,
+and organic matter on the top of slow sand filters. It provides biological degradation and pathogen removal (log 3–4
+for Giardia). It takes 2–4 weeks to mature after cleaning.
+Q5. Which of the following water treatment processes removes dissolved salts including NaCl?
+(a) Slow sand filtration
+(b) Coagulation–flocculation
+(c) Reverse osmosis (RO)
+(d) Ultrafiltration (UF)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 18
+4 Answer: (c)
+Explanation: RO uses semi-permeable membranes with pore size < 0.001 μm under high pressure (15–80 bar) to
+remove virtually all dissolved substances including monovalent ions (Nan, Cln). UF removes viruses and
+macromolecules but NOT dissolved salts. Coagulation and SSF remove suspended/colloidal matter only.
+Q6. At pH 4.5 in a lake, which of the following is most likely to occur?
+(a) Maximum photosynthesis and algal bloom
+(b) Al³n and Fe²n become soluble and toxic to fish
+(c) CaCOn precipitation and water hardness increase
+(d) Nitrification is enhanced
+4 Answer: (b)
+Explanation: At pH 4.5 (strongly acidic): Al³n is soluble and directly toxic to fish gills. Fe²n (ferrous) is also mobilised.
+Most fish cannot survive below pH 4.5. CaCOn precipitates at high pH (not acidic). Nitrification is severely inhibited
+below pH 6.
+Q7. In a reducing aquatic environment (Eh = -150 mV, pH 7), which form of iron predominates?
+(a) Fe³n (ferric; insoluble)
+(b) Fe²n (ferrous; soluble)
+(c) FeSn (pyrite)
+(d) Fe(OH)n precipitate
+4 Answer: (b)
+Explanation: At Eh = -150 mV (reducing conditions), iron exists as Fe²n (ferrous ion) which is soluble. Fe³n is only
+stable at higher Eh (oxidising conditions) where it precipitates as Fe(OH)n. This is why reducing groundwater often
+has high dissolved iron – a common water quality problem in India.
+Q8. Which electron acceptor is used by microorganisms IMMEDIATELY after dissolved oxygen is
+depleted in a closed aquatic system?
+(a) SOn²n (sulphate)
+(b) COn (carbon dioxide)
+(c) NOnn (nitrate)
+(d) Fe³n (ferric iron)
+4 Answer: (c)
+Explanation: The redox sequence from highest to lowest energy: On ® NOnn ® Mnnn ® Fe³n ® SOn²n ®
+COn. Immediately after On is depleted, denitrifying bacteria use NOnn as the next most energetically favourable
+electron acceptor. This is why wastewater treatment plants create anoxic zones for denitrification.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 19
+8. Assertion–Reason Questions
+Q1. [Assertion–Reason]
+Assertion (A): Rapid sand filters require coagulation–flocculation as pre-treatment, but slow sand filters
+do not.
+Reason (R): Slow sand filters operate at lower rates and develop a biologically active Schmutzdecke
+layer that removes particles and pathogens without prior chemical treatment.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+Explanation: Both A and R are true and R correctly explains A. SSF rate (0.1–0.4 m/hr) is so low that the
+schmutzdecke has time to trap and biologically degrade particles. RSF operates at 4–12 m/hr – too fast for biological
+action, so pre-coagulated flocs must be trapped. Select (a).
+Q2. [Assertion–Reason]
+Assertion (A): Ferric chloride is preferred over alum for coagulation of highly coloured, low-turbidity
+water at low pH.
+Reason (R): Ferric chloride forms Fe(OH)n floc which is effective only above pH 8.5.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (c)
+Explanation: A is TRUE: FeCln works well at lower pH (4–6) and removes colour (humic acids) effectively; alum fails
+below pH 6.5. R is FALSE: Fe(OH)n is effective over pH 4–11 (wide range), not just above pH 8.5. Select (c): A true,
+R false.
+Q3. [Assertion–Reason]
+Assertion (A): In a waterlogged soil, arsenic contamination of groundwater is more severe.
+Reason (R): Reducing conditions at low Eh cause Fe³n oxides to dissolve, releasing adsorbed Asnn
+which is then reduced to more soluble and toxic As³n.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+Explanation: Both A and R are true and R is the correct explanation. The classic Bangladesh/West Bengal arsenic
+crisis follows this mechanism: flooding ® On depletion ® low Eh ® reductive dissolution of Fe(OH)n that had been
+adsorbing As ® As released to groundwater, further reduced to As³n (arsenite; more toxic and soluble). Select (a).
+Q4. [Assertion–Reason]
+Assertion (A): Adding excess alum beyond the optimal dose can lead to restabilisation of colloidal
+particles.
+Reason (R): Excess Al³n ions and positive Al(OH)n surfaces provide excess positive charge, reversing
+the zeta potential from negative through zero to positive, causing charge reversal and restabilisation.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+Explanation: Both A and R are true and R correctly explains the "zeta reversal" phenomenon. This is why the jar test
+is so important – finding the optimal dose before the point of restabilisation. Over-dosing wastes coagulant AND
+worsens water quality. Select (a).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 20
+9. Master Revision Summary Table
+Concept Key Formula / Value Environmental Relevance UGC NET Focus
+Stokes' Law v_s = g(r_p-r_w)d²/18m; v_s µ d² Sedimentation in rivers,
+treatment tanks
+Formula; effect of
+size/density/T
+Settling types I:discrete; II:flocculent; III:zone;
+IV:compression
+Treatment tank design; sludge
+handling
+Match type to condition
+SOR SOR = Q/A_s; removal =
+v_s/SOR × 100
+Primary/secondary clarifier
+design
+Independent of depth;
+formula
+Zeta potential z ~ -30 mV = stable; ~0 mV =
+destabilised
+Colloidal stability; coagulant
+action
+Electric double layer; z and
+stability
+Coagulant doses Alum pH 6.5–8; FeCln pH 4–11;
+jar test determines dose
+Water treatment; turbidity
+removal
+Coagulants; optimal pH;
+sweep coag.
+G value G = Ö(P/mV); coag: 300–1000;
+floc: 10–100 sn¹
+Mixing design for coag/floc
+tanks
+G values; Camp Gt =
+10n–10n
+SSF vs RSF SSF: 0.1–0.4 m/hr; RSF: 4–12
+m/hr; schmutzdecke
+Pathogen removal; community
+water
+Schmutzdecke; backwash;
+pre-treatment
+Membrane order MF > UF > NF > RO (decreasing
+pore size)
+Desalination; drinking water;
+industry
+Pore sizes; what each
+removes
+pH definition pH = -log[Hn]; Kw = 10n¹n;
+pH+pOH = 14
+All environmental chemistry Calculation; scale; normal
+rain pH=5.6
+Henderson–Hasselba
+lch
+pH = pKa + log([An]/[HA]) Buffer systems; carbonate
+system
+Equation; buffer capacity at
+pKa
+Redox sequence On®NOnn®Mnnn®Fe³n®S
+On²n®COn (decreasing Eh)
+Anaerobic environments;
+pollution fate
+Sequence order; Eh values
+per zone
+Nernst equation Eh = E° +
+(0.0592/n)log([Ox]/[Red])
+Speciation; Pourbaix diagram Equation terms; high/low Eh
+meaning
+Eh–pH diagram Pourbaix diagram; stability fields
+by Eh and pH
+Fe, As, Mn, S, Hg speciation Interpret which species
+stable where
+n Final Exam Strategy for Topic 2.4
+1. Stokes' Law: v_s µ d² (most tested). Doubling size = 4× velocity. Temperature increases settling (less
+viscosity).
+2. Settling types: Type I = discrete (Stokes); Type II = flocculent; Type III = zone; Type IV = compression.
+3. SOR = Q/A_s; only surface area matters (not depth) for Type I. Partial removal = v_s/SOR.
+4. Coagulation: chemical destabilisation; zeta potential neutralised. Jar test finds optimum dose. Alum:
+pH 6.5–8; FeCln: pH 4–11.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.4 – Sedimentation, Coagulation, Flocculation, Filtration, pH & Redox Potential
+© UGC NET Env. Sci. Study Notes | Topic 2.4 Page 21
+5. Flocculation: physical aggregation; slow mix G = 10–100 sn¹; Gt = 10n–10n. Tapered G = best
+practice.
+6. Filtration: SSF (schmutzdecke, no pretreatment); RSF (backwash daily, needs coagulation);
+MF>UF>NF>RO for membranes.
+7. pH: = -log[Hn]; normal rain = 5.6; drinking water standard 6.5–8.5; Henderson–Hasselbalch for buffers.
+8. Redox (Eh): sequence On®NOnn®Mnnn®Fe³n®SOn²n®COn; Nernst equation; Pourbaix
+diagram; arsenic crisis mechanism.
