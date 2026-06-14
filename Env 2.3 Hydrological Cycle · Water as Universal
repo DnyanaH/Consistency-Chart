@@ -1,0 +1,803 @@
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 1
+Topic 2.3 Hydrological Cycle · Water as Universal
+Solvent · DO · BOD · COD
+Syllabus Coverage – Topic 2.3
+Sub-Topic Key Concepts Covered
+Hydrological Cycle Evaporation, transpiration, condensation, precipitation, infiltration, runoff, groundwater
+recharge; global water budget
+Water as Universal Solvent Polarity of water, hydrogen bonding, dissolution mechanism, dielectric constant,
+anomalous properties
+Dissolved Oxygen (DO) Definition, measurement (Winkler method), factors affecting DO, DO sag curve, oxygen
+sag equation
+Biochemical Oxygen Demand
+(BOD)
+Definition, BODn test, first-order kinetics, BOD vs time curve, ultimate BOD, temperature
+correction
+Chemical Oxygen Demand
+(COD)
+Definition, dichromate reflux method, COD vs BOD relationship, applications
+Interrelationships DO–BOD–COD triangular relationship, water quality assessment, standards
+1. The Hydrological Cycle (Water Cycle)
+The hydrological cycle (water cycle) describes the continuous movement of water through the Earth's systems
+– atmosphere, surface, and subsurface. It is driven by solar energy (for evaporation) and gravity (for precipitation
+and runoff). It has NO beginning or end – it is a perpetual cycle.
+1.1 Global Water Distribution
+Reservoir Volume (10³ km³) % of Total
+Water
+Residence Time
+Oceans 1,335,000 96.5% ~3,000 years
+Ice caps & glaciers 26,350 1.74% ~20,000–100,000 years
+Groundwater (total) 10,530 0.76% 100–10,000 years
+Groundwater (fresh) 10,530 0.76% Variable (100–10,000 yr)
+Surface freshwater (lakes/rivers) 93.1 0.013% Days (rivers) to years (lakes)
+Soil moisture 16.5 0.001% 2 weeks – 1 year
+Atmosphere (water vapour) 12.9 0.001% ~9–10 days
+Biota (living organisms) 1.1 <0.0001% Days to weeks
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 2
+1.2 Processes of the Hydrological Cycle
+n SOLAR ENERGY INPUT
+t
+EVAPORATION Oceans, lakes, rivers ~425,000
+km³/yr from oceans
+TRANSPIRATION Plants release water vapour
+through stomata ~70,000 km³/yr globally
+t
+EVAPOTRANSPIRATION (ET) = Evaporation + Transpiration Atmospheric water vapour rises, cools,
+condenses
+t
+CONDENSATION ® Cloud formation Water droplets form around condensation nuclei (dust, sea salt, BC)
+t
+PRECIPITATION (Rain, Snow, Sleet, Hail) ~496,000 km³/yr total; 385,000 km³/yr over oceans; 111,000 km³/yr
+over land
+t
+SURFACE RUNOFF ® Rivers
+® Oceans ~40,000 km³/yr
+INFILTRATION ® Soil moisture
+® Groundwater recharge
+INTERCEPTION Vegetation
+captures precipitation;
+evaporation back
+1.3 Key Hydrological Processes – Detailed Definitions
+Process Definition Controlling Factors Environmental Significance
+Evaporation Liquid water ® water vapour at
+water surface (below boiling
+point)
+Temperature, wind speed,
+humidity, surface area,
+salinity
+Major driver of water cycle; cools
+surface; linked to drought
+Transpiration Water release from plant leaves
+through stomata as vapour
+Plant type, leaf area,
+temperature, soil moisture,
+VPD
+Up to 90% of water entering roots;
+drives nutrient uptake
+Evapotranspiratio
+n (ET)
+Combined water loss from soil
+surface + vegetation
+Penman–Monteith
+equation used for
+calculation
+Irrigation planning; water balance;
+climate modelling
+Condensation Water vapour ® liquid droplets
+when cooled below dew point
+Temperature, pressure,
+presence of condensation
+nuclei
+Cloud formation; dew; fog;
+precipitation initiation
+Precipitation Water falling from atmosphere
+as rain, snow, hail, sleet
+Atmospheric moisture,
+temperature, topography,
+condensation nuclei
+Primary freshwater input; flooding;
+erosion; recharge
+Interception Precipitation caught by
+vegetation canopy before
+reaching soil
+Vegetation type, storm
+intensity, leaf area index
+Reduces surface runoff; evaporates
+back; protects soil
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 3
+Process Definition Controlling Factors Environmental Significance
+Infiltration Water entry into soil from
+surface; downward movement
+Soil texture, structure,
+moisture content,
+vegetation cover
+Groundwater recharge; reduces
+flooding; soil moisture
+Percolation Deeper downward movement of
+water through unsaturated zone
+to water table
+Soil/rock permeability,
+hydraulic gradient
+Aquifer recharge; soil nutrient
+leaching
+Surface Runoff Overland flow when precipitation
+> infiltration capacity
+Slope, land use, soil type,
+storm intensity
+Flooding; soil erosion; non-point
+source pollution
+Baseflow Groundwater discharge to
+streams during dry periods
+Aquifer characteristics, soil
+storage
+Maintains streamflow; dry-season flow
+Sublimation Direct ice/snow ® water vapour
+(no liquid stage)
+Temperature, wind,
+humidity, solar radiation
+Important in polar regions, high
+mountains; glacier mass balance
+1.4 Water Balance Equation
+Water Balance (Continuity Equation)
+P = ET + Q + DS
+Where:
+P = Precipitation (total input)
+ET = Evapotranspiration (losses to atmosphere)
+Q = Streamflow/Runoff (outflow from catchment)
+DS = Change in storage (soil moisture + groundwater)
+Global average: P(land) = 111,000 km³/yr; ET = 71,000 km³/yr; Q = 40,000 km³/yr
+1.5 Residence Time
+Residence Time (t) = Volume of reservoir / Rate of inflow (or outflow). It indicates how long a water molecule
+spends in a reservoir on average. Atmosphere: ~9 days; Rivers: ~16 days; Lakes: years; Glaciers: thousands of
+years; Deep groundwater: up to 10,000 years. Environmental significance: long residence time means slow
+recovery if contaminated (e.g., groundwater pollution is nearly irreversible).
+n EXAM TIP: Water cycle quantities: Precipitation over oceans = 385,000 km³/yr; over land = 111,000
+km³/yr. River runoff to ocean = ~40,000 km³/yr. Atmospheric water residence time = 9–10 days. The
+DRIVING FORCE of the water cycle is solar energy (for evaporation) + gravity (for precipitation/runoff).
+Penman–Monteith is the standard equation for reference ET calculation.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 4
+2. Water as a Universal Solvent
+Water is called the "universal solvent" because it dissolves more substances than any other liquid. This
+property arises directly from its unique molecular structure. Understanding water's chemistry is fundamental to all
+environmental processes – nutrient cycling, toxicant transport, aquatic life support.
+2.1 Molecular Structure of Water
+Water Molecule Structure
+• Molecular formula: HnO; Molecular weight: 18 g/mol
+• Bond angle: 104.5° (not 180° – bent/angular shape due to 2 lone pairs on O)
+• O–H bond length: 0.096 nm (very short = strong bond)
+• Electronegativity of O (3.44) >> H (2.20) ® O is dn, H is dn (partial charges)
+• This charge separation = polar covalent molecule with a permanent dipole moment (1.85 Debye)
+• Result: water molecules attract each other and attract ions/polar solutes via electrostatic forces
+2.2 Hydrogen Bonding – The Key to Water's Properties
+Each water molecule can form up to 4 hydrogen bonds – 2 as donor (H) and 2 as acceptor (lone pairs on O). A
+hydrogen bond is an electrostatic attraction between dn H of one molecule and dn O of another. Energy: 20–25
+kJ/mol (weaker than covalent bonds ~400 kJ/mol, but enormously important collectively).
+2.3 Why Water Dissolves So Many Substances
+Solute Type Dissolution Mechanism Example
+Ionic compounds
+(salts)
+Water dipoles surround ions; HnO dn orients toward
+cations; dn toward anions ® "hydration shells" break
+crystal lattice
+NaCl, KNOn, CaCOn (limited), heavy
+metal salts
+Polar molecules H-bonding and dipole–dipole interactions between
+water and solute
+Glucose, ethanol, amino acids, urea
+Gases (with reaction) COn+HnO®HnCOn; NHn+HnO®NHnn+OHn;
+SOn+HnO®HnSOn
+COn, NHn, SOn, HCl (very soluble)
+Gases (physical) Henry's Law: C = p/Kn; solubility µ partial pressure On, Nn, CHn (low but critical for aquatic
+life)
+Non-polar
+compounds
+Do NOT dissolve ("like dissolves like"); form separate
+phase
+Oils, benzene, most hydrocarbons (water
+pollution)
+2.4 Anomalous (Unique) Properties of Water
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 5
+Property Value / Observation Cause Environmental Importance
+High boiling point 100°C (expected < 0°C
+without H-bonds)
+Extensive H-bonding
+requires high energy to
+break
+Liquid water exists over wide T range;
+life possible
+High specific heat 4186 J/kg·K (highest of
+common liquids)
+H-bonds absorb heat;
+temperature changes
+slowly
+Oceans moderate climate; prevents
+extreme temperature swings
+High latent heat of
+vaporisation
+2260 kJ/kg at 100°C Many H-bonds must be
+broken to vaporise
+Sweating cools body; evaporation cools
+lakes and land
+High surface tension 72.8 mN/m at 20°C
+(highest of non-metallic
+liquids)
+H-bonding at surface pulls
+molecules inward
+Capillary rise in soil; water strider
+insects; meniscus
+Maximum density at
+4°C
+1000 kg/m³ at 4°C; ice
+less dense
+H-bond crystal structure in
+ice (less dense)
+Lakes freeze from top; aquatic life
+survives under ice
+High dielectric constant e = 80 (at 20°C) Polar molecules reduce
+electric field between ions
+Reduces force between dissolved ions;
+promotes ionisation
+Amphoteric nature Acts as acid (HnO ®
+Hn + OHn) and base
+Self-ionisation: Kw =
+10n¹n at 25°C
+pH scale foundation; buffer chemistry
+High cohesion &
+adhesion
+Water clings to itself
+and other polar
+surfaces
+H-bonding Capillary action in soil; xylem transport in
+plants
+2.5 Dielectric Constant and Ion Dissolution
+The dielectric constant (e) of water is 80 – exceptionally high. This means water reduces the electrostatic
+attraction between oppositely charged ions by a factor of 80 compared to vacuum. Formula: F = qnqn / (4pene
+r²). High e ® ions in water attract each other with 1/80th the force ® easily separated ® dissolve readily. This is
+why seawater contains so many dissolved salts.
+n EXAM TIP: Water's bond angle = 104.5°; dipole moment = 1.85 D; dielectric constant = 80; density
+maximum = 4°C; specific heat = 4186 J/kg·K. "Like dissolves like" – polar/ionic in water; non-polar in organic
+solvents. Self-ionisation: HnO n Hn + OHn; Kw = 1×10n¹n at 25°C; pH + pOH = 14.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 6
+3. Dissolved Oxygen (DO)
+Dissolved Oxygen (DO) refers to the amount of molecular oxygen (On) dissolved in water. It is the most critical
+parameter for aquatic ecosystem health – the primary indicator of water quality and the foundation of the BOD
+concept. All aerobic organisms depend on DO for survival.
+3.1 DO Saturation Values
+Temperature (°C) DO Saturation (mg/L) at Sea
+Level
+Effect on Aquatic Life
+0 14.6 Very high DO; cold water fisheries (trout, salmon)
+5 12.8 Excellent for coldwater fish
+10 11.3 Good; suitable for most fish
+15 10.1 Good water quality
+20 9.1 Acceptable; warm water fish thrive
+25 8.3 Minimum for most warm-water fish (carp, catfish)
+30 7.6 Stress for sensitive species
+35 7.0 Lower limit; fish avoid if possible
+40 6.4 Most fish avoid; only tolerant species
+3.2 Factors Affecting DO
+Factor Effect on DO Mechanism
+Temperature ­ DO ¯ (strong
+inverse)
+Henry's Law: Kn increases ® less On soluble; thermal pollution deadly
+Salinity ­ DO ¯
+(moderate)
+"Salting out" effect; seawater holds ~20% less DO than freshwater
+Altitude ­ DO ¯ Lower atmospheric pressure ® lower pOn ® less On dissolves
+Turbulence ­ DO ­ Water-atmosphere mixing increases gas exchange rate
+Photosynthesis DO ­ (day) COn + HnO + hn ® glucose + On; can supersaturate water (>100%)
+Respiration/Decomposit
+ion
+DO ¯ Organic matter + On ® COn + HnO; consumes DO
+Organic pollution ­ DO ¯ severely Microbes oxidise organic waste; BOD load depletes DO
+Nitrification DO ¯ NHnn + 2On ® NOnn + 2Hn + HnO (consumes 4.57 g On/g NHnn-N)
+Wind/mixing DO ­ Increases reaeration at water surface
+Algal bloom DO fluctuates
+wildly
+High DO in day (photosynthesis); severe DO crash at night (respiration)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 7
+3.3 DO Measurement – Winkler (Iodometric) Method
+Winkler Method – Steps
+Step 1 (Fixation): MnSOn + KOH/KI added to sample ® MnOn precipitate forms (fixes On)
+Chemical: Mn²n + 2OHn ® Mn(OH)n; Mn(OH)n + ½On ® MnO(OH)n (brown ppt)
+Step 2 (Acidification): HnSOn added ® MnO(OH)n + In ® In released (equivalent to On)
+Chemical: MnO(OH)n + 2In + 4Hn ® Mn²n + In + 3HnO
+Step 3 (Titration): In titrated against NanSnOn with starch indicator (blue ® colourless)
+Chemical: In + 2NanSnOn ® 2NaI + NanSnOn
+Calculation: 1 mL of 0.025 N NanSnOn = 0.2 mg On/L (for 200 mL sample)
+Interferences: Nitrite (oxidises In ® false high DO) ® add azide modification (NaNn).
+3.4 The DO Sag Curve (Streeter–Phelps Equation)
+When organic waste is discharged into a river, DO drops as microbes consume it (BOD), then recovers as
+reaeration occurs. The resulting curve is called the DO Sag Curve. It was mathematically described by Streeter
+and Phelps (1925).
+UPSTREAM (Clean river; DO = DO_sat; low BOD)
+t
+POINT OF EFFLUENT DISCHARGE (DO drops suddenly as high-BOD waste enters; DO deficit increases)
+t
+ZONE OF DEGRADATION (Decomposition zone) DO falling rapidly; active microbial decomposition; turbid;
+HnS, NHn odours
+t
+CRITICAL POINT (DO minimum = DO_c; highest deficit) D_c = k_d × L_a / k_r; time = t_c where dD/dt = 0
+Fish kills occur if DO_c < 4 mg/L
+t
+ZONE OF RECOVERY Re-aeration > deoxygenation; DO rises; fish return; cleaner
+t
+DOWNSTREAM CLEAN ZONE DO restored to saturation; full biological recovery
+Streeter–Phelps DO Sag Equation
+D_t = (k_d × L_a / (k_r - k_d)) × (e^(-k_d×t) - e^(-k_r×t)) + D_a × e^(-k_r×t)
+Where:
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 8
+D_t = DO deficit at time t (mg/L) = DO_sat - DO_t
+k_d = deoxygenation rate constant (dayn¹); first-order BOD decay
+k_r = reaeration rate constant (dayn¹); depends on stream velocity, depth
+L_a = ultimate BOD at point of discharge (mg/L)
+D_a = initial DO deficit at mixing point (mg/L)
+Critical time: t_c = [1/(k_r-k_d)] × ln[(k_r/k_d) × (1 - D_a(k_r-k_d)/k_d×L_a)]
+Critical deficit: D_c = k_d × L_a / k_r × e^(-k_d×t_c)
+3.5 DO Standards for Water Quality
+DO Level
+(mg/L)
+Water Quality
+Class
+Aquatic Life Status Suitable Use
+> 8 Excellent All cold water fish; trout, salmon
+thrive
+Drinking water, excellent fishery
+6 – 8 Good Most warmwater fish (bass,
+perch) thrive
+Recreation, good fishery
+4 – 6 Fair Stress on sensitive fish; less
+diversity
+Warmwater fish; limited fishery
+2 – 4 Poor Only tolerant species survive; fish
+kills possible
+Not suitable for fishery
+< 2 Very poor /
+Hypoxic
+Most fish die; only worms,
+chironomids survive
+Severely polluted
+~0 Anoxic Complete anaerobic conditions;
+HnS, CHn production
+Septic; no aerobic life
+n EXAM TIP: DO at 25°C = 8.3 mg/L (sea level). Fish need minimum 4–5 mg/L. Critical DO point in sag
+curve occurs where dD/dt = 0 (i.e., k_r × D_c = k_d × L_c). NPCB standard: DO ³ 6 mg/L for Class A water
+(drinking after treatment); DO ³ 5 mg/L for Class C (fishery). Winkler method uses NanSnOn titrant with
+starch indicator.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 9
+4. Biochemical Oxygen Demand (BOD)
+Biochemical Oxygen Demand (BOD) is the amount of dissolved oxygen consumed by biological organisms
+(primarily bacteria) when decomposing organic matter in a given water sample at a specified temperature over a
+specified time period. It is the standard measure of organic pollution in water.
+4.1 BOD Test (Standard BODn Test)
+Standard BODn Test Procedure
+Conditions: 20°C in the dark for 5 days (Standard)
+Sample preparation: Dilute sample with DO-saturated dilution water (to prevent On depletion too fast)
+Seed: Add microbial seed (domestic sewage or acclimatised culture)
+Measure: Initial DOn (Day 0) and Final DOn (Day 5)
+Formula: BODn = (DOn - DOn) × Dilution Factor
+Example: DOn = 9 mg/L; DOn = 3 mg/L; Dilution = 1:10 (100 mL sample in 1000 mL) BODn = (9-3) × 10 = 60 mg/L
+Key requirements: DOn > 2 mg/L AND final DOn > 1 mg/L (otherwise re-dilute)
+4.2 First-Order BOD Kinetics
+BOD Exertion Equation (First-Order)
+y_t = L_0 × (1 - e^(-k_d × t))
+Where:
+y_t = BOD exerted at time t (mg/L) = oxygen consumed by time t
+L_0 = Ultimate BOD (L_u) = total oxygen demand if given infinite time (mg/L)
+k_d = BOD rate constant (dayn¹) at 20°C; typical range 0.05–0.30 dayn¹
+t = time (days)
+Remaining BOD at time t: L_t = L_0 × e^(-k_d × t)
+BODn = L_0 × (1 - e^(-5k_d)); for k_d=0.23/day: BODn » 0.68 × L_0 (i.e., 68% of L_0)
+4.3 BOD vs Time Graph Description
+t=0: y=0 (no oxygen consumed yet)
+t
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 10
+t=1–3 days: Rapid BOD exertion (carbonaceous stage) Simple sugars, proteins consumed first; exponential
+curve
+t
+t=5 days: BODn measured » 68–70% of L_0 (for k_d=0.23/day)
+t
+t=7–10 days: Curve flattens; carbonaceous BOD nearly complete Nitrogenous BOD (nitrification) begins
+(NHnn®NOnn)
+t
+t ® ¥: y_t ® L_0 (Ultimate BOD); asymptote approached Total On demand fully expressed
+4.4 Types of BOD
+BOD Type Abbreviati
+on
+Definition Time Period
+5-day BOD BODn Standard measure; On consumed in 5 days at
+20°C; used globally
+5 days at 20°C
+Ultimate carbonaceous
+BOD
+UBOD or
+L_0
+Total On for complete carbon oxidation;
+asymptotic value
+20–28 days at 20°C
+Nitrogenous BOD NBOD On for nitrification (NHnn ® NOnn); starts
+after ~7 days
+7–20+ days
+Immediate On Demand IOD Chemical (non-biological) On demand in first
+few minutes; from reducing chemicals
+Minutes
+Theoretical BOD ThOD Calculated from stoichiometry; maximum
+possible On demand
+Calculated
+4.5 Temperature Correction for BOD
+BOD rate constant (k_d) varies with temperature. Van't Hoff–Arrhenius equation is simplified for water quality to:
+Temperature Correction
+k_d(T) = k_d(20°C) × q^(T-20)
+Where q (theta) = temperature coefficient = 1.047 (for BOD)
+Example: k_d at 25°C = 0.23 × 1.047^(25-20) = 0.23 × 1.259 = 0.29 dayn¹
+Higher temperature ® faster BOD ® more rapid On depletion in summer
+4.6 ThOD Calculation – Worked Example
+ThOD for Glucose (CnHnnOn)
+Balanced equation: CnHnnOn + 6On ® 6COn + 6HnO
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 11
+MW of glucose = 180 g/mol; MW of 6On = 6 × 32 = 192 g/mol
+ThOD = 192/180 = 1.067 g On per g glucose
+For any organic compound CnHnOnNn:
+ThOD = (32/MW) × [x + y/4 - z/2 - 3v/4] × MW_compound
+Real BODn < ThOD because: (a) 5 days not enough; (b) some carbon ® cell biomass; (c) inhibitory compounds
+4.7 BOD Values of Common Water Sources
+Water Type BODn (mg/L) Classification
+Clean river/stream < 2 Very clean; uncontaminated
+Slightly polluted river 2–8 Acceptable; minor organic load
+Moderately polluted 8–20 Significant organic pollution
+Raw domestic sewage 100–300 High; needs primary + secondary treatment
+Treated sewage effluent < 30 (primary) / < 10
+(secondary)
+Post-treatment; effluent standards
+Food processing waste 500–5,000 Very high; strong organic waste
+Dairy waste 1,000–4,000 High; high lactose/fat content
+Brewery waste 1,500–6,000 Very high; high organic content
+Slaughterhouse 1,500–10,000 Extremely high; blood, protein
+CPCB effluent standard < 30 (general) Maximum permissible for discharge
+n EXAM TIP: BODn at 20°C is the STANDARD test. k_d for raw sewage » 0.10–0.15 dayn¹; for treated
+effluent » 0.05–0.10 dayn¹. Relationship: L_0 = BODn / (1 - e^(-5k)). For k=0.23/day: BODn » 0.68 L_0.
+NBOD = 4.57 g On per g NHnn-N oxidised (nitrification). CPCB standard: BOD £ 30 mg/L for treated
+effluent discharge.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 12
+5. Chemical Oxygen Demand (COD)
+Chemical Oxygen Demand (COD) is the amount of oxygen required to chemically oxidise ALL organic matter
+(and some inorganic reducing agents) in a water sample using a strong chemical oxidant under acidic conditions.
+COD > BOD always, because COD oxidises even non-biodegradable compounds that BOD cannot measure.
+5.1 COD Test – Dichromate Reflux Method
+Standard COD Test (Open Reflux Method – IS 3025)
+Oxidant: Potassium dichromate (KnCrnOn) in HnSOn (strong acid, hot conditions)
+Catalyst: AgnSOn (silver sulphate) to oxidise short-chain fatty acids
+Masking agent: HgSOn to remove Cln interference (Cln can falsely increase COD)
+Conditions: 2-hour reflux at 150°C
+Reaction: Organic matter + CrnOn²n ® COn + HnO + Cr³n (green)
+Titration: Excess CrnOn²n back-titrated with FAS (ferrous ammonium sulphate) Indicator: Ferroin
+(colour change: blue-green ® reddish-brown)
+Formula: COD (mg/L) = [(A-B) × M × 8000] / V_sample where A = FAS for blank; B = FAS for sample; M = molarity of
+FAS
+5.2 COD Chemistry
+The dichromate oxidation can be generalised as:
+COD Stoichiometry
+CnHnOn + CrnOn²n ® COn + HnO + Cr³n
+For glucose: CnHnnOn + 6On ® 6COn + 6HnO ThCOD = 1.067 g On/g glucose (= ThOD)
+Equivalence factor: 1 equivalent of CrnOn²n = 8 g of On
+Substances measured by COD but NOT by BOD: lignin, cellulose (partial), benzene, toluene, pesticides
+(non-biodegradable organics), some inorganics (Fe²n, S²n, NOnn)
+5.3 COD Values of Common Water Sources
+Water Type COD (mg/L) Notes
+Clean river water < 10 Negligible organic pollution
+Mildly polluted river 10–50 Some organic input
+Raw domestic sewage 300–600 BODn:COD ratio » 0.5–0.6
+Treated sewage (secondary) 60–150 Some recalcitrant organics remain
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 13
+Water Type COD (mg/L) Notes
+Industrial (food processing) 1,000–20,000 High organic load
+Pharmaceutical effluent 5,000–50,000 High; often non-biodegradable compounds
+Textile dyeing 1,000–10,000 Low BOD:COD ratio (dyes non-biodegradable)
+CPCB standard (general) < 250 mg/L Permissible for discharge to inland water
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 14
+6. Interrelationship: DO, BOD and COD
+6.1 Hierarchy of Oxygen Demand Parameters
+COD (Chemical Oxygen Demand) – LARGEST VALUE All organics oxidised chemically (biodegradable +
+non-biodegradable) Measured in hours; reproducible
+t
+ThOD (Theoretical Oxygen Demand) Calculated from molecular formula; maximum possible COD » ThOD if
+oxidant is strong enough
+t
+Ultimate BOD (L_0 or UBOD) All biodegradable organic matter + nitrogenous Measured biologically; takes
+20+ days
+t
+BODn (5-day BOD at 20°C) – MEASURED STANDARD » 68% of L_0 (for k_d=0.23/day); most commonly
+reported Excludes non-biodegradable; takes 5 days
+Key Relationship: COD ³ ThOD ³ Ultimate BOD ³ BODn
+In general: COD > Ultimate BOD > BODn
+For purely biodegradable waste (glucose, sucrose): COD » ThOD » Ultimate BOD
+For partially biodegradable waste (domestic sewage): BODn/COD ratio » 0.4–0.6
+For non-biodegradable waste (pharmaceutical, some industrial): BODn/COD ratio < 0.1
+BODn/COD ratio is used to assess biodegradability and treatability!
+6.2 BOD/COD Ratio – Treatability Indicator
+BODn/COD Ratio Interpretation Treatment Implication
+> 0.6 Highly biodegradable Biological treatment (activated sludge) very effective
+0.4 – 0.6 Moderately biodegradable Biological treatment effective (domestic sewage ~0.5)
+0.2 – 0.4 Partially biodegradable Combination of biological + chemical/physical treatment
+< 0.2 Poorly biodegradable Physical/chemical treatment needed (adsorption, ozonation, AOP)
+» 0 Non-biodegradable Recalcitrant compounds; incineration or advanced treatment required
+6.3 Comprehensive Comparison Table
+Parameter DO BOD COD
+Full Name Dissolved Oxygen Biochemical Oxygen Demand Chemical Oxygen Demand
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 15
+Parameter DO BOD COD
+What it measures On available in water On consumed by biodegradable
+organics
+On consumed by all
+oxidisable matter
+Method Winkler (iodometric); DO
+meter (electrochemical)
+Incubation at 20°C for 5 days Dichromate reflux (2 hr,
+150°C)
+Time required Minutes 5 days (standard) 2–3 hours
+Oxidant Molecular On Biological (microbial) KnCrnOn (chemical)
+Typical units mg/L mg/L mg/L
+Clean water value 8–12 mg/L (sat.) < 2 mg/L < 10 mg/L
+Sewage value < 1 mg/L 100–300 mg/L 300–600 mg/L
+Indicates Pollution level; ecosystem
+health
+Organic biodegradable pollution Total organic + some
+inorganic pollution
+Limitation Doesn't show what caused
+depletion
+Slow; doesn't capture
+non-biodegradables
+Doesn't distinguish
+biodegradable vs
+non-biodegradable
+Standard/Regulation NPCB: ³ 6 mg/L Class A CPCB effluent: £ 30 mg/L CPCB effluent: £ 250 mg/L
+n EXAM TIP: The UGC NET loves the BODn/COD ratio. Domestic sewage » 0.5; Industrial
+(non-biodegradable) < 0.1. COD is ALWAYS ³ BODn. Winkler method: MnSOn + KOH/KI ® MnOn ® In
+® NanSnOn titration. COD test uses KnCrnOn with AgnSOn catalyst + HgSOn for Cln masking. FAS is
+used as the back-titrant in the COD test.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 16
+7. UGC NET Pattern MCQs with Explanations
+Q1. Which of the following processes converts liquid water to water vapour at the leaf surface of plants?
+(a) Evaporation
+(b) Condensation
+(c) Transpiration
+(d) Sublimation
+4 Answer: (c)
+Explanation: Transpiration is the release of water vapour from plant leaves through stomata. Evaporation occurs at
+open water/soil surfaces. Together they constitute Evapotranspiration (ET). Plants can release up to 99% of
+absorbed water via transpiration.
+Q2. The unique property of water that allows lakes to freeze from the top down (protecting aquatic life) is:
+(a) High specific heat
+(b) High latent heat of vaporisation
+(c) Maximum density at 4°C
+(d) High surface tension
+4 Answer: (c)
+Explanation: Water reaches maximum density at 4°C. As temperature falls below 4°C, water becomes less dense
+and rises. Ice (0°C) is less dense than liquid water ® floats on top. This insulating ice layer protects aquatic life
+below during winter.
+Q3. Dissolved oxygen (DO) in a river is 6 mg/L. The saturation DO at that temperature (25°C) is 8.3 mg/L.
+The percent DO saturation is:
+(a) 48%
+(b) 72%
+(c) 83%
+(d) 138%
+4 Answer: (b)
+Explanation: Percent DO saturation = (measured DO / saturation DO) × 100 = (6/8.3) × 100 = 72.3%. Values > 100%
+indicate supersaturation (due to intense photosynthesis). Values < 60% indicate pollution stress on aquatic life.
+Q4. The BODn of a wastewater sample is 150 mg/L and the ultimate BOD is 220 mg/L. The BOD reaction
+rate constant k_d (dayn¹) at 20°C is approximately:
+(a) 0.10
+(b) 0.23
+(c) 0.35
+(d) 0.50
+4 Answer: (b)
+Explanation: BODn = L_0(1 - e^(-5k)). 150 = 220(1 - e^(-5k)). 150/220 = 1 - e^(-5k) ® e^(-5k) = 1 - 0.682 =
+0.318. -5k = ln(0.318) = -1.147 ® k = 0.229 » 0.23 dayn¹ (typical for raw sewage).
+Q5. In the standard COD test, which reagent is added to mask chloride interference?
+(a) Ferrous ammonium sulphate (FAS)
+(b) Potassium dichromate (KnCrnOn)
+(c) Mercuric sulphate (HgSOn)
+(d) Silver sulphate (AgnSOn)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 17
+4 Answer: (c)
+Explanation: HgSOn (mercuric sulphate) is added to form non-reactive HgCln with chloride ions, preventing Cln
+from being oxidised by dichromate (which would give falsely high COD). AgnSOn is the catalyst. FAS is the
+back-titrant. KnCrnOn is the oxidant.
+Q6. A textile industry effluent has BODn = 50 mg/L and COD = 800 mg/L. The BOD/COD ratio indicates:
+(a) Highly biodegradable; biological treatment sufficient
+(b) Moderately biodegradable; conventional treatment adequate
+(c) Poorly biodegradable; advanced chemical/physical treatment needed
+(d) The effluent is clean and needs no treatment
+4 Answer: (c)
+Explanation: BOD/COD = 50/800 = 0.0625 (< 0.1). This indicates very poor biodegradability – the organic
+compounds (likely synthetic dyes, fixing agents) resist biological degradation. Advanced oxidation processes (AOP),
+ozonation, or activated carbon are required.
+Q7. In the DO sag curve, the critical point (minimum DO) occurs where:
+(a) BOD load is maximum
+(b) Reaeration rate equals deoxygenation rate (dD/dt = 0)
+(c) Streamflow velocity is minimum
+(d) Temperature is maximum
+4 Answer: (b)
+Explanation: The critical point is where the rate of oxygen depletion (deoxygenation) equals the rate of oxygen
+replenishment (reaeration), so net change in deficit = 0 (dD/dt = 0). At this point D = D_c = k_d × L_c / k_r and the
+DO is at its lowest.
+Q8. Which of the following is the correct sequence of the Winkler method for DO determination?
+(a) Add NanSnOn ® Add HnSOn ® Add MnSOn ® Titrate
+(b) Add MnSOn+KOH/KI ® Add HnSOn ® Titrate with NanSnOn
+(c) Add KnCrnOn ® Reflux ® Titrate with FAS
+(d) Add Ferroin ® Add HnSOn ® Titrate
+4 Answer: (b)
+Explanation: The Winkler (iodometric) method: (1) Fix DO with MnSOn+KOH/KI ® MnO(OH)n precipitate; (2)
+Acidify with HnSOn ® releases In proportional to On; (3) Titrate In with NanSnOn using starch indicator. Option
+(c) describes the COD test.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 18
+8. Assertion–Reason Questions
+Q1. [Assertion–Reason]
+Assertion (A): BODn is always less than the Chemical Oxygen Demand (COD) of a wastewater sample.
+Reason (R): COD uses a strong chemical oxidant that oxidises both biodegradable and
+non-biodegradable organic compounds, while BODn only measures oxygen consumed by biological
+degradation in 5 days.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+Explanation: Both A and R are true. BODn < COD because: (1) 5 days is not enough for complete biological
+oxidation; (2) non-biodegradable compounds are included in COD but not BODn. R correctly and completely
+explains A. Select (a).
+Q2. [Assertion–Reason]
+Assertion (A): Dissolved oxygen in a lake is higher during the day than at night in summer.
+Reason (R): Aquatic plants and algae produce oxygen through respiration during the day.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (c)
+Explanation: A is TRUE: DO is higher during day due to photosynthesis producing On. R is FALSE: the explanation
+incorrectly says "respiration" – it should be "PHOTOSYNTHESIS." Respiration actually CONSUMES On. R gives the
+wrong process. Select (c): A true, R false.
+Q3. [Assertion–Reason]
+Assertion (A): The critical point of a DO sag curve is most dangerous for fish during high-temperature
+summer.
+Reason (R): Temperature increase reduces DO saturation (Henry's Law) AND accelerates microbial BOD
+exertion, creating a double effect that deepens the sag.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+Explanation: Both A and R are correct. Summer: (1) DO_sat falls (e.g., from 9.1 at 20°C to 7.6 at 30°C); (2) k_d
+increases ® faster BOD ® lower critical DO. Both effects combine to make summer DO sags much more severe ®
+fish kills more likely. R correctly explains A. Select (a).
+Q4. [Assertion–Reason]
+Assertion (A): Water is called the universal solvent because it can dissolve all substances.
+Reason (R): Water has a high dielectric constant (80) and is a polar molecule capable of hydrogen
+bonding.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (b)
+Explanation: A is not entirely accurate ("all substances" is wrong – water cannot dissolve non-polar compounds like
+oils, benzene, alkanes). However, for this question if we accept the common usage, A is approximately true. R is
+completely true and correctly explains the mechanism. But strictly: A is a partial truth. In UGC NET context: select (b)
+– both true, R is mechanism but does not fully justify "universal" (which is a misnomer).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 19
+9. Master Revision Summary Table
+Concept Key Formula / Value Environmental Relevance UGC NET Focus
+Hydrological cycle P = ET + Q + DS Water availability; drought;
+flooding; recharge
+Processes, water budget,
+residence times
+Water distribution Oceans=96.5%; Ice=1.74%;
+GW=0.76%
+Only 2.5% total is fresh; crisis
+context
+Reservoir volumes,
+percentages
+Evapotranspiration Penman–Monteith equation Irrigation; climate; desertification Components; ET vs E vs T
+Residence time t = Volume/Flow rate Atmosphere: 9 days;
+groundwater: 100–10,000 yr
+Long t = slow recovery
+from pollution
+Water polarity Bond angle 104.5°; dipole=1.85
+D
+Dissolution; nutrient transport;
+toxicant fate
+Structure; why polar;
+H-bonding
+Dielectric constant e = 80 (water); reduces ionic
+forces 80×
+Ion dissolution; seawater
+composition
+Relation to solubility; e
+formula
+Anomalous
+properties
+Max density at 4°C; specific
+heat=4186 J/kg·K
+Lake stratification; climate
+moderation
+Each property + cause +
+significance
+DO saturation 8.3 mg/L at 25°C; 14.6 at 0°C Aquatic life support; thermal
+pollution
+DO vs T table; factors
+affecting DO
+Winkler method MnSOn®MnOn®In®NanSn
+On titration
+Standard DO measurement in
+field
+Step sequence;
+interferences; azide mod
+DO sag curve Streeter–Phelps equation; D_c
+= k_d×L_a/k_r
+River self-purification; effluent
+impact
+Zones; critical point;
+equation terms
+BODn y = L_0(1-e^(-kt)); 5 days, 20°C Standard organic pollution
+measure
+Kinetics; formula; k_d;
+ThOD calc
+BOD temperature k(T) = k(20) × 1.047^(T-20) Summer BOD depletion faster Theta correction; k_d
+values
+COD test KnCrnOn; AgnSOn; HgSOn;
+FAS titrant
+Fast alternative to BOD; industrial
+use
+Reagents; procedure;
+formula
+BOD/COD ratio > 0.6: biodegradable; < 0.1:
+recalcitrant
+Treatment plant design; effl.
+assessment
+Interpretation of ratio
+values
+n Final Exam Strategy for Topic 2.3
+1. Hydrological cycle: know all processes (evaporation, transpiration, condensation, precipitation,
+infiltration, runoff, percolation); water balance P=ET+Q+DS.
+2. Water properties: bond angle 104.5°; density max at 4°C; e=80; specific heat=4186 J/kg·K; 4 H-bonds
+per molecule.
+3. DO: saturation values (memorise 8.3 mg/L at 25°C); factors; Winkler method steps; sag curve zones
+and critical point.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.3 – Hydrological Cycle, Water as Universal Solvent, DO, BOD & COD
+© UGC NET Env. Sci. Study Notes | Topic 2.3 Page 20
+4. BOD: y = L_0(1-e^(-kt)); BODn at 20°C; ThOD for glucose = 1.067 g On/g; k_d ~ 0.23/day for typical
+sewage.
+5. COD: KnCrnOn oxidant; AgnSOn catalyst; HgSOn for Cln; FAS back-titrant; ferroin indicator.
+6. Relationships: COD ³ Ultimate BOD ³ BODn; BOD/COD ratio for treatability; domestic sewage ratio »
+0.5.
+7. Standards: DO ³ 6 mg/L (Class A); BOD £ 30 mg/L (effluent); COD £ 250 mg/L (effluent discharge).
+8. Streeter–Phelps: know what D_t, k_d, k_r, L_a, D_a represent; critical point concept.
