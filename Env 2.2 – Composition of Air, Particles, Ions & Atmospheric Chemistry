@@ -1,0 +1,772 @@
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 1
+Topic 2.2 Composition of Air, Particles, Ions,
+Radicals & Atmospheric Chemistry
+Syllabus Coverage – Topic 2.2
+Sub-Topic Key Concepts
+Composition of Air Major, minor, trace gases; variation with altitude
+Particles in Atmosphere PM classification, sources, size distribution, health effects
+Ions & Radicals OH•, NOn•, HOn•, ionic species; sources and lifetimes
+Chemical Speciation Oxidation states, species forms, analytical speciation
+Inorganic Particulate Formation Nucleation, condensation, coagulation, secondary aerosols
+Organic Particulate Formation SOA, VOC oxidation, humic-like substances
+Thermochemical Reactions Thermal NOx, SOn oxidation, combustion chemistry
+Photochemical Reactions UV photolysis, radical chain reactions, tropospheric ozone
+Oxygen & Ozone Chemistry Chapman cycle, stratospheric ozone; DO in environment
+Photochemical Smog LA-type smog, NOx-VOC-On cycle, PAN formation
+1. Composition of Air
+The atmosphere is a mixture of gases held by Earth's gravity. Its composition is remarkably uniform in the lower
+atmosphere (troposphere + stratosphere) due to constant mixing, but varies significantly with altitude and locally
+near pollution sources.
+1.1 Major, Minor and Trace Gases
+Gas Chemical
+Formula
+% by Volume
+(Dry Air)
+Category Environmental Role
+Nitrogen Nn 78.09% Major Inert buffer; N-fixation by microbes; forms NOx at
+high T
+Oxygen On 20.95% Major Aerobic respiration; ozone precursor; combustion
+supporter
+Argon Ar 0.93% Major Noble gas; completely inert; used as atmospheric
+tracer
+Carbon
+Dioxide
+COn ~0.042% (421 ppm,
+2024)
+Minor Primary GHG; photosynthesis substrate; ocean
+acidification
+Neon Ne 18.18 ppm Trace Noble gas; no environmental role
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 2
+Gas Chemical
+Formula
+% by Volume
+(Dry Air)
+Category Environmental Role
+Helium He 5.24 ppm Trace Noble gas; escapes to space gradually
+Methane CHn ~1.9 ppm Trace Potent GHG (GWP=84 over 20yr); from wetlands,
+cattle, gas
+Krypton Kr 1.14 ppm Trace Noble gas; Kr-85 from nuclear reactors
+Nitrous Oxide NnO ~0.33 ppm Trace GHG (GWP=273); ozone depleter; from agriculture
+Ozone On 0.02–0.07 ppm
+(trop.)
+Trace Troposphere: pollutant; Stratosphere: UV shield
+Water Vapour HnO 0–4% (variable) Variable Most important GHG by mass; drives weather; highly
+variable
+SOn SOn 0.02–1 ppm
+(polluted)
+Pollutant Acid rain precursor; volcanic + combustion source
+NOn NOn 0.01–0.1 ppm
+(urban)
+Pollutant Photochemical smog; respiratory damage; brown
+colour
+CO CO 0.1–0.2 ppm
+(urban)
+Pollutant Combustion product; binds Hb; asphyxiant
+1.2 Variation of Composition with Altitude
+THERMOSPHERE (>80 km) – Nn, On dissociated; auroras; temp rises steeply
+t
+MESOSPHERE (50–80 km) – On absent; coldest layer (-90°C); meteors burn
+t
+STRATOSPHERE (12–50 km) – On layer peaks at 25 km; temp INCREASES with altitude; dry; no weather
+t
+TROPOSPHERE (0–12 km) – 75% of air mass; all weather; T decreases with altitude; COn, HnO, pollutants
+n EXAM TIP: Nn = 78.09%, On = 20.95%, Ar = 0.93%, COn = ~0.042% — memorise this order! COn has
+risen from 280 ppm (pre-industrial) to 421 ppm (2024). Water vapour is the MOST ABUNDANT GHG but
+NOT counted in dry air composition.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 3
+2. Particles in the Atmosphere
+Atmospheric particles (aerosols) are solid or liquid particles suspended in air. They affect visibility, human
+health, climate (direct and indirect effects), and atmospheric chemistry. Classified by size, composition, and
+source.
+2.1 Particle Size Classification
+Classification Size
+Range
+Also Called Health/Environmental Significance
+TSP (Total Suspended
+Particulates)
+< 100 μm All particles Visual indicator; settles in nose/mouth
+PMnn (Coarse) < 10 μm Inhalable particles Penetrates to upper respiratory tract; allergies,
+asthma
+PMn.n (Fine) < 2.5 μm Respirable/fine Reaches alveoli; systemic effects; heart & lung
+disease
+PMn (Ultrafine) < 1 μm Accumulation
+mode
+Longest airborne residence; carries toxic metals &
+organics
+UFP (Ultrafine) < 0.1 μm
+(100 nm)
+Nanoparticles Can cross into bloodstream and brain; highest
+number conc.
+Aitken nuclei 0.001–0.1
+μm
+Nucleation mode Newly formed particles from gas-to-particle
+conversion
+2.2 Sources of Atmospheric Particles
+Source Type Examples Particle Type Produced
+Natural – Crustal Wind erosion, desert dust, soil
+resuspension
+Coarse PMnn; quartz, clay minerals
+Natural – Sea spray Wave breaking; ocean evaporation Coarse NaCl, sulphate particles
+Natural – Biogenic Pollen, spores, plant VOCs Coarse (biological); fine SOA
+Natural – Volcanic Eruptions emit SOn ® HnSOn aerosol Fine sulphate PMn.n
+Natural – Wildfires Incomplete biomass combustion Fine carbonaceous PMn.n
+Anthropogenic –
+Combustion
+Vehicle exhaust, power plants, industry Fine PMn.n; EC, OC, PAHs, metals
+Anthropogenic – Industrial Cement, mining, smelting Coarse and fine; heavy metals
+Anthropogenic –
+Agriculture
+Tilling, fertiliser NHn, biomass burning Coarse dust; fine ammonium salts
+Secondary formation Gas-to-particle conversion (SOx, NOx,
+VOCs)
+Fine/ultrafine PMn.n; sulphate, nitrate, SOA
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 4
+2.3 Chemical Composition of PM
+Component Abbreviati
+on
+Sources Health Significance
+Elemental Carbon
+(soot)
+EC / BC Diesel, biomass burning Carcinogen carrier; climate forcer
+Organic Carbon OC Combustion, SOA Toxic organics; PMn.n mass
+Sulphate SOn²n SOn oxidation Hygroscopic; acidic aerosol; visibility
+Nitrate NOnn NOx + NHn Ammonium nitrate haze; secondary PM
+Ammonium NHnn Agricultural NHn Neutralises acidic sulphate/nitrate
+Crustal elements Si, Al, Ca,
+Fe, Mg
+Soil, dust PMnn; allergies
+Heavy metals Pb, Cd, Cr,
+Ni, As
+Smelting, coal, traffic Carcinogenic, neurotoxic, nephrotoxic
+Sea salt NaCl,
+MgCln
+Ocean spray Coarse particle; cloud nuclei
+n EXAM TIP: NAAQS India (2009): PMn.n annual standard = 40 μg/m³; 24-hr = 60 μg/m³. PMnn annual =
+60 μg/m³; 24-hr = 100 μg/m³. WHO 2021 guidelines are stricter: PMn.n annual = 5 μg/m³. Primary particles
+emitted directly; Secondary particles form IN the atmosphere from gaseous precursors (SOn, NOx, VOCs,
+NHn).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 5
+3. Ions and Radicals in the Atmosphere
+Atmospheric chemistry is driven by highly reactive free radicals (species with unpaired electrons) and ions.
+Though present in trace amounts, they control the fate of pollutants, ozone, and greenhouse gases.
+3.1 Key Free Radicals
+Radical Formula Formation Reaction Role in Atmosphere Lifetime
+Hydroxyl radical OH• O(¹D) + HnO ® 2OH•; also
+HONO photolysis
+Primary atmospheric "detergent";
+oxidises CHn, CO, VOCs, SOn,
+NOn
+~1 second
+Hydroperoxyl HOn• OH• + CO ® COn + H•; H• +
+On ® HOn•
+Converts NO to NOn; regenerates
+OH•; forms HnOn
+Minutes
+Nitrate radical NOn• NOn + On ® NOn• + On
+(night-time)
+Nighttime oxidant; removes VOCs
+when OH• absent
+Seconds–mi
+nutes
+Methyl peroxy CHnOn• CHn• + On ® CHnOn• Intermediate in CHn oxidation chain Minutes
+Peroxy acyl
+nitrate
+(precursor)
+RC(O)On• From VOC + OH• + On Forms PAN; reservoir for NOx
+transport
+Hours (at
+low T)
+Atomic oxygen O(¹D) On + hn (< 320 nm) ® On +
+O(¹D)
+Reacts with HnO to form OH•;
+initiates chemistry
+Nanosecon
+ds
+Chlorine radical Cl• CFCs + UV ® Cl• in
+stratosphere
+Catalytic ozone destruction (Cl• +
+On ® ClO + On)
+Years (ClO
+cycle)
+3.2 Key Ionic Species in the Atmosphere
+Ion Source Environmental Significance
+Hn (proton) Acid rain (HnSOn, HNOn
+dissolution)
+Controls pH of rain, fog, cloud water
+SOn²n (sulphate) SOn oxidation by OH• or in cloud
+droplets
+Acid deposition; PMn.n mass; cooling aerosol
+NOnn (nitrate) HNOn + NHn ® NHnNOn; NnOn
+hydrolysis
+Secondary PM; dry and wet deposition; eutrophication
+NHnn
+(ammonium)
+NHn (agriculture) + HnSOn/HNOn Neutralises acidic aerosol; PMn.n; fine particle
+Cln (chloride) Sea spray; HCl from coal
+combustion
+Cloud condensation nuclei; Cl• precursor
+Ca²n, Mg²n, Kn Crustal dust, sea spray Neutralise acid; soil dust tracer
+Onn (superoxide) Photochemical reactions in clouds Produces HnOn; oxidises Fe²n in droplets
+The OH Radical – The Atmosphere's Detergent
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 6
+OH• is the single most important oxidant in the troposphere. It initiates the oxidation of nearly all reduced
+gases including:
+• CHn + OH• ® CHn• + HnO (methane oxidation, 9-year lifetime of CHn)
+• CO + OH• ® COn + H• (CO removal, ~2-month lifetime)
+• SOn + OH• ® HOSOn• ® HnSOn (sulphate aerosol formation)
+• NOn + OH• ® HNOn (nitric acid; removes NOx from cycle)
+Global average OH• concentration » 1 × 10n molecules/cm³.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 7
+4. Chemical Speciation
+Chemical speciation refers to the identification and quantification of the different chemical forms (species) in
+which an element occurs in a sample. The same element can exist in multiple oxidation states or chemical
+compounds with very different toxicities, mobilities, and environmental effects.
+4.1 Why Speciation Matters
+Element Species 1 Species 2 Critical Difference
+Chromium
+(Cr)
+Cr³n – essential
+micronutrient, low toxicity
+Crnn (chromate) –
+carcinogen (IARC Group 1)
+Oxidation state changes toxicity drastically
+Arsenic
+(As)
+As³n (arsenite) – most toxic
+form
+Asnn (arsenate) – less
+toxic; methylated forms least
+toxic
+Speciation determines treatment & risk
+Nitrogen
+(N)
+NOnn (nitrate) – mobile in
+water; eutrophication
+NHnn (ammonium) –
+sorbed to soil; less mobile
+Form determines fate in environment
+Mercury
+(Hg)
+Hgn (elemental) – volatile;
+global transport
+MeHg (methylmercury) –
+bioaccumulative neurotoxin
+Speciation controls bioavailability
+Iron (Fe) Fe²n (ferrous) – soluble;
+bioavailable
+Fe³n (ferric) – insoluble;
+precipitates
+Controls dissolved Fe in ocean; aerobic vs.
+anaerobic
+Sulphur
+(S)
+SOn – gaseous air pollutant SOn²n – aerosol/wet
+deposition; acid rain
+Speciation determines fate and impact
+4.2 Analytical Methods for Speciation
+Method Technique Application
+Ion Chromatography IC Separates SOn²n, NOnn, Cln, NHnn in air/water samples
+HPLC-ICP-MS Coupled technique Arsenic speciation: As³n, Asnn, MMA, DMA
+GC-MS Gas chromatography-
+Mass spec
+VOC speciation; organic compound identification
+XRF X-ray Fluorescence Elemental composition of PM filters
+AAS/ICP-AES Atomic spectroscopy Total metal concentration (not speciation alone)
+Voltammetry Electrochemical Dissolved metal speciation in water (free ion vs. complexed)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 8
+5. Formation of Inorganic and Organic Particulate Matter
+Atmospheric particles form through two main pathways: (1) Primary – direct emission of particles; (2)
+Secondary – gas-to-particle conversion (nucleation, condensation, coagulation) from gaseous precursors.
+5.1 Gas-to-Particle Conversion Steps
+GASEOUS PRECURSORS: SOn, NOx, NHn, VOCs
+t
+CHEMICAL REACTION (oxidation by OH•, On, NOn•) ® Low-Volatility Products (HnSOn, HNOn, organic
+acids, SVOC)
+t
+NUCLEATION: New particle birth from gas molecules (Homogeneous: HnSOn+HnO; Heterogeneous: on
+existing surfaces)
+t
+CONDENSATION: Vapour deposits onto existing particles ® particle GROWS
+t
+COAGULATION: Particles collide and merge ® larger particles
+t
+SECONDARY AEROSOL (PMn.n): Sulphate, Nitrate, SOA, Ammonium
+5.2 Inorganic Secondary Aerosol Formation
+Precursor
+Gas
+Oxidation Pathway Product Aerosol Conditions
+SOn SOn + OH• ® HnSOn (gas phase)
+SOn + HnOn/On ® HnSOn
+(aqueous phase)
+Ammonium sulphate
+(NHn)nSOn Ammonium
+bisulphate NHnHSOn
+Daytime; cloud/fog presence
+NOn NOn + OH• ® HNOn NnOn + HnO
+® 2HNOn (night)
+Ammonium nitrate NHnNOn
+(semi-volatile!)
+Low temperature favours PM
+form; high T ® re-evaporation
+NHn Reacts with HnSOn and HNOn NHnn salts in PMn.n Agriculture, livestock, fertiliser
+HCl Sea spray; chloride displacement NaCl, NHnCl particles Coastal areas; urban
+5.3 Secondary Organic Aerosol (SOA) Formation
+Secondary Organic Aerosol (SOA) forms when VOCs (volatile organic compounds) are oxidised in the
+atmosphere by OH•, On, or NOn•, producing semi-volatile organic compounds (SVOCs) that condense onto
+particles. SOA can constitute 30–70% of PMn.n in many regions.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 9
+VOC Precursor Source SOA Products Yield
+Isoprene (CnHn) Forests (largest global VOC
+source)
+Methyltetrol, organosulphates,
+IEPOX-SOA
+1–3% (low but huge
+source)
+Monoterpenes
+(a-pinene)
+Coniferous forests, cleaning
+products
+Pinic acid, cis-pinonic acid, HULIS 10–40%
+Benzene, Toluene,
+Xylene
+Fossil fuels, paints, solvents Glyoxal, methylglyoxal, nitrophenols 5–35%
+Naphthalene (2-ring
+PAH)
+Diesel exhaust, coal tar Phthalic acid, SOA with
+carcinogenic potential
+20–73%
+Long-chain alkanes Vehicle exhaust, lubricants Hydroxy & carbonyl compounds 5–20%
+n EXAM TIP: Primary vs Secondary PM: Primary = directly emitted (soot, dust, sea salt). Secondary =
+formed in atmosphere (sulphate, nitrate, SOA). India's PMn.n in winter is dominated by secondary aerosols
++ biomass burning. Ammonium nitrate is semi-volatile – exists as gas at high T, PM at low T.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 10
+6. Thermochemical Reactions in the Atmosphere
+Thermochemical reactions are driven by thermal energy (heat) rather than light. High temperatures in
+combustion engines, furnaces, and lightning cause reactions that produce major atmospheric pollutants.
+6.1 Thermal NOx Formation (Zeldovich Mechanism)
+Thermal NOx – Extended Zeldovich Mechanism
+Occurs at temperatures > 1300°C (combustion engines, power plants, lightning)
+Step 1: On n 2O• (On dissociation at high T)
+Step 2: O• + Nn ® NO + N• (rate-limiting step)
+Step 3: N• + On ® NO + O• (chain propagation)
+Step 4: N• + OH• ® NO + H• (secondary pathway)
+Net: Nn + On ® 2NO (NO then oxidises to NOn)
+Rate increases exponentially with T – hence "thermal" NOx
+6.2 Other Types of NOx Formation
+Type Temperature Mechanism Source
+Thermal NOx > 1300°C Nn + On ® 2NO (Zeldovich) Power plants, engines at high load
+Fuel NOx 600–900°C N in fuel (coal, oil) oxidises to NO Coal combustion; dominant at lower T
+Prompt NOx Flame front CH• radicals + Nn ® HCN ® NO
+(Fenimore)
+Natural gas flames; rich conditions
+NnO-pathway
+NOx
+Low T Nn + O ® NnO ® NO at catalyst
+surfaces
+Lean-burn engines; catalytic processes
+6.3 Thermal Oxidation of Sulphur
+S (in coal/oil) + On ® SOn (combustion, thermochemical). SOn then undergoes further thermochemical or
+photochemical oxidation: 2SOn + On n 2SOn (catalysed by VnOn at 450°C in contact process). SOn + HnO
+® HnSOn (acid rain precursor).
+6.4 Combustion Chemistry
+Fuel Complete Combustion Incomplete Combustion Products
+Carbon (coal) C + On ® COn CO, soot (EC), PAHs
+Methane (gas) CHn + 2On ® COn + 2HnO CO, HCHO, unburnt hydrocarbons
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 11
+Fuel Complete Combustion Incomplete Combustion Products
+Petrol (octane) CnHnn + 12.5On ® 8COn +
+9HnO
+CO, benzene, VOCs, PMn.n, PAHs
+Diesel Similar to octane but higher C:H More soot (BC), NOn, PAHs, PMn.n
+Biomass Cellulose + On ® COn + HnO CO, CHn, BC, Kn aerosol, levoglucosan
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 12
+7. Photochemical Reactions in the Atmosphere
+Photochemical reactions are initiated by absorption of solar radiation (particularly UV light). A photon (hn) is
+absorbed by a molecule, raising it to an excited state that then dissociates or reacts. These reactions dominate
+daytime atmospheric chemistry.
+7.1 Basic Photochemistry Principles
+Beer–Lambert Law & Photolysis Rate
+Photolysis rate constant: J = ò s(l) × f(l) × F(l) dl
+where: s(l) = absorption cross-section; f(l) = quantum yield (fraction of absorptions leading to reaction);
+F(l) = actinic flux (photons/cm²/s/nm)
+Higher solar elevation ® larger F(l) ® faster photolysis ® more radical chemistry
+7.2 Key Photochemical Reactions in Troposphere
+Reaction Wavelength Products Significance
+NOn + hn ® NO + O(³P) < 424 nm
+(visible)
+NO + atomic oxygen Primary On formation step; daytime only
+O(³P) + On + M ® On + M Thermal (no
+photon)
+Ozone Tropospheric On source (smog)
+On + hn ® On + O(¹D) < 320 nm
+(UV-B)
+Excited oxygen atom Initiates OH• production
+O(¹D) + HnO ® 2OH• Thermal Hydroxyl radical Main OH• source; daytime oxidation
+HONO + hn ® OH• + NO 310–400 nm OH• + NO Morning OH• burst; traffic source
+HnOn + hn ® 2OH• < 360 nm OH• radical Additional OH• source in clouds
+HCHO + hn ® H• + HCO• < 340 nm Radicals ® HOn• Formaldehyde as radical source
+PAN + hn / thermal ® PA• + NOn Thermal at >
+25°C
+NOx release far from
+source
+Long-range NOx transport
+n EXAM TIP: The photostationary state: NOn + hn n NO + On system. In clean air: [On] = J(NOn) ×
+[NOn] / (k × [NO]). VOCs perturb this by converting NO ® NOn WITHOUT consuming On, leading to On
+accumulation – this is the smog mechanism!
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 13
+8. Oxygen and Ozone Chemistry
+Oxygen and ozone are central to both stratospheric (beneficial) and tropospheric (harmful) chemistry.
+Understanding both contexts is essential for UGC NET.
+8.1 The Chapman Cycle – Stratospheric Ozone
+Sidney Chapman (1930) proposed the natural ozone formation and destruction cycle in the stratosphere. This is
+the pure oxygen mechanism – explains the natural On layer without CFCs.
+FORMATION: On + hn (< 242 nm) ® 2O• [UV-C absorbed]
+t
+O• + On + M ® On + M [M = Nn or On – third body for energy]
+t
+NATURAL DESTRUCTION: On + hn (< 320 nm) ® On + O• [UV-B absorbed – protective!]
+t
+O• + On ® 2On [net: 2On ® 3On – natural balance]
+8.2 Catalytic Ozone Destruction Cycles
+Actual ozone depletion is FASTER than Chapman alone predicts because of catalytic cycles involving trace
+species. Each catalyst molecule can destroy thousands of On molecules before being removed.
+Catalyst (X) Step 1 Step 2 Net reaction Source of X
+Cl• (halogen) Cl• + On ® ClO + On ClO + O• ® Cl• + On 2On ® 3On (Cl•
+regenerated)
+CFCs, HCFCs,
+halons
+NO (nitrogen) NO + On ® NOn + On NOn + O• ® NO + On 2On ® 3On NnO from soils,
+aircraft NOx
+OH•
+(hydrogen)
+OH• + On ® HOn• + On HOn• + O• ® OH• + On 2On ® 3On HnO photolysis in
+stratosphere
+Br• (bromine) Br• + On ® BrO + On BrO + ClO ® Br• + Cl• + On Synergistic with
+Cl•
+Methyl bromide
+(CHnBr), halons
+8.3 Ozone Hole and Recovery
+Parameter Details
+Discovery Farman, Gardiner & Shanklin (1985) – British Antarctic Survey
+Location Antarctica (spring: Sept–Nov); smaller Arctic hole exists
+Cause CFC-11 (CClnF) and CFC-12 (CClnFn) primary culprits; polar stratospheric clouds (PSCs)
+accelerate Cl• activation
+PSC role At < -78°C, PSCs form ® ClONOn + HCl ® Cln on surface ® Cln + hn ® 2Cl• (massive burst)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 14
+Parameter Details
+Minimum On Antarctic ozone dropped to < 100 DU (normal ~300 DU); ~65% depletion at peak
+Montreal Protocol 1987 – phased out CFCs, halons, HCFCs; signed by 197 countries
+Recovery On hole slowly healing; expected full recovery by 2060–2066
+UV consequence UV-B increase ® skin cancer, cataracts, immune suppression, marine phytoplankton damage
+8.4 Dobson Unit (DU)
+Total column ozone is measured in Dobson Units (DU). 1 DU = 0.01 mm thickness of pure On layer at STP.
+Normal stratospheric ozone = 300 DU. Values below 220 DU define the ozone hole. Measured by: Dobson
+spectrophotometer, TOMS, OMI satellite instruments.
+n EXAM TIP: CFC-11 = CClnF (Freon-11); CFC-12 = CClnFn (Freon-12) – most damaging CFCs. Ozone
+Depletion Potential (ODP): CFC-11=1.0 (reference), Halon-1301=10.0. GWP: CFC-12 = 10,200 (vs
+COn=1). Montreal Protocol (1987) is the MOST SUCCESSFUL international environmental treaty.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 15
+9. Photochemical Smog
+Photochemical smog (Los Angeles-type / oxidising smog) is a complex mixture of pollutants formed by
+photochemical reactions of NOx and VOCs in sunlight. It is characterised by high ozone, PAN, and brownish
+haze. First observed in Los Angeles in the 1940s; now a problem in all major cities including Delhi, Mumbai.
+9.1 Conditions Required for Photochemical Smog
+Condition Requirement Why?
+Sunlight Strong UV (sunny day) Needed for NOn photolysis to start the cycle
+NOx High NO + NOn (vehicle
+exhaust)
+NOn provides O atoms; NO controls On level
+VOCs Reactive hydrocarbons
+(unburnt fuel, solvents)
+Perturb NO/NOn/On ratio; key to On accumulation
+Temperature High (summer, afternoon) Accelerates reactions; reduces PAN stability
+Wind speed Low (stagnant air) Traps pollutants over city
+Topography Valley/basin (L.A., Delhi
+bowl)
+Prevents dispersion; thermal inversion worsens it
+9.2 The NOx–VOC–On Smog Mechanism
+MORNING RUSH: NO + VOCs emitted from vehicles
+t
+NOn + hn (sunlight) ® NO + O• [UV < 424 nm; daytime only]
+t
+O• + On + M ® On (ozone builds up by mid-morning)
+t
+WITHOUT VOCs: NO + On ® NOn + On (On destroyed; balance kept) WITH VOCs: VOC + OH• ® ROn• +
+HOn• ROn• + NO ® NOn + RO• (NO®NOn WITHOUT consuming On!)
+t
+Net: NO converted to NOn by VOC radicals ® On accumulates! On peaks at AFTERNOON (1–4 PM) On
+reacts with alkenes ® carbonyls, PAN, aerosol
+9.3 Key Products of Photochemical Smog
+Product Formation Effects Threshold
+Ozone (On) O• + On (via NOn
+photolysis + VOC cycle)
+Lung damage; crop loss; eye
+irritation; rubber cracking
+NAAQS: 100 μg/m³ (8hr avg)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 16
+Product Formation Effects Threshold
+PAN (Peroxyacyl
+Nitrate)
+CHnC(O)On• + NOn n
+PAN (reversible at > 25°C)
+Powerful lachrymator (eye
+irritant); phytotoxic; NOx
+reservoir
+Irritating at > 10–20 ppb
+Acrolein
+(CHn=CHCHO)
+Oxidation of propene,
+1,3-butadiene
+Eye/respiratory irritant;
+carcinogen suspect
+Odour at 0.25 ppm
+Formaldehyde
+(HCHO)
+OH• + CHn; VOC oxidation Eye/nose irritant; IARC Group 1
+carcinogen
+WHO: 0.1 mg/m³ (30 min)
+Nitric acid (HNOn) NOn + OH• ® HNOn Acid rain; aerosol nitrate;
+ammonium nitrate PM
+Wet/dry deposition
+Secondary aerosol
+PMn.n
+Organic and inorganic from
+smog chemistry
+Visibility reduction;
+respiratory/cardiovascular
+disease
+NAAQS: 60 μg/m³ 24-hr
+Brown NOn layer NOn absorbs blue light ®
+brownish sky
+Photosynthesis reduction;
+aesthetic impact
+Visible haze
+9.4 Comparison: Photochemical Smog vs. London Smog
+Feature Photochemical Smog (LA-type) London Smog (Industrial/Reducing)
+Type Oxidising smog Reducing smog
+Conditions Sunny, warm, low humidity Cold, foggy, high humidity, stable air
+Primary pollutants NOx + VOCs (vehicle) SOn + smoke (coal combustion)
+Key secondary
+pollutant
+On, PAN, organic aerosol HnSOn droplets, sulphate
+Colour Brown/yellowish haze Grey/black "pea-soup" fog
+Time of day Afternoon maximum (1–4 PM) Morning/night (temperature inversion)
+Historic event LA 1940s–1950s; current Delhi London 1952 (4000+ deaths in 4 days)
+Health impact Eye irritation, On lung damage, PAN Bronchitis, pneumonia (SOn + PM)
+n EXAM TIP: VOC/NOx ratio determines smog type: High VOC/NOx ® VOC-limited (reduce VOCs); Low
+VOC/NOx ® NOx-limited (reduce NOx). Delhi is VOC-limited in winter. PAN is a marker of photochemical
+smog; SOn²n is a marker of London-type smog. On peak is ALWAYS in the AFTERNOON. NOx peak is in
+the MORNING (rush hour).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 17
+10. UGC NET Pattern MCQs with Explanations
+Q1. The most abundant gas in the Earth's atmosphere is:
+(a) Oxygen (On)
+(b) Carbon dioxide (COn)
+(c) Nitrogen (Nn)
+(d) Argon (Ar)
+4 Answer: (c)
+Explanation: Nitrogen (Nn) constitutes ~78.09% of dry air by volume. On is 20.95%, Ar is 0.93%, COn is ~0.042%
+(421 ppm in 2024). This is a must-know fact for UGC NET.
+Q2. PMn.n is more hazardous than PMnn because:
+(a) It contains more sulphate
+(b) It reaches the alveoli and can enter the bloodstream
+(c) It has higher settling velocity
+(d) It is primary in origin
+4 Answer: (b)
+Explanation: PMn.n (< 2.5 μm) is fine enough to penetrate deep into alveolar region of lungs, and ultrafine fraction
+can cross into bloodstream. PMnn is filtered by nose/throat. This makes PMn.n far more hazardous for
+cardiovascular and respiratory health.
+Q3. The "detergent of the atmosphere" is:
+(a) Ozone (On)
+(b) Hydrogen peroxide (HnOn)
+(c) Hydroxyl radical (OH•)
+(d) Nitrate radical (NOn•)
+4 Answer: (c)
+Explanation: OH• (hydroxyl radical) is called the atmosphere's detergent because it oxidises virtually all reduced
+trace gases (CHn, CO, VOCs, SOn, NOn). It is the primary daytime oxidant. Global average [OH•] » 10n
+molecules/cm³.
+Q4. Which reaction initiates the Chapman cycle for stratospheric ozone formation?
+(a) On + hn ® On + O(¹D)
+(b) On + hn (< 242 nm) ® 2O•
+(c) NO + On ® NOn + On
+(d) OH• + On ® HOn• + On
+4 Answer: (b)
+Explanation: The Chapman cycle begins with photodissociation of On by UV-C radiation (< 242 nm) in the upper
+stratosphere: On + hn ® 2O•. The O atoms then combine with On to form On. Option (a) is ozone photolysis
+(destruction step).
+Q5. Peroxyacyl Nitrate (PAN) is significant because:
+(a) It is a primary pollutant from vehicle exhausts
+(b) It depletes stratospheric ozone
+(c) It transports NOx long distances and acts as a phytotoxic eye irritant
+(d) It is a major GHG
+4 Answer: (c)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 18
+Explanation: PAN (CHnC(O)OnNOn) forms in photochemical smog from VOC oxidation + NOn. At high altitudes
+and low temperatures, it is stable and acts as a reservoir, releasing NOx thousands of km away. It is also a strong
+lachrymator (eye irritant) and phytotoxic at ppb concentrations.
+Q6. Which compound is responsible for the catalytic destruction of stratospheric ozone and was
+regulated by the Montreal Protocol?
+(a) COn
+(b) CHn
+(c) CFCs (Chlorofluorocarbons)
+(d) NnO
+4 Answer: (c)
+Explanation: CFCs (e.g., CFC-11 = CClnF, CFC-12 = CClnFn) are chemically inert in the troposphere but
+photodissociate in the stratosphere releasing Cl•, which catalytically destroys On. The Montreal Protocol (1987)
+phased out CFCs and halons.
+Q7. Secondary Organic Aerosol (SOA) is formed by:
+(a) Direct emission of organic particles from vehicles
+(b) Oxidation of VOCs in the atmosphere followed by gas-to-particle conversion
+(c) Ocean spray carrying organic compounds
+(d) Volcanic emissions of organic gases
+4 Answer: (b)
+Explanation: SOA forms when reactive VOCs (isoprene, terpenes, benzene) are oxidised by OH•, On, or NOn• to
+produce low-volatility SVOCs that condense onto pre-existing particles. SOA can make up 30–70% of PMn.n mass
+in many regions.
+Q8. The brown colour of photochemical smog is primarily due to:
+(a) Suspended dust particles
+(b) Black carbon soot
+(c) NOn which absorbs blue light
+(d) Ozone which absorbs visible light
+4 Answer: (c)
+Explanation: NOn has a characteristic brown/reddish-brown colour. It absorbs strongly at shorter wavelengths (blue),
+leaving longer wavelengths (red/brown) to scatter. This gives photochemical smog its distinctive brownish haze,
+especially visible in urban areas like Delhi and Los Angeles.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 19
+11. Assertion–Reason Questions
+Q1. [Assertion–Reason]
+Assertion (A): Tropospheric ozone is considered a pollutant while stratospheric ozone is beneficial.
+Reason (R): Ozone at all altitudes has the same chemical formula On and identical chemical properties.
+(a) Both A and R are true and R is the correct explanation of A (b) Both A and R are true but R is NOT the
+correct explanation (c) A is true but R is false (d) A is false but R is true
+4 Answer: (b)
+Explanation: A is true: tropospheric On damages crops, lungs, and materials; stratospheric On shields UV-B. R is
+true (On is On chemically) BUT R is NOT the correct explanation – the difference is due to LOCATION and context,
+not chemistry. Select (b).
+Q2. [Assertion–Reason]
+Assertion (A): Photochemical smog is most severe in the afternoon hours (1–4 PM).
+Reason (R): NOn photolysis and VOC oxidation require sunlight, and solar intensity peaks around
+midday.
+(a) Both A and R are true and R is the correct explanation of A (b) Both A and R are true but R is NOT the
+correct explanation (c) A is true but R is false (d) A is false but R is true
+4 Answer: (a)
+Explanation: Both A and R are correct. Smog chemistry requires UV light (NOn + hn). Peak solar intensity occurs
+around noon; smog products (On, PAN) accumulate with a lag of 1–3 hours ® peak at 1–4 PM. R correctly explains
+A. Select (a).
+Q3. [Assertion–Reason]
+Assertion (A): The Montreal Protocol successfully controlled CFC emissions and the ozone hole is
+currently showing signs of recovery.
+Reason (R): CFCs have very short atmospheric lifetimes (< 1 year) and are quickly removed from the
+stratosphere.
+(a) Both A and R are true and R is the correct explanation of A (b) Both A and R are true but R is NOT the
+correct explanation (c) A is true but R is false (d) A is false but R is true
+4 Answer: (c)
+Explanation: A is TRUE – the ozone hole is indeed healing (UNEP reports confirm gradual recovery). R is FALSE –
+CFCs have atmospheric lifetimes of 45–100 YEARS, allowing them to persist and reach the stratosphere. That's why
+recovery takes decades. Select (c).
+Q4. [Assertion–Reason]
+Assertion (A): Nitrate radical (NOn•) is the dominant nighttime oxidant in the troposphere.
+Reason (R): NOn• is rapidly photolysed during daytime by sunlight and therefore only accumulates at
+night.
+(a) Both A and R are true and R is the correct explanation of A (b) Both A and R are true but R is NOT the
+correct explanation (c) A is true but R is false (d) A is false but R is true
+4 Answer: (a)
+Explanation: Both A and R are true and R correctly explains A. NOn• (formed from NOn+On) is destroyed within
+seconds by daytime UV (NOn• + hn ® NOn + O•). At night, with no sunlight, NOn• accumulates and oxidises VOCs,
+DMS, and other species. Select (a).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.2 – Composition of Air, Particles, Ions & Atmospheric Chemistry
+© UGC NET Env. Sci. Study Notes | Topic 2.2 Page 20
+12. Master Revision Summary Table
+Concept Key Fact / Value Environmental Significance UGC NET Focus
+Air composition Nn=78.09%; On=20.95%;
+Ar=0.93%; COn=421ppm
+Baseline for pollution
+measurement
+Concentrations, GHGs,
+trace gases
+PMn.n < 2.5 μm; NAAQS annual=40
+μg/m³
+Reaches alveoli; systemic health
+effects
+Size classification, sources,
+standards
+OH• radical Conc. ~10n /cm³; lifetime ~1s Atmospheric detergent; removes
+CHn, CO, VOCs
+Formation, role, "detergent"
+Chemical speciation Same element, different forms Cr³n vs Crnn; As³n vs Asnn;
+toxicity varies
+Why speciation matters;
+examples
+Secondary PM SOn²n, NOnn, SOA, NHnn 30–70% of PMn.n mass; global
+coverage
+Formation steps;
+precursors
+Thermal NOx Zeldovich; T > 1300°C Power plants, engines;
+Nn+On®2NO
+Mechanism; types of NOx
+NOn photolysis NOn + hn ® NO + O•; l < 424
+nm
+First step of smog On formation Chapman vs smog;
+wavelength
+Chapman cycle On+hn®2O•; O•+On+M®On Natural On layer formation; UV-C
+absorption
+All 4 steps; stratosphere
+Ozone hole CFCs; Cl• catalysis; polar spring Antarctic; Montreal Protocol 1987 Mechanism; ODP; DU;
+recovery
+Photochemical smog NOx+VOC+sunlight®On+PAN LA-type; afternoon peak;
+oxidising
+Vs London smog; products;
+conditions
+PAN CHnC(O)OnNOn; NOx
+reservoir
+Long-range NOx transport;
+phytotoxic
+Formation; stability; role
+n Final Exam Strategy for Topic 2.2
+1. Air composition percentages: memorise Nn=78.09, On=20.95, Ar=0.93, COn=0.042%.
+2. PM classification: TSP > PMnn > PMn.n > PMn > UFP; finer = more dangerous.
+3. OH• radical: daytime oxidant; formed from O(¹D) + HnO; destroys CHn, CO, VOCs.
+4. Chapman cycle: know all 4 steps; On+UV-C ® On; On+UV-B ® On (protective).
+5. Ozone hole: CFCs ® Cl•; catalytic cycle; Montreal Protocol 1987; recovery by ~2060.
+6. Smog: NOx+VOC+UV ® On+PAN; afternoon peak; VOC converts NO®NOn without consuming On.
+7. London smog vs LA smog: reducing vs oxidising; SOn+fog vs NOx+VOC+sun.
+8. Speciation: same element, different toxicity – Cr, As, Hg most important examples.
