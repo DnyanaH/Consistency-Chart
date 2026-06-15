@@ -1,0 +1,1355 @@
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 1
+Topic 2.7
+Principles of Analytical Methods: Titrimetry ·
+Gravimetry · Calorimetry · Chromatography ·
+Spectroscopy · Electrophoresis · Microscopy
+Syllabus Coverage – Topic 2.7
+Analytical Method Sub-types / Techniques Covered
+Titrimetry Acid-base, redox, complexometric, precipitation titrations; equivalence point; indicators;
+back-titration
+Gravimetry Precipitation gravimetry; volatilisation; calculation; TSS/TDS measurement; Bomb calorimetry
+Chromatography Paper (PC), TLC, Gas Chromatography (GC), HPLC – principles, detectors, Rf, retention
+time
+Flame Photometry Emission principle; Li internal standard; Na, K, Ca measurement; flame excitation
+Spectrophotometry UV-Vis; Beer-Lambert Law; AAS; ICP-AES; ICP-MS – principles and environmental
+applications
+Electrophoresis Gel (PAGE, agarose), capillary; DNA/protein separation; environmental DNA applications
+XRF & XRD X-ray Fluorescence (elemental analysis); X-ray Diffraction (mineralogy/crystal structure)
+NMR Nuclear Magnetic Resonance – ¹H and ¹³C NMR; structure elucidation of organic pollutants
+FTIR Fourier Transform Infrared – functional group identification; soil SOM; atmosphere gases
+GC-MS Combined technique; volatile organic compounds; environmental forensics; pesticide
+screening
+SEM & TEM Scanning/Transmission Electron Microscopy – particle morphology, size, elemental mapping
+1. Titrimetry (Volumetric Analysis)
+Titrimetry involves the addition of a reagent of known concentration (titrant) to a solution of unknown
+concentration (analyte) until the reaction is complete (equivalence point). It is the backbone of classical water
+quality analysis. Key requirement: reaction must be rapid, complete, and have a detectable endpoint.
+1.1 Types of Titrations
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 2
+Type Reaction Basis Indicator / Detection Environmental
+Application
+Example
+Acid-Base Hn + OHn ® HnO
+Neutralisation
+reaction
+pH indicator
+(phenolphthalein:
+colourless®pink at pH
+8.3; methyl orange:
+red®yellow at pH 4.0);
+pH meter
+Alkalinity (HCOnn,
+COn²n, OHn) in water;
+acidity; pH adjustment
+dosing
+Acid titration for total
+alkalinity (IS 3025)
+Redox Electron transfer
+between oxidant and
+reductant
+Redox indicators (ferroin,
+starch); self-indicating
+(KMnOn =
+purple®colourless)
+DO
+(Winkler/iodometric);
+COD back-titration;
+SOn in air; Fe²n
+determination
+NanSnOn titration of In
+in Winkler DO method
+Complexometr
+ic (EDTA)
+Metal ion + EDTA ®
+stable chelate M²n +
+Ynn ® MY²n
+Metallochromic
+indicators: Eriochrome
+Black T (EBT; wine
+red®blue); Murexide for
+Ca
+Total hardness
+(Ca²n+Mg²n) in water;
+individual Ca/Mg by
+masking; heavy metal
+analysis
+EDTA titration for water
+hardness (IS 3025 Part
+22)
+Precipitation Ion + reagent ®
+insoluble precipitate
+Adsorption indicator
+(Mohr:
+Agn+CrOn²n®red
+AgCrOn); Volhard;
+Fajans
+Chloride in water/waste
+water/seawater;
+sulphate gravimetric
+Mohr titration for Cln using
+AgNOn
+Non-aqueous Weak acid/base in
+non-aqueous solvent
+Crystal violet; perchloric
+acid titrant
+Analysis of amines,
+pharmaceuticals
+Karl Fischer titration for
+moisture
+1.2 Key Titration Calculations
+Titrimetric Calculations
+Normality equation: NnVn = NnVn (at equivalence point)
+where N = normality (equivalents/L); V = volume (mL or L)
+Hardness as CaCOn: Hardness (mg/L as CaCOn) = (mL EDTA × M_EDTA × 1000 × 50) / mL sample
+Alkalinity (mg/L as CaCOn): = (mL acid × N_acid × 50,000) / mL sample
+Chloride (mg/L): = [(A-B) × N × 35,450] / mL sample where A = AgNOn for sample; B = AgNOn for
+blank; N = normality of AgNOn
+Back titration: when direct titration is not possible; add excess reagent, then titrate excess with second titrant
+1.3 Important Indicators
+Indicator Colour Change pH/Endpoint Used In
+Phenolphthalein Colourless ® Pink pH 8.2–10.0
+(alkaline
+endpoint)
+P-alkalinity; NaOH titration; COn²n determination
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 3
+Indicator Colour Change pH/Endpoint Used In
+Methyl Orange Red ®
+Yellow/Orange
+pH 3.1–4.4 (acid
+endpoint)
+T-alkalinity; mineral acid titration; HCOnn
+Eriochrome Black T
+(EBT)
+Wine Red ® Blue pH 10 (Mg²n
+releases last)
+Total hardness (EDTA titration)
+Murexide Pink ® Purple ®
+Orange
+pH 12
+(Ca-specific)
+Calcium hardness (Mg masked by NaOH)
+Starch White ® Blue-black In detected Iodometric titrations (DO, SOn, oxidants)
+Ferroin Red ® Pale blue Redox potential
+change
+COD back-titration (FAS vs excess CrnOn²n)
+Potassium Chromate
+(KnCrOn)
+Yellow ® Red
+precipitate
+AgnCrOn forms
+at endpoint
+Mohr titration (Cln with AgNOn)
+KMnOn Purple ®
+Colourless
+Self-indicating
+(Mnnn®Mn²n)
+Permanganate titrations (Fe²n, oxalate)
+n EXAM TIP: Hardness titration: EBT indicator at pH 10; wine red®blue = endpoint. Calcium only: Murexide
+indicator; pH 12 (Mg(OH)n precipitated). Alkalinity: Phenolphthalein (P-alkalinity at pH 8.3) then Methyl
+orange (T-alkalinity at 4.5). Winkler DO: starch indicator; NanSnOn titrant; blue®colourless = endpoint.
+COD: Ferroin indicator; FAS titrant; blue-green®red-brown = endpoint.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 4
+2. Gravimetry and Bomb Calorimetry
+Gravimetry is a quantitative analytical method based on the measurement of mass. The analyte is converted to
+a pure, stable compound of known composition that is weighed after appropriate treatment. It is among the most
+accurate analytical methods but is time-consuming.
+2.1 Types of Gravimetric Methods
+Method Principle Environmental
+Application
+Example
+Precipitation
+gravimetry
+Analyte precipitated as
+insoluble compound ®
+filtered ® dried ® weighed
+SOn²n as BaSOn; Cln as
+AgCl; Ca²n as CaCnOn;
+SiOn; POn³n as
+MgNHnPOn
+BaSOn precipitation for sulphate in
+water (IS 3025 Part 24)
+Volatilisation
+gravimetry
+Analyte (or interfering
+component) volatilised by
+heat; loss in mass measured
+Moisture content; Loss on
+Ignition (LOI) for organic
+matter in soil/sediment;
+carbonate content
+LOI at 550°C = organic matter; LOI at
+950°C = inorganic carbonates
+Electrodeposition Electrolysis deposits pure
+metal on electrode;
+electrode weighed
+before/after
+Cu, Ni, Zn in industrial
+effluent; metal recovery
+from waste
+Copper electrodeposition from acidic
+solution
+Extraction
+gravimetry
+Analyte extracted into
+organic solvent; solvent
+evaporated; residue weighed
+Oil and grease in water
+(hexane extract
+gravimetry; IS method)
+Oil & grease determination by petroleum
+ether extraction
+2.2 Key Gravimetric Parameters in Water Analysis
+Parameter Method Temperatu
+re
+What is Measured Formula / Note
+Total Solids (TS) Evaporate sample;
+weigh residue
+103–105°C All dissolved +
+suspended solids
+TS = (residue wt - dish wt) × 1000 /
+sample vol (mL)
+Total Dissolved
+Solids (TDS)
+Filter (0.45 μm);
+evaporate filtrate
+180°C
+(removes cr
+ystallisation
+water)
+Dissolved inorganic +
+organic solids
+TDS » 0.65 × EC (μS/cm) – field
+approximation
+Total
+Suspended
+Solids (TSS)
+Filter through 0.45 μm
+glass fibre filter; dry
+residue on filter
+103–105°C Particles retained on
+filter
+TSS = TS - TDS
+Volatile
+Suspended
+Solids (VSS)
+Ignite TSS filter at
+550°C; measure weight
+loss
+550°C
+(organic
+burns off)
+Organic fraction of
+SS
+VSS = TSS wt - residue after ignition
+at 550°C
+Loss on Ignition
+(LOI)
+Soil: ignite at 550°C for
+4 hr
+550°C Approximate organic
+matter in soil
+SOM% » LOI × 0.58 (Van Bemmelen
+factor)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 5
+Parameter Method Temperatu
+re
+What is Measured Formula / Note
+Oil & Grease Hexane/petroleum
+ether extraction; dry
+extract
+70°C
+(evaporate
+solvent)
+Non-polar organic
+compounds
+Gravimetric; NAAQS limit for
+effluents: 10 mg/L
+2.3 Bomb Calorimetry
+Bomb Calorimeter – Measuring Energy Content
+Principle: A known mass of sample is combusted in a sealed steel "bomb" under high-pressure On (30
+atm). Heat released raises temperature of surrounding water bath. Temperature rise measured ® energy
+content calculated.
+Formula: Q = mcDT / m_sample
+Where: Q = calorific value (kJ/g or MJ/kg); m = mass of water in calorimeter; c = specific heat of water (4.186
+J/g·°C); DT = temperature rise; m_sample = mass of sample (g)
+Gross Calorific Value (GCV) / Higher Heating Value (HHV): Total heat released including condensation
+of water vapour
+Net Calorific Value (NCV) / Lower Heating Value (LHV): GCV - latent heat of water vapour (2.442
+MJ/kg per % H content)
+Environmental applications:
+• Calorific value of fuels (coal, biomass, RDF, waste)
+• Energy content of solid waste for incineration feasibility
+• BOD calculation check (ThOD via combustion stoichiometry)
+• Proximate analysis of coal (moisture, ash, volatile matter, fixed carbon)
+Typical calorific values: Coal 20–35 MJ/kg; Wood biomass 15–20 MJ/kg; MSW 8–12 MJ/kg; Petrol 44 MJ/kg
+n EXAM TIP: Gravimetry: TDS at 180°C; TSS at 103–105°C; VSS = ignite at 550°C. LOI at 550°C = organic
+matter; at 950°C = carbonates. TDS » 0.65 × EC is field approximation. Bomb calorimeter: sealed bomb +
+On + water bath; Q = mcDT/m. GCV includes water condensation heat; NCV = GCV minus latent heat of
+water. Coal proximate: moisture + ash + volatile matter + fixed carbon = 100%.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 6
+3. Chromatography
+Chromatography is a separation technique in which components of a mixture are distributed between a
+stationary phase and a mobile phase. Components travel at different speeds depending on their affinity for each
+phase, resulting in separation. Key parameter: Rf value (planar) or retention time (column).
+3.1 Fundamental Principles
+Core Chromatographic Concepts
+Stationary phase: Solid or liquid fixed in place (silica gel, alumina, polymer beads, capillary coating)
+Mobile phase: Liquid or gas that moves through/over the stationary phase (eluent/carrier gas)
+Separation basis: Differential partitioning (distribution) of analytes between phases based on polarity,
+size, charge, or specific interactions
+Rf value (Retention factor): Rf = distance travelled by spot / distance travelled by solvent front (0–1;
+used in TLC and PC)
+Retention time (tR): Time for analyte to travel from injection to detector in column chromatography (GC,
+HPLC)
+Resolution (Rs): Rs = 2(tR2-tR1)/(w1+w2); Rs > 1.5 = baseline separation
+Van Deemter equation: H = A + B/u + Cu (plate height vs flow rate; optimum flow for minimum H)
+3.2 Paper Chromatography (PC)
+Paper chromatography uses cellulose filter paper as the stationary phase (water held in cellulose fibres). The
+mobile phase is an organic solvent or solvent mixture that moves up/across the paper by capillary action.
+Feature Details
+Stationary phase Cellulose paper (Whatman No. 1 most common); water held in fibres = true stationary phase
+Mobile phase Organic solvent/mixtures: n-butanol:acetic acid:water; acetone; ethanol mixtures
+Mode Ascending (most common), descending, radial/circular, 2D (two solvents at 90°)
+Detection UV lamp (fluorescence); ninhydrin spray (amino acids ® purple); iodine vapour; chemical sprays
+Rf value Rf = distance of spot / distance of solvent front; characteristic for each compound under defined
+conditions
+Applications Amino acid identification; plant pigment separation (chlorophylls, carotenoids); sugar analysis;
+food dye testing; qualitative pesticide screening
+Limitations Poor resolution; quantitative only with densitometry; not suitable for complex mixtures
+3.3 Thin Layer Chromatography (TLC)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 7
+TLC uses a thin layer of adsorbent (silica gel or alumina) coated on a glass, aluminium, or plastic plate. It is
+faster, more reproducible, and gives better resolution than paper chromatography. It is a rapid
+qualitative/semi-quantitative screening tool.
+Feature Details
+Stationary phase Silica gel (SiOn·xHnO) – most common; polar; adsorbs polar compounds more strongly Alumina
+(AlnOn) – for basic/neutral compounds Reversed-phase: C18-bonded silica (for non-polar
+compounds)
+Mobile phase Single solvent or mixture; polarity adjusted by mixing solvents (hexane:ethyl acetate ratio)
+Development Plate placed in developing chamber with solvent; capillary action drives mobile phase up
+Detection Short-wave UV (254 nm): fluorescence quenching on F254 plates (dark spots) Long-wave UV (366
+nm): fluorescent compounds glow Iodine chamber: non-specific brown spots Specific sprays: ninhydrin
+(amino acids), Dragendorff (alkaloids), anisaldehyde (terpenes)
+Rf value Same definition as PC; Rf reproducible under identical conditions
+Preparative TLC Thick plates for isolating compounds from mixtures; zone scraped off and eluted
+HPTLC High Performance TLC: smaller particle size ® better resolution; automated
+spotting/development/scanning
+Applications Drug analysis; pesticide residue screening; lipid/fatty acid profiling; food adulterant detection; natural
+product isolation; environmental soil extracts
+3.4 Gas Chromatography (GC)
+GC separates volatile compounds in the gas phase. The sample is vaporised and carried by an inert gas (carrier
+gas) through a column containing the stationary phase. Components separate based on their boiling points and
+interactions with the stationary phase.
+SAMPLE INJECTION (Liquid injected; vaporised in hot injector at 200–300°C) Splitless (trace analysis) or
+Split (concentrated samples)
+t
+CARRIER GAS (Mobile Phase) Nn, He, Hn – inert; does not interact with analytes He = most common (high
+diffusivity, good resolution)
+t
+GC COLUMN (Stationary Phase) Capillary column: fused silica; 15–60 m; 0.1–0.5 mm ID; thin film (0.1–5 μm)
+of liquid stationary phase Column oven: programmed temperature ramp (40–300°C) to elute compounds by
+boiling point
+t
+DETECTOR FID (Flame Ionisation Detector): universal; hydrocarbons; VOCs; pesticides ECD (Electron
+Capture): halogenated compounds; OC pesticides; PCBs; ultra-sensitive FPD (Flame Photometric): S and P
+compounds; OP pesticides NPD (N-P Detector): N and P; amines; OP and OC with N MS (Mass
+Spectrometer): definitive identification; library search
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 8
+GC Detector Sensitivity Selectivity Environmental Application
+FID 10n¹²–10n¹¹ g/s Universal for organics VOCs, total petroleum hydrocarbons (TPH), BTEX, natural
+gas composition
+ECD 10n¹n–10n¹³ g/s Halogenated, nitro
+compounds
+Organochlorine pesticides (DDT, Aldrin), PCBs, CFCs,
+halogenated solvents
+FPD 10n¹²–10n¹¹ g/s
+(P mode)
+S and P compounds Organophosphate pesticides; sulphur compounds in air;
+DMS
+NPD (TID) 10n¹n g/s (N);
+10n¹n g/s (P)
+N and P compounds N-containing pesticides; amines; phosphates
+MS (SIM/SCAN) 10n¹²–10nn g Universal +
+identification
+Definitive VOC identification; EPA 8260; PAHs; pesticide
+confirmation
+TCD 10nn–10nn g/s Universal (all
+compounds)
+Gas analysis; air composition; permanent gases (CO,
+COn, Nn, On)
+3.5 High Performance Liquid Chromatography (HPLC)
+HPLC separates non-volatile or thermally labile compounds using a liquid mobile phase pumped at high pressure
+(up to 400 bar) through a column packed with fine particles (1.7–10 μm). More versatile than GC for
+environmental analysis of polar, ionic, and high-molecular-weight compounds.
+Feature Reverse-Phase
+HPLC (RP-HPLC)
+Normal Phase
+HPLC
+Ion Exchange
+HPLC
+Size Exclusion (SEC/GPC)
+Stationary
+phase
+Non-polar: C18, C8,
+phenyl bonded silica
+Polar: bare
+silica, amino,
+cyano
+Ion exchange
+resin (cationic or
+anionic)
+Porous polymer/silica (pore size
+controls separation)
+Mobile phase Polar: water +
+acetonitrile or methanol
+(gradient)
+Non-polar:
+hexane,
+dichloromethane
+Aqueous buffer
+(ionic strength, pH
+control)
+Aqueous or organic (depends on
+polymer)
+Separation basis Hydrophobicity (log
+Kow)
+Polarity
+adsorption
+Ionic charge and
+size
+Molecular size (MW)
+Key detectors UV-Vis (254 nm); DAD;
+Fluorescence; MS
+UV-Vis;
+refractive index
+Conductivity; UV Refractive Index; UV; light scattering
+Environmental
+use
+PAHs in water/soil;
+pesticides;
+pharmaceuticals
+(PPCPs); hormones;
+BPA
+Lipid analysis;
+fat-soluble
+vitamins;
+carotenoids
+Inorganic ions:
+Fn, Cln, NOnn,
+SOn²n, NHnn
+(ion
+chromatography)
+Polymer MW distribution; humic
+substance MW; protein sizing
+Advantage Most widely used;
+works for 80% of
+organic compounds
+High loading
+capacity for prep
+HPLC
+Excellent for
+inorganic
+anions/cations
+without
+derivatisation
+Non-destructive; absolute MW
+measurement
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 9
+n EXAM TIP: Rf = distance of spot / distance of solvent front (0–1; cannot exceed 1). GC: volatile
+compounds; carrier gas = He (most common); FID = universal organic detector; ECD = halogenated
+compounds (most sensitive for OC pesticides). HPLC: non-volatile compounds; RP-HPLC (C18 column) =
+most common; mobile phase = water+ACN or MeOH. Ion chromatography = HPLC for inorganic anions
+(Fn, Cln, NOnn, SOn²n). GC-MS = gold standard for VOC/pesticide identification and confirmation.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 10
+4. Flame Photometry
+Flame photometry (flame emission spectroscopy) measures the intensity of light emitted by atoms when they
+are excited in a flame and then return to ground state. It is used for alkali and alkaline earth metals at low cost
+and high speed, making it ideal for soil and water analysis of Na, K, Li, Ca, Ba.
+Flame Photometry – Principle and Setup
+Atomisation: Sample aspirated into flame (propane-air or natural gas-air)
+Excitation: Flame energy excites valence electrons to higher energy levels
+Emission: Electrons fall back ® emit light at characteristic wavelengths
+Detection: Photomultiplier tube behind interference filter selects specific wavelength
+Quantitation: Intensity µ concentration (Beer-Lambert-like calibration curve)
+Characteristic emission wavelengths:
+Na = 589 nm (yellow); K = 766 nm (red-violet); Li = 671 nm (red; used as internal standard); Ca = 622 nm
+(orange); Ba = 554 nm (green)
+Internal standard method: Li added at constant concentration to all samples and standards ® corrects for flame
+instability and matrix effects ® most accurate flame photometry
+Environmental applications: Nan, Kn in drinking water/soil extracts; Ca²n hardness; Li as groundwater tracer
+Feature Flame Photometry (FES) AAS (Atomic Absorption)
+Principle Emission of light by excited atoms
+in flame
+Absorption of light by ground-state atoms in flame/furnace
+Light source Flame itself (no external lamp
+needed)
+Hollow cathode lamp (element-specific)
+Best for Alkali metals (Na, K, Li) – easily
+excited
+Most metals including transition metals, heavy metals
+Sensitivity Moderate: Na/K ppb–ppm range High: μg/L (ppb) – flame; μg/L to ng/L – furnace
+Selectivity Moderate (filter-based; spectral
+interferences)
+Excellent (narrow-line source; high specificity)
+Matrix effects Significant; internal standard
+corrects
+Less; ionisation suppressor added for alkali
+Cost Low; simple instrument Moderate; element-specific lamps needed
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 11
+n EXAM TIP: Flame photometry: EMISSION technique (not absorption). Na = 589 nm (yellow street lamp
+colour); K = 766 nm; Li = 671 nm (internal standard). Li internal standard corrects for matrix effects and
+flame instability. Best for Na, K; AAS better for heavy metals. Propane-air or natural gas-air flame (lower
+temperature than AAS).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 12
+5. Spectrophotometry (UV-Vis, AAS, ICP-AES, ICP-MS)
+5.1 UV-Visible Spectrophotometry
+Beer-Lambert Law – Foundation of Spectrophotometry
+A = e × b × c OR A = log(In/I) = -log(T)
+Where:
+A = absorbance (dimensionless; log scale)
+e = molar absorptivity (L/mol·cm); characteristic for each compound at each wavelength
+b = path length of light through sample (cm; typically 1 cm cuvette)
+c = concentration (mol/L or mg/L with appropriate e)
+T = transmittance = I/In; %T = T × 100
+Linear range: A = 0.1–1.0 for best accuracy; dilute if A > 1.0
+Limitations: only applies to dilute solutions, monochromatic light, no scattering, no fluorescence
+Parameter
+Measured
+Reagent/Method Wavelength Matrix / Standard Method
+Nitrate (NOnn) UV direct (no reagent) 220 nm
+(subtract 2× A
+at 275 nm for
+DOM)
+Water; IS 3025 Part 34
+Nitrite (NOnn) Griess reagent
+(sulphanilamide + NED)
+543 nm (pink
+azo dye)
+Water; wastewater; IS 3025 Part 35
+Ammonia (NHnn) Nessler's reagent (HgIn²n)
+or Indophenol blue
+425 nm or 630
+nm
+Wastewater; drinking water; IS 3025 Part 34
+Phosphate
+(POn³n)
+Ammonium molybdate +
+ascorbic acid (molybdenum
+blue)
+880 nm (blue) Water; wastewater; IS 3025 Part 31
+Dissolved Silica Ammonium molybdate ®
+silicomolybdate complex
+410 nm
+(yellow)
+Drinking water; boiler water; IS 3025 Part 17
+Sulphate (SOn²n) BaCln turbidimetric method 420 nm
+(turbidity)
+Water; IS 3025 Part 24 (alternate to gravimetric)
+Iron (total Fe) 1,10-phenanthroline (chelate
+with Fe²n; reduce all Fe first)
+510 nm
+(orange-red)
+Drinking water; wastewater; IS 3025 Part 53
+Fluoride (Fn) SPADNS reagent
+(zirconium-dye
+displacement)
+570 nm Drinking water; fluoride monitoring
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 13
+Parameter
+Measured
+Reagent/Method Wavelength Matrix / Standard Method
+Chlorine (residual) DPD (N,N-diethyl-p-phenyle
+nediamine) method
+515 nm (pink) Drinking water treatment; IS 3025 Part 26
+COD Dichromate open reflux;
+measure Cr³n or residual
+Crnn
+600 nm (Cr³n
+green) or 440
+nm (Crnn
+yellow)
+Wastewater; IS 3025 Part 58
+5.2 Atomic Absorption Spectroscopy (AAS)
+AAS measures the absorption of light by free ground-state atoms in the gas phase. Each element absorbs at
+specific wavelengths, providing elemental selectivity. AAS is the workhorse for heavy metal analysis in
+environmental samples.
+Feature Flame AAS (FAAS) Graphite Furnace
+AAS
+(GFAAS/ETAAS)
+Hydride
+Generation
+AAS (HG-AAS)
+Cold Vapour AAS
+(CV-AAS)
+Atomisation Air-acetylene or
+NnO-acetylene flame
+(2300–2700°C)
+Electrically heated
+graphite tube (up to
+2700°C)
+Chemical
+reduction ®
+volatile hydride
+® heat®atoms
+Chemical reduction ® Hgn
+vapour at room T
+Detection limit μg/L (ppb) range ng/L (ppt) range;
+100–1000× more
+sensitive than FAAS
+sub-μg/L for As,
+Se, Sb, Bi, Sn,
+Ge, Te, Pb
+sub-μg/L for Hg; ng/L with
+amalgam preconcentration
+Sample volume High (3–5 mL/min
+aspiration)
+Very small (5–50 μL) Moderate
+(reductant
+required)
+Small (50 mL)
+Elements Most metals: Fe, Cu,
+Zn, Cd, Pb, Mn, Cr, Ni
+Same + refractory
+metals (Al, Mo, V, W)
+As, Se, Sb, Bi,
+Sn, Te, Pb, Cd (
+hydride-formers)
+ONLY Hg (unique element;
+volatile at RT)
+Interferences Chemical (matrix);
+ionisation
+Background (Zeeman
+or Dn correction
+needed); memory effect
+Transition metal
+interferences
+(reduces HG
+efficiency)
+Interfering volatile Hg
+compounds
+Applications Routine heavy metal
+monitoring: water, soil,
+effluent
+Trace metals in blood,
+urine, air filters;
+regulatory compliance
+As, Se in
+drinking water
+(WHO 10 μg/L
+As); soil arsenic
+Mercury in water, fish, air,
+biological samples (Minamata)
+5.3 ICP-AES (Inductively Coupled Plasma – Atomic Emission Spectroscopy)
+ICP-AES – Multi-Element Simultaneous Analysis
+Principle: Sample nebulised into Ar plasma (temperature 6000–10,000 K) ® atoms/ions excited ® emit
+characteristic wavelengths ® polychromator detects simultaneously
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 14
+Plasma source: Inductively coupled Ar plasma (radio-frequency induction coil; 27 or 40 MHz; ~10,000 K)
+Advantage over AAS: Simultaneous multi-element analysis (30–40 elements in one run); linear range
+4–6 orders of magnitude; fewer chemical interferences
+Detection limits: μg/L to sub-μg/L; better than FAAS but generally worse than GFAAS for individual
+elements
+Limitations: Spectral interferences (overlapping emission lines); high capital cost; Ar consumption
+Environmental applications: Major/minor/trace elements in water, soil digest, sediment, biological tissues; regulatory
+compliance (EPA 200.7)
+5.4 ICP-MS (Inductively Coupled Plasma – Mass Spectrometry)
+ICP-MS – Ultra-Trace Multi-Element Analysis
+Principle: ICP ionises elements (³ 99% ionised in Ar plasma) ® ions extracted through interface cones ®
+quadrupole/sector mass analyser separates by m/z ratio ® detection by electron multiplier
+Detection limits: ng/L to pg/L (ppt to ppq) – lowest of all elemental techniques
+Isotope ratio measurement: Can measure ²nnPb/²nnPb ratio for Pb source fingerprinting; ³nS/³²S for S
+cycling
+Interferences: Isobaric (same m/z: nnAr¹nOn at m/z 56 = nnFen); resolved by collision/reaction cell
+(DRC) or high-resolution sector ICP-MS
+Speciation: LC-ICP-MS = element speciation (As³n vs Asnn; Cr³n vs Crnn; methylmercury vs Hg²n)
+Applications: Ultra-trace REEs; Pt group metals in catalytic converter dust; radioactive isotopes (²³nU, ²³nNp);
+arsenic speciation; isotope tracing in pollution forensics
+Technique Principle Detection
+Limit
+Multi-ele
+ment?
+Best Use
+UV-Vis Spectrop
+hotometry
+Molecular absorption mg/L–μg/L No (one
+parameter)
+Routine water quality: NOnn, POn³n, NHnn,
+Fe, Cln
+Flame
+Photometry
+Atomic emission in
+flame
+μg/L–mg/L Limited (N
+a,K,Li,Ca)
+Nan, Kn in water, soil; Li internal standard
+FAAS Atomic absorption in
+flame
+μg/L (ppb) No (one el
+ement/run)
+Routine heavy metals: Cu, Zn, Fe, Mn, Cd, Pb
+GFAAS Atomic absorption in
+graphite furnace
+ng/L (ppt) No (one el
+ement/run)
+Trace metals in blood, urine, clean water
+HG-AAS Hydride generation +
+atomic absorption
+sub-μg/L Hydride-for
+mers only
+As, Se, Sb in drinking water; soil As
+CV-AAS Cold vapour (Hgn) sub-μg/L to
+ng/L
+Hg only Mercury in all matrices (Minamata monitoring)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 15
+Technique Principle Detection
+Limit
+Multi-ele
+ment?
+Best Use
+ICP-AES Atomic emission in Ar
+plasma
+μg/L Yes
+(30–40 sim
+ultaneousl
+y)
+Major/minor elements in water, soil, food; EPA
+200.7
+ICP-MS Mass spec of Ar plasma
+ions
+ng/L–pg/L Yes (70+ s
+imultaneou
+sly)
+Ultra-trace; isotope ratios; speciation; forensics
+n EXAM TIP: Beer-Lambert: A = ebc; linear range A = 0.1–1.0. Phosphate: molybdenum blue at 880 nm.
+Nitrite: Griess reagent at 543 nm. AAS hollow cathode lamp (element-specific). GFAAS = 100–1000× more
+sensitive than FAAS. CV-AAS = ONLY for mercury. HG-AAS = As, Se, Sb (hydride-forming elements).
+ICP-MS = lowest detection limits; isotope ratios; speciation by LC-ICP-MS. Sensitivity order: GFAAS »
+ICP-MS >> FAAS > ICP-AES > UV-Vis >> Flame Photometry.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 16
+6. Electrophoresis, XRF, XRD, NMR, FTIR, GC-MS, SEM & TEM
+6.1 Electrophoresis
+Electrophoresis separates charged molecules (DNA, RNA, proteins) based on their size and charge under an
+electric field. Smaller/more charged molecules migrate faster toward the opposite electrode.
+Type Matrix Separates Resolution Environmental Application
+Agarose Gel
+Electrophoresis
+Agarose gel
+(0.5–3%)
+DNA/RNA by
+size (bp)
+Moderate
+(50 bp – 50
+kb)
+Environmental DNA (eDNA) analysis; PCR
+products; microbiome profiling; GMO detection
+PAGE
+(SDS-PAGE)
+Polyacrylamide gel
++ SDS
+Proteins by MW
+(denatured)
+High (5–250
+kDa)
+Microbial protein profiling; enzyme analysis in
+bioremediation; ecotoxicological biomarkers
+Native PAGE Polyacrylamide (no
+SDS)
+Proteins by size
++charge+shape
+(native)
+Variable Isoenzyme (isozyme) analysis; protein
+interaction studies
+Isoelectric
+Focusing (IEF)
+pH gradient gel Proteins by
+isoelectric point
+(pI)
+Very high Protein characterisation; 2D-PAGE (first
+dimension IEF)
+Capillary
+Electrophoresis
+(CE)
+Fused silica
+capillary (50–100
+μm)
+All charged
+molecules; very
+fast
+Extremely
+high
+Inorganic anion/cation analysis;
+pharmaceutical water monitoring; rapid DNA
+analysis
+DGGE/TGGE Polyacrylamide +
+denaturing gradient
+DNA by GC
+content / melting
+Moderate Microbial community fingerprinting in
+soil/water; 16S rRNA gene profiling
+6.2 X-Ray Fluorescence (XRF)
+XRF – Non-Destructive Elemental Analysis
+Principle: Primary X-rays bombard sample ® inner shell electrons ejected ® outer shell electrons fall in ®
+emit characteristic fluorescent X-rays (secondary) at energies specific to each element
+Energy Dispersive XRF (ED-XRF): All energies detected simultaneously; fast; portable; semi-quantitative
+Wavelength Dispersive XRF (WD-XRF): Diffracts X-rays by crystal; scans wavelengths sequentially;
+better resolution and sensitivity
+Detection range: Na to U; detection limits ~mg/kg (ppm) in solid matrices
+Advantages: Non-destructive; no sample dissolution; rapid; can analyse solids/liquids/filters directly
+Environmental applications: Heavy metals in soil/sediment/dust; elemental composition of PMn.n filters; geological
+mapping; Pb in paint (portable XRF); industrial waste characterisation
+6.3 X-Ray Diffraction (XRD)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 17
+XRD – Crystal Structure and Mineral Identification
+Principle: X-rays diffracted by crystal lattice planes (Bragg's Law: nl = 2d sinq). Each crystalline mineral has
+a unique d-spacing pattern (fingerprint).
+Bragg's Law: nl = 2d sinq (n = integer; l = X-ray wavelength; d = interplanar
+spacing; q = diffraction angle)
+Output: Diffractogram (2q vs intensity); compared to JCPDS/ICDD database for mineral identification
+Powder XRD (PXRD): Most common; polycrystalline material; identifies mineral phases in mixtures
+Environmental applications:
+• Clay mineral identification in soil (kaolinite, smectite, illite, chlorite)
+• Iron oxide mineralogy in contaminated sediments (goethite, ferrihydrite, magnetite)
+• Asbestos identification (chrysotile vs amphibole varieties)
+• Scale/corrosion product identification in water pipes
+• Nanoparticle characterisation (crystallite size via Scherrer equation)
+6.4 Nuclear Magnetic Resonance (NMR)
+NMR exploits the magnetic properties of atomic nuclei (¹H, ¹³C, ³¹P, ¹nN) in a strong magnetic field. When
+radiofrequency radiation is applied at the resonance frequency, nuclei absorb energy ® emit signal on relaxation
+® chemical shift (d, ppm) and coupling constants reveal molecular structure.
+NMR Type Nucleus Chemical Shift
+Range
+Environmental Application
+¹H NMR Proton 0–12 ppm Structure elucidation of organic pollutants; humic substance
+characterisation; metabolomics
+¹³C NMR Carbon-13 0–220 ppm
+(broad)
+Carbon functional groups in humic acids (aliphatic, aromatic,
+carboxyl, carbonyl)
+³¹P NMR Phosphorus
+-31
+-30 to +30 ppm P speciation in soil/water (orthophosphate, pyrophosphate, phytate,
+phosphonate)
+¹nN NMR Nitrogen-15 -400 to +100 ppm N speciation in organic matter; isotope labelling in N cycling studies
+Solid-state NMR ¹H, ¹³C
+(MAS-NMR)
+Same ranges Soil organic matter molecular structure without dissolution; humin
+characterisation
+6.5 Fourier Transform Infrared Spectroscopy (FTIR)
+FTIR – Functional Group Identification
+Principle: IR radiation (2.5–25 μm; 400–4000 cmn¹) absorbed by molecular bonds ® vibrations (stretching,
+bending) at characteristic frequencies ® Fourier transform converts interferogram to spectrum
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 18
+Key IR absorption bands (wavenumber, cmn¹):
+3200–3600: O-H stretch (alcohol, water, carboxylic acid)
+2850–3000: C-H stretch (alkanes, alkyl groups)
+1700–1750: C=O stretch (carbonyl: aldehyde, ketone, ester)
+1620–1680: C=C stretch (alkenes, aromatic)
+1000–1300: C-O stretch (ethers, esters, alcohols)
+500–800: Fingerprint region (unique for each compound)
+ATR-FTIR (Attenuated Total Reflectance): No sample preparation; direct solid/liquid analysis; most
+used form
+Environmental applications: Soil SOM functional groups; plastic identification in microplastics research; air pollutant
+gas analysis (COn, CHn, NnO, SOn in atmosphere); mineral identification; oil spill characterisation; microplastic
+identification
+6.6 GC-MS (Gas Chromatography – Mass Spectrometry)
+GC-MS is the most powerful combined technique for volatile and semi-volatile organic compound analysis. GC
+separates the mixture; MS identifies and quantifies each separated compound by its unique mass spectrum
+(fragmentation pattern = molecular fingerprint).
+SAMPLE PREPARATION Liquid-liquid extraction; solid-phase extraction (SPE); purge-and-trap; headspace;
+SPME (microextraction)
+t
+GC SEPARATION Capillary column (30–60 m); temperature programmed; carrier gas (He) Components elute
+in order of boiling point + stationary phase affinity
+t
+MASS SPECTROMETER Electron Ionisation (EI, 70 eV): hard ionisation ® fragmentation ® mass spectrum
+Chemical Ionisation (CI): soft ® molecular ion retained (MW confirmation) Quadrupole MS: unit mass
+resolution; SIM mode for trace quantitation Ion Trap / QTOF / Orbitrap: high-resolution; exact mass;
+non-target screening
+t
+IDENTIFICATION: Mass spectrum compared to NIST library (> 300,000 spectra) QUANTIFICATION: Peak
+area vs calibration standards; isotope dilution for accuracy
+Application Target Compounds Extraction Method GC-MS Mode
+VOCs in drinking
+water
+BTEX, chlorinated
+solvents, THMs
+Purge-and-trap or
+headspace
+Full scan + SIM (EPA 524.2/8260)
+SVOCs in
+soil/sediment
+PAHs, PCBs, OC
+pesticides, phthalates
+Soxhlet, ASE,
+ultrasonic
+Full scan + SIM (EPA 8270/8081)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 19
+Application Target Compounds Extraction Method GC-MS Mode
+Pesticide residues in
+food/water
+OP, OC, pyrethroid,
+triazine pesticides
+QuEChERS; SPE;
+LLE
+SIM or MRM (targeted)
+Dioxins/Furans PCDD, PCDF (17 toxic
+congeners)
+Specialised Soxhlet +
+cleanup columns
+HRMS (sector; >10,000 resolution)
+Indoor air quality Formaldehyde, VOCs,
+SVOCs
+Thermal desorption
+tubes; DNPH
+cartridge
+Full scan; SIM
+Microplastic
+identification
+PE, PP, PS, PET, PVC
+fragments
+Pyrolysis-GC-MS
+(Py-GC-MS)
+Full scan (pyrolysis products)
+Environmental
+forensics
+Petroleum hydrocarbon
+fingerprinting; source
+attribution
+LLE; SPE Full scan; biomarker ratio analysis
+6.7 SEM and TEM – Electron Microscopy
+Feature SEM (Scanning Electron
+Microscopy)
+TEM (Transmission Electron Microscopy)
+Principle Focused electron beam scans surface;
+secondary/backscattered electrons
+detected ® surface image
+Electrons transmitted THROUGH ultra-thin sample (<100
+nm); image = internal structure
+Resolution 1–20 nm (surface topography) 0.1–0.2 nm (atomic resolution possible)
+Sample prep Minimal (coat with Au/Pt for
+non-conductors); 3D objects usable
+Extremely thin section (ultramicrotome or FIB); laborious
+Information Surface morphology; 3D texture; particle
+shape and size; elemental mapping
+(EDS)
+Internal crystal structure; lattice planes; nanoparticle
+core-shell; SAED (crystal structure)
+EDS/EDX
+coupling
+Energy Dispersive X-ray (EDS):
+elemental mapping on SEM
+(qualitative/semi-quantitative)
+EELS, EDS on TEM: elemental mapping at nanometre scale
+Environmental
+use
+PMn.n morphology; asbestos fibre
+identification; microplastic surface
+characterisation; soil mineral surfaces;
+nanoparticle behaviour
+Clay mineral interlayer structure; iron oxide nanoparticles;
+virus/bacteria ultrastructure; nanoparticle core
+characterisation
+Disadvantage Surface only; requires vacuum;
+non-conductive samples need coating
+Extremely thin sample only; vacuum; complex preparation;
+expensive
+n EXAM TIP: FTIR identifies FUNCTIONAL GROUPS (C=O at 1700; O-H at 3200–3600; C-H at
+2850–3000). XRD identifies MINERALS (Bragg's Law: nl = 2d sinq); JCPDS database. XRF identifies
+ELEMENTS non-destructively (portable XRF for Pb in soil/paint). GC-MS = gold standard for VOC/SVOC
+identification; NIST library; SIM mode for trace. SEM = surface morphology; EDS for elemental mapping.
+TEM = internal structure; atomic resolution; ultra-thin sample. NMR = chemical shift (d ppm); ¹H and ¹³C
+most common.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 20
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 21
+7. UGC NET Pattern MCQs with Explanations
+Q1. In the determination of total hardness by EDTA titration, the indicator used at pH 10 is:
+(a) Murexide
+(b) Phenolphthalein
+(c) Eriochrome Black T (EBT)
+(d) Ferroin
+4 Answer: (c)
+Explanation: EBT (Eriochrome Black T) is used for total hardness (Ca²n + Mg²n) titration. At pH 10 (ammonia
+buffer), EBT forms a wine-red complex with metal ions. As EDTA is added, it preferentially complexes metals ® EBT
+released ® turns blue = endpoint. Murexide is used for Ca-only titration at pH 12 (where Mg²n precipitates).
+Q2. The Beer-Lambert Law states that absorbance (A) is:
+(a) Inversely proportional to concentration
+(b) Directly proportional to concentration and path length (A = ebc)
+(c) Proportional to the square of concentration
+(d) Independent of path length
+4 Answer: (b)
+Explanation: Beer-Lambert Law: A = e × b × c, where e = molar absorptivity, b = path length (cm), c = concentration
+(mol/L). Absorbance is directly and linearly proportional to both path length and concentration. Linear range: A =
+0.1–1.0; above 1.0, the law fails (stray light, solution chemistry changes).
+Q3. In Gas Chromatography, the ECD (Electron Capture Detector) is most suitable for:
+(a) All organic compounds
+(b) Sulphur-containing compounds
+(c) Halogenated compounds such as OC pesticides and PCBs
+(d) Nitrogen-containing compounds
+4 Answer: (c)
+Explanation: ECD responds to compounds with electronegative atoms (halogens F, Cl, Br, I; nitro groups). It is the
+most sensitive detector for organochlorine (OC) pesticides (DDT, Aldrin, Dieldrin) and PCBs, with detection limits of
+10n¹n–10n¹³ g/s. FID is universal; FPD is for S and P; NPD/TID is for N and P compounds.
+Q4. Which technique uses Bragg's Law (nl = 2d sinq) for analysis?
+(a) X-Ray Fluorescence (XRF)
+(b) X-Ray Diffraction (XRD)
+(c) Fourier Transform Infrared (FTIR)
+(d) Atomic Absorption Spectroscopy (AAS)
+4 Answer: (b)
+Explanation: Bragg's Law describes the conditions for constructive interference of X-rays diffracted by crystal lattice
+planes. XRD uses this to identify crystalline minerals and compounds by their unique d-spacing patterns. XRF uses
+fluorescent X-ray emission (different principle). FTIR uses IR absorption. AAS uses light absorption by atoms.
+Q5. ICP-MS has a significantly lower detection limit than ICP-AES because:
+(a) It uses a hotter plasma temperature
+(b) It detects ions by mass-to-charge ratio with high sensitivity, reaching ng/L–pg/L
+(c) It can analyse more elements simultaneously
+(d) It requires less sample preparation
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 22
+4 Answer: (b)
+Explanation: ICP-MS separates ions by m/z ratio using a mass analyser (quadrupole or sector field). The mass
+spectrometer detects individual ions with very high efficiency ® detection limits of ng/L (ppt) to pg/L (ppq). ICP-AES
+detects emitted photons (less sensitive). Both use the same Ar plasma. ICP-MS also allows isotope ratio
+measurement.
+Q6. In atomic absorption spectroscopy (AAS), the hollow cathode lamp is used because:
+(a) It provides a broad spectrum for background correction
+(b) It emits narrow spectral lines exactly matching the absorption wavelength of the analyte element
+(c) It heats the sample to produce atomic vapour
+(d) It ionises the sample in the plasma
+4 Answer: (b)
+Explanation: The hollow cathode lamp (HCL) contains the same element being analysed. When current passes
+through, atoms of that element are sputtered and emit narrow, element-specific spectral lines. These match exactly
+the absorption wavelengths of the same element in the sample ® highly selective measurement. A separate lamp is
+needed for each element.
+Q7. FTIR spectroscopy identifies an unknown compound. A strong absorption band at 1715 cmn¹ is
+observed. This band is most likely due to:
+(a) O-H stretch (alcohol or water)
+(b) N-H bend (amine)
+(c) C=O stretch (carbonyl group)
+(d) C-H stretch (alkane)
+4 Answer: (c)
+Explanation: The C=O (carbonyl) stretching vibration is one of the strongest and most characteristic IR absorptions. It
+occurs at 1700–1750 cmn¹: aldehydes ~1725; ketones ~1715; carboxylic acids ~1710; esters ~1735. O-H stretch =
+3200–3600; C-H stretch = 2850–3000; N-H = 1550–1650. The fingerprint region is 500–1500 cmn¹.
+Q8. The Rf value in Thin Layer Chromatography (TLC) is defined as:
+(a) The ratio of solvent front distance to compound spot distance
+(b) The ratio of distance travelled by compound to distance travelled by solvent front
+(c) The retention time of the compound on the TLC plate
+(d) The resolution factor between two adjacent spots
+4 Answer: (b)
+Explanation: Rf = distance travelled by compound spot / distance travelled by solvent front. Rf values range from 0
+(did not move from origin) to 1 (moved with solvent front). Each compound has a characteristic Rf under specific
+conditions (solvent system, stationary phase, temperature). Used to identify compounds by comparison with
+reference standards run on the same plate.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 23
+8. Assertion–Reason Questions
+Q1. [Assertion–Reason]
+Assertion (A): Graphite Furnace AAS (GFAAS) is 100–1000 times more sensitive than Flame AAS (FAAS)
+for the same element.
+Reason (R): In GFAAS, the sample is completely atomised in a small volume graphite tube with longer
+residence time, whereas in FAAS, sample is diluted by continuous aspiration into the flame.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+Explanation: Both A and R are true. GFAAS uses only 5–50 μL, atomises completely in the graphite tube (atoms
+present for longer; ~1 second vs milliseconds in flame), resulting in 100–1000× better detection limits (ng/L vs μg/L).
+R correctly explains the mechanism. Select (a).
+Q2. [Assertion–Reason]
+Assertion (A): Ion chromatography (IC) can simultaneously separate and quantify Fn, Cln, NOnn,
+NOnn, POn³n, and SOn²n in a single water sample run.
+Reason (R): IC uses an ion exchange stationary phase and conductivity detector, separating anions
+based on their charge density and size in an aqueous mobile phase.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+Explanation: Both A and R are true and R correctly explains A. Ion chromatography is a form of HPLC using ion
+exchange columns (typically anion exchange for anions). Conductivity detector is universal for ions. Separation
+based on ionic interactions with the stationary phase. Standard environmental anion analysis (EPA 300.0/300.1).
+Select (a).
+Q3. [Assertion–Reason]
+Assertion (A): GC-MS is preferred over GC-FID for definitive identification of unknown organic
+pollutants.
+Reason (R): FID gives higher sensitivity than MS for most organic compounds.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (b)
+Explanation: A is TRUE: GC-MS provides molecular weight AND fragmentation pattern ® compared to NIST library
+® definitive structural identification. FID cannot identify; it only gives a chromatographic peak with a retention time. R
+is PARTIALLY TRUE (FID sensitivity for hydrocarbons is comparable or better than SIM-MS for some compounds)
+BUT R is not the reason why GC-MS is preferred for identification. The reason is mass spectral identification, not
+sensitivity. Select (b).
+Q4. [Assertion–Reason]
+Assertion (A): XRF analysis cannot distinguish between Cr³n and Crnn forms of chromium in soil.
+Reason (R): XRF detects total elemental composition based on characteristic fluorescent X-ray energies,
+which depend on atomic number, not on the oxidation state or chemical form.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 24
+Explanation: Both A and R are true and R correctly explains A. XRF identifies elements by their characteristic X-ray
+energies (K-alpha, K-beta lines), which are determined by the atomic structure (element-specific) and not by
+oxidation state or chemical bonding. To speciate Cr³n vs Crnn, you need: IC, colorimetry (DPC method), or
+LC-ICP-MS for dissolved samples, or XANES (X-ray absorption near edge structure) for solid samples. Select (a).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 25
+9. Master Revision Summary Table
+Technique Principle Key Parameter Environmental
+Application
+UGC NET Focus
+Titrimetry Volumetric reaction to
+equivalence point
+NnVn=NnVn;
+indicators
+Hardness, alkalinity,
+Cln, DO, COD
+Indicators; reactions;
+calculation
+Gravimetry Mass measurement
+after precipitation/volatil
+isation
+Weight of
+precipitate
+TSS, TDS, sulphate, oil
+& grease
+TS/TDS/TSS temperatures;
+BaSOn for SOn²n
+Bomb
+Calorimetry
+On combustion in
+sealed bomb; DT
+measurement
+Q = mcDT/m; GCV
+vs NCV
+Calorific value of fuels,
+waste
+GCV vs NCV; applications
+Paper
+Chromatography
+Capillary action;
+cellulose stationary
+phase
+Rf = spot/solvent
+front
+Qualitative
+pigment/amino acid
+analysis
+Rf definition; cellulose
+phase
+TLC Adsorption on
+silica/alumina; capillary
+action
+Rf; detection by
+UV/iodine
+Pesticide screening;
+lipid analysis
+Silica stationary phase; Rf;
+detectors
+GC Vapour phase
+separation by boiling
+point/polarity
+Retention time;
+carrier gas
+VOCs, pesticides,
+PAHs, BTEX
+FID=universal;
+ECD=halogenated; He
+carrier
+HPLC Liquid phase;
+pressure-driven through
+packed column
+Retention time;
+RP-HPLC=C18
+PAHs, PPCPs, polar
+pesticides, ions
+RP-HPLC=C18; IC for
+anions; detectors
+Flame
+Photometry
+Atomic emission in
+flame
+Wavelength:
+Na=589, K=766 nm
+Nan, Kn in water/soil;
+Li internal std
+Emission; Li std;
+wavelengths
+UV-Vis Spectrop
+hotometry
+Molecular absorption;
+Beer-Lambert
+A=ebc; linear
+A=0.1–1.0
+NOnn, POn³n,
+NHnn, Fe, Cln, COD
+Beer-Lambert; specific
+wavelengths
+AAS Atomic absorption; HCL
+source
+FAAS: μg/L;
+GFAAS: ng/L
+Heavy metals: Pb, Cd,
+Cu, Fe, Cr
+FAAS vs GFAAS;
+CV-AAS=Hg;
+HG-AAS=As,Se
+ICP-AES Multi-element atomic
+emission; Ar plasma
+μg/L; simultaneous
+30–40 elements
+Major/trace elements in
+water/soil
+Multi-element; Ar plasma;
+μg/L
+ICP-MS Ion mass separation; Ar
+plasma
+ng/L–pg/L; isotope
+ratios
+Ultra-trace; speciation;
+forensics
+Lowest DL; isotope ratio;
+LC-ICP-MS speciation
+Electrophoresis Charge+size separation
+in electric field
+Gel % for DNA;
+kDa for protein
+eDNA, protein
+biomarkers, microbial
+diversity
+Agarose=DNA;
+SDS-PAGE=protein;
+DGGE=ecology
+XRF Fluorescent X-ray
+emission; elemental
+fingerprint
+Non-destructive;
+Na to U; mg/kg
+Heavy metals in
+soil/PMn.n; Pb paint
+Non-destructive; cannot
+speciate oxidation state
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.7 – Analytical Methods: Titrimetry, Gravimetry, Chromatography & Spectroscopy
+© UGC NET Env. Sci. Study Notes | Topic 2.7 Page 26
+Technique Principle Key Parameter Environmental
+Application
+UGC NET Focus
+XRD X-ray diffraction;
+Bragg's Law
+nl=2d sinq;
+d-spacing; JCPDS
+Clay minerals;
+asbestos; crystal
+structure
+Bragg's Law; mineral ID;
+clay minerals
+NMR Nuclear spin in
+magnetic field;
+chemical shift
+d (ppm); ¹H and ¹³C
+most common
+Organic pollutant
+structure; SOM
+characterisation
+Chemical shift; coupling;
+functional groups
+FTIR IR absorption by
+molecular vibrations
+Wavenumber
+(cmn¹); ATR mode
+Functional groups;
+microplastics; soil
+SOM; gases
+Key bands: C=O~1715;
+O-H~3300; C-H~2900
+GC-MS GC separation + MS
+identification
+Mass spectrum vs
+NIST library; m/z
+VOCs, SVOCs,
+pesticides, forensics
+Gold standard for ID; EI
+ionisation; SIM mode
+SEM Electron scan of
+surface; secondary
+electrons
+Resolution ~1–20
+nm; EDS mapping
+PM morphology;
+asbestos; microplastics;
+soil
+Surface only; EDS for
+elements; Au/Pt coating
+TEM Electron transmission
+through ultra-thin
+sample
+Resolution
+~0.1–0.2 nm;
+SAED
+Clay structure;
+nanoparticles;
+virus/bacteria
+Internal structure; ultra-thin
+section; atomic res.
+n Final Exam Strategy for Topic 2.7
+1. Titration indicators: EBT=total hardness; Murexide=Ca hardness; Phenolphthalein=P-alkalinity;
+Methyl orange=T-alkalinity; Starch=iodometric DO; Ferroin=COD. Must memorise all.
+2. Beer-Lambert: A=ebc; A=-log(T); linear range 0.1–1.0. Key wavelengths: POn³n=880nm;
+NOnn=543nm; Fe=510nm; NHnn=630nm.
+3. GC detectors: FID=universal organics; ECD=halogenated (OC pesticides, PCBs); FPD=S and P (OP
+pesticides); NPD=N and P; MS=definitive ID.
+4. HPLC: RP-HPLC with C18 column = most common; polar mobile phase; Ion Chromatography = anions
+(Fn, Cln, NOnn, SOn²n) with conductivity detector.
+5. AAS hierarchy: GFAAS (ng/L) > FAAS (μg/L); CV-AAS = only Hg; HG-AAS = As, Se, Sb.
+6. ICP: ICP-AES = multi-element at μg/L; ICP-MS = ultra-trace at ng/L–pg/L + isotope ratios + speciation
+(LC-ICP-MS).
+7. XRD: Bragg's Law nl=2d sinq; identifies MINERALS; JCPDS database. XRF: identifies ELEMENTS
+non-destructively; cannot speciate oxidation states.
+8. FTIR: C=O at 1700–1750 cmn¹; O-H at 3200–3600; C-H at 2850–3000. ATR-FTIR = no sample prep.
+Used for microplastic and SOM analysis.
