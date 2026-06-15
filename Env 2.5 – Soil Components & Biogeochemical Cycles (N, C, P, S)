@@ -1,0 +1,1041 @@
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 1
+Topic 2.5 Inorganic & Organic Soil Components ·
+Biogeochemical Cycles: N, C, P & S
+Syllabus Coverage – Topic 2.5
+Sub-Topic Key Concepts
+Inorganic Soil Components Primary minerals; clay minerals; oxides/hydroxides; CEC; soil texture
+Organic Soil Components Humus; humic/fulvic acids; SOM decomposition; C:N ratio; role of SOM
+Nitrogen Cycle N fixation, nitrification, denitrification, ammonification, assimilation; NnO; anammox
+Carbon Cycle Photosynthesis, respiration, decomposition, ocean sink, sediment burial; GHGs; residence
+times
+Phosphorus Cycle Weathering, uptake, decomposition; no gaseous phase; P as limiting nutrient; eutrophication
+Sulphur Cycle Volcanic, marine, anthropogenic; oxidation/reduction; acid rain; DMS; biotic transformations
+1. Inorganic Components of Soil
+Soil is a complex mixture of mineral particles, organic matter, water, air, and living organisms. The inorganic
+(mineral) fraction constitutes ~45% of soil volume and determines physical properties (texture, structure) and
+many chemical properties (CEC, pH buffering, nutrient retention).
+1.1 Primary Minerals (Inherited from Parent Rock)
+Primary minerals are those that crystallised directly from magma or formed during metamorphism and have not
+been chemically altered. They dominate in young, coarse-textured soils (sand and silt fractions).
+Mineral Group Examples Chemical Formula Soil
+Fraction
+Resistance to Weathering
+Quartz Quartz sand SiOn Sand, silt Extremely high – dominates residual soils
+Feldspars Orthoclase,
+Albite, Anorthite
+KAlSinOn;
+NaAlSinOn;
+CaAlnSinOn
+Sand, silt Moderate – weathers to clay minerals +
+cations
+Micas Muscovite
+(K-mica), Biotite
+(Fe/Mg-mica)
+KnAln(SinAln)Onn(O
+H)n
+Silt, fine
+sand
+Moderate – biotite weathers faster than
+muscovite
+Ferromagnesian Olivine,
+Pyroxene,
+Amphibole
+(Mg,Fe)nSiOn; etc. Sand, silt Low – weathers rapidly; releases Fe, Mg,
+Ca
+Carbonates Calcite,
+Dolomite
+CaCOn; CaMg(COn)n Sand, silt Low – dissolve in acid; limestones weather
+readily
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 2
+Mineral Group Examples Chemical Formula Soil
+Fraction
+Resistance to Weathering
+Accessory Zircon, Apatite,
+Magnetite
+ZrSiOn; Can(POn)nF;
+FenOn
+Sand Variable; apatite = primary P source in
+soils
+1.2 Secondary (Clay) Minerals – Products of Weathering
+Clay minerals are phyllosilicates (sheet silicates) formed by chemical weathering of primary minerals. They
+dominate the clay fraction (< 2 μm) and are the most chemically reactive component of soil due to their enormous
+surface area (up to 800 m²/g) and layer charge.
+1.2a Clay Mineral Structure – Layer Types
+Clay Mineral Building Blocks
+Tetrahedral sheet (T): Sinn surrounded by 4 O²n ions in tetrahedral arrangement. Si can be substituted
+by Al³n ® negative charge.
+Octahedral sheet (O): Al³n (or Mg²n) surrounded by 6 OHn/O²n ions. Al³n substituted by Fe²n/Mg²n ®
+negative charge (isomorphous substitution).
+1:1 clay = one T + one O sheet (non-expanding)
+2:1 clay = T–O–T sandwich (some expand; large CEC)
+Clay Mineral Layer
+Type
+Interlayer Expansion Surface
+Area (m²/g)
+CEC
+(cmol/kg)
+Occurrence
+Kaolinite 1:1 (T-O) H-bonds; fixed Non-expand
+ing
+5–20 2–15 Tropical, highly
+weathered soils;
+laterites
+Illite 2:1
+(T-O-T)
+Kn fixed;
+non-exchangeable
+Non-expand
+ing
+80–120 10–40 Temperate soils;
+shales; common in
+India
+Smectite
+(Montmorillonite)
+2:1
+(T-O-T)
+Exchangeable
+cations + water
+High
+expansion
+(2–15 nm!)
+600–800 80–120 Black cotton soils
+(Vertisols); arid
+regions
+Vermiculite 2:1
+(T-O-T)
+Mg²n + water;
+partially fixed
+Moderate
+expansion
+300–500 100–200 Weathered micas;
+temperate soils
+Chlorite 2:1:1 Brucite layer; fixed Non-expand
+ing
+70–150 10–40 Cool temperate; soils
+from basic rocks
+Allophane Amorphou
+s
+Variable Variable 200–700 20–50 Young volcanic soils
+(Andisols); high P
+fixation
+1.3 Cation Exchange Capacity (CEC)
+Cation Exchange Capacity (CEC)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 3
+CEC = the total capacity of a soil to hold exchangeable cations; expressed in cmol(+)/kg (or meq/100g soil)
+Caused by: (1) isomorphous substitution in clay lattice; (2) broken edges of clay particles; (3) ionisation of
+OH groups on organic matter
+Order of CEC: Organic matter (200–400) > Smectite (80–120) > Vermiculite (100–200) > Illite (10–40) >
+Kaolinite (2–15)
+Cation selectivity (binding strength): Al³n > Ca²n > Mg²n > Kn » NHnn > Nan > Lin
+Higher valence and smaller hydrated radius ® stronger binding to exchange sites
+CEC determines soil fertility, buffering capacity, and pesticide/heavy metal retention
+1.4 Soil Texture Classification
+Particle Class Diameter Range Properties Dominant Mineral
+Gravel >2 mm No CEC; no water retention; rapid drainage Quartz, rock fragments
+Sand (coarse) 0.2–2 mm Low CEC; rapid drainage; low
+water-holding
+Quartz predominant
+Sand (fine) 0.05–0.2 mm Low CEC; good aeration Quartz, feldspars
+Silt 0.002–0.05 mm Moderate; silky feel when wet; moderate
+retention
+Quartz, micas, feldspars
+Clay < 0.002 mm (2 μm) Highest CEC; sticky/plastic; swells; low
+permeability
+Kaolinite, smectite, illite
+n EXAM TIP: Clay mineral order for CEC: Smectite (80–120) > Vermiculite > Illite > Kaolinite (2–15).
+Montmorillonite (smectite) = Black Cotton Soil mineral; highest swelling + CEC. Kaolinite = 1:1;
+Illite/Smectite/Vermiculite = 2:1. Isomorphous substitution = same structure, different ion ® creates
+permanent negative charge on clay.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 4
+2. Organic Components of Soil
+Soil Organic Matter (SOM) is the living and non-living organic fraction of soil. Though it constitutes only 1–6% of
+soil by weight, it has a disproportionately large influence on soil fertility, water retention, structure, and biological
+activity.
+2.1 Fractions of Soil Organic Matter
+SOM Fraction % of
+SOM
+Description Role
+Living biomass (biota) 1–5% Bacteria, fungi, actinomycetes,
+earthworms, nematodes, roots
+Decomposition; N fixation; nutrient cycling;
+enzyme production
+Fresh/active organic
+matter
+10–20% Recently added plant/animal residues;
+easily decomposable
+Rapid nutrient release; energy source for
+microbes
+Humus (stabilised
+SOM)
+60–80% Dark, colloidal, amorphous organic
+polymer; resistant to decomposition
+Nutrient retention; water holding; soil
+structure; CEC
+Charcoal/Black carbon Variable Pyrogenic carbon from fires; extremely
+recalcitrant
+Carbon sequestration; centuries to
+millennia residence time
+2.2 Humic Substances – The Core of Humus
+Humic substances are high-molecular-weight, dark-coloured organic compounds formed by humification
+(decomposition + condensation of plant/animal residues). They are classified by solubility in acid/alkali:
+Fraction Solubility Molecular
+Weight
+Colour Key Properties
+Humin Insoluble in both acid
+and alkali
+Highest
+(>100,000 Da)
+Black Most recalcitrant; tightly bound to clay
+minerals; longest residence time
+Humic acid Soluble in alkali;
+precipitates in acid (pH
+< 2)
+10,000–100,000
+Da
+Dark brown
+–black
+Main fraction; forms organo-mineral
+complexes; high CEC (200–400 cmol/kg)
+Fulvic acid Soluble in both acid and
+alkali
+< 2,000 Da Yellow–light
+brown
+Most mobile; highest O content; complex
+metals; leaches deepest in profile
+2.3 C:N Ratio – Key Decomposition Indicator
+Carbon:Nitrogen (C:N) Ratio
+The C:N ratio determines whether decomposition results in net N MINERALISATION (release) or N
+IMMOBILISATION (uptake by microbes).
+• C:N < 20:1 ® Net mineralisation ® excess mineral N (NHnn, NOnn) released to soil ® good for plants
+• C:N ~ 20–30:1 ® Balance ® little N released or immobilised
+• C:N > 30:1 ® Net immobilisation ® microbes take up available N ® N deficiency in plants
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 5
+Microbial biomass C:N » 8:1. To decompose high C:N material, microbes steal N from soil solution.
+Material C:N Ratio Effect on Decomposition
+Microbial biomass 8:1 Reference ratio for microbes
+Sewage sludge 6–10:1 Very rapid mineralisation; N flush
+Legume residues (alfalfa) 15–20:1 Good mineralisation; N release
+Cereal straw 50–80:1 Strong N immobilisation; tie-up N
+Sawdust / wood chips 200–500:1 Severe N immobilisation; avoid fresh addition
+Peat 30–40:1 Slow decomposition; moderate immobilisation
+Humus (stable SOM) 10–12:1 Well-decomposed; stable; releases N slowly
+2.4 Role of Soil Organic Matter
+Property Improved How SOM Helps
+Soil structure Humus binds mineral particles into aggregates ® better tilth, aeration, water infiltration
+Water holding capacity Humus holds 20× its weight in water ® drought resistance; reduces runoff
+Cation Exchange Capacity SOM contributes 30–60% of total CEC in mineral soils ® nutrient retention
+Nutrient supply Mineralisation releases N, P, S, micronutrients; slow-release fertiliser
+Buffering capacity Humic acids buffer pH changes; resist acidification
+Biological activity Energy source for soil microbes; supports diverse soil food web
+Contaminant sorption Hydrophobic organics (pesticides, PAHs) sorb to SOM ® reduces leaching
+Carbon sequestration Stable humus stores C for decades–centuries; climate mitigation
+n EXAM TIP: Humin = insoluble in acid+alkali (most recalcitrant). Humic acid = soluble in alkali, precipitates
+in acid. Fulvic acid = soluble in both (most mobile; lowest MW). C:N < 20 ® mineralisation (N release); C:N
+> 30 ® immobilisation (N locked up). SOM holds 20× its weight in water. CEC of humus: 200–400 cmol/kg.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 6
+3. Nitrogen Biogeochemical Cycle
+Nitrogen (N) is essential for all life – it is a component of amino acids, proteins, DNA, RNA, and chlorophyll. The
+atmosphere contains 78% Nn, but most organisms cannot use Nn directly. The nitrogen cycle involves complex
+transformations between organic and inorganic forms, mediated largely by microorganisms.
+3.1 Global Nitrogen Reservoirs
+Reservoir Amount (Tg N) Form Availability
+Atmosphere 3.9 × 10n Nn (78%) Unavailable to most organisms; fixed by
+microbes/lightning
+Ocean (dissolved) ~22,000 NOnn, NHnn,
+DON
+Available to marine organisms
+Soil (organic) ~95,000–140,000 Organic N in
+SOM
+Slowly available via mineralisation
+Soil (inorganic) ~10,000 NOnn, NHnn Directly available to plants
+Terrestrial biota ~3,500 Organic N in
+biomass
+In living organisms
+Sediment/rock Very large Organic +
+mineral N
+Effectively unavailable
+3.2 Nitrogen Cycle Processes – Complete Flowchart
+ATMOSPHERIC Nn (78% of atmosphere; unavailable to most organisms)
+BIOLOGICAL N FIXATION Rhizobium (legumes):
+Nn + 8Hn + 8en + 16ATP ® 2NHn + Hn
+Azotobacter, Anabaena (free-living)
+Cyanobacteria (rice fields; aquatic)
+INDUSTRIAL N FIXATION Haber–Bosch process:
+Nn + 3Hn ® 2NHn (Fe catalyst; 400–500°C;
+150–300 atm) ~120 Tg N/yr globally
+t
+AMMONIUM (NHnn) in soil – first inorganic N form Also from: Ammonification (decomposition of organic N:
+proteins ® amino acids ® NHnn)
+t
+PLANT UPTAKE NHnn directly
+absorbed by roots (especially
+rice)
+NITRIFICATION Step 1: NHnn
+® NOnn (Nitrosomonas) Step
+2: NOnn ® NOnn (Nitrobacter)
+Aerobic; pH 6–8
+IMMOBILISATION Microbial
+uptake of NHnn when C:N > 30
+(N locked in biomass)
+t
+NITRATE (NOnn) – most mobile N form in soil; leaches to groundwater; plant uptake
+t
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 7
+DENITRIFICATION NOnn ® NOnn ® NO ® NnO
+® Nn (Pseudomonas, Paracoccus) Anaerobic;
+high C; returns N to atmosphere NnO = potent
+GHG (GWP=273)
+ANAMMOX (Anaerobic Ammonium Oxidation)
+NHnn + NOnn ® Nn + 2HnO (Planctomycetes
+bacteria) Important in marine sediments; WWTPs
+3.3 Key Nitrogen Transformation Processes
+Process Reaction Organisms Conditions Environmental Significance
+Nn Fixation
+(biological)
+Nn ® NHn ®
+NHnn (~140 Tg
+N/yr)
+Rhizobium
+(symbiotic);
+Azotobacter,
+Clostridium
+(free-living);
+Anabaena,
+Trichodesmium
+(cyanobacteria)
+Anaerobic
+microsites;
+nitrogenase
+enzyme; Mo
+cofactor
+required
+Primary natural N input; reduces
+fertiliser need; supports food webs
+Ammonification Organic-N ®
+NHnn
+Heterotrophic
+bacteria and fungi
+Aerobic or
+anaerobic; all
+soil types
+Releases plant-available N from SOM;
+first step of mineralisation
+Nitrification NHnn ® NOnn
+® NOnn
+Nitrosomonas (step
+1); Nitrobacter
+(step 2); also
+Comammox (one
+organism)
+Strictly aerobic;
+pH 6–8;
+25–30°C optimal
+Produces mobile NOnn; source of
+NnO; acidifies soil (Hn released)
+Denitrification NOnn ® NnO ®
+Nn
+Pseudomonas,
+Paracoccus,
+Thiobacillus
+denitrificans
+Anaerobic;
+available C as
+electron donor;
+NOnn as
+electron
+acceptor
+Returns N to atmosphere; reduces
+eutrophication; produces NnO (GHG)
+Assimilation NOnn / NHnn ®
+organic-N
+Plants, microbes Requires
+energy; plants
+prefer NHnn in
+acidic soils,
+NOnn in neutral
+Incorporates inorganic N into biomass;
+basis of food chains
+Anammox NHnn + NOnn ®
+Nn + HnO
+Planctomycetes
+(e.g., Brocadia)
+Strictly
+anaerobic; no
+organic C
+needed
+Responsible for ~50% of Nn production
+in ocean; used in WWTPs
+DNRA NOnn ® NHnn
+(Dissimilatory
+NOnn reduction)
+Desulfovibrio,
+Clostridium
+Anaerobic; high
+C:N
+Retains N in ecosystem (unlike
+denitrification which loses it)
+3.4 Human Impacts on the Nitrogen Cycle
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 8
+Human Activity N Input/Change Environmental Consequence
+Synthetic fertilisers
+(Haber–Bosch)
+~120 Tg N/yr added
+globally
+Eutrophication; NOnn leaching; groundwater contamination;
+NnO emissions
+Legume cultivation ~40 Tg N/yr biological
+fixation
+Beneficial if managed; can also contribute to surplus N
+Fossil fuel combustion NOx emissions (~25 Tg
+N/yr)
+Acid rain; photochemical smog; tropospheric On; N deposition
+Livestock/manure NHn volatilisation; N in
+manure
+NHn deposition ® soil acidification; PMn.n (ammonium nitrate)
+Wastewater discharge NOnn, NHnn to water
+bodies
+Eutrophication; hypoxia; algal blooms; dead zones
+n EXAM TIP: Nitrification: NHnn®NOnn (Nitrosomonas) ® NOnn (Nitrobacter); AEROBIC.
+Denitrification: NOnn®Nn (Pseudomonas); ANAEROBIC. Rhizobium fixes Nn only in legume root
+nodules; Azotobacter = free-living aerobic fixer; Anabaena/cyanobacteria = aquatic N fixers (important in
+rice paddies). NnO GWP = 273 (over 100 years); major agricultural GHG. Anammox: NHnn+NOnn®Nn
+(no On needed).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 9
+4. Carbon Biogeochemical Cycle
+Carbon is the backbone of all organic molecules and the primary element driving climate change. The carbon
+cycle involves rapid biological exchanges (years to decades) and slow geological exchanges (millions of years).
+Human activities have fundamentally disrupted the balance established over millennia.
+4.1 Global Carbon Reservoirs
+Reservoir Carbon Stock
+(Pg C)
+Dominant Form Residence Time
+Lithosphere
+(rocks/sediments)
+~100,000,000 CaCOn, organic shale, coal,
+oil, gas
+Millions of years
+Ocean (total) ~38,000 DIC (HCOnn=90%, COn²n,
+COn), DOC, POC
+Deep ocean: ~1000 yr
+Soil (to 1 m depth) ~1,500–2,400 Humus, SOM, peat, charcoal Years to millennia
+Fossil fuels
+(exploitable)
+~4,000 Coal, oil, natural gas, oil shale Millions of years (stored)
+Atmosphere ~860 (and
+rising)
+COn (421 ppm); CHn (1.9
+ppm)
+COn: ~5 years (fast); centuries (slow)
+Terrestrial biota ~560 Cellulose, lignin, proteins in
+plants
+Years to decades
+Marine biota ~3 Marine organisms Days to weeks
+Permafrost ~1,500–1,700 Frozen SOM; peat Thousands of years; vulnerable to warming
+4.2 Carbon Cycle Processes – Flowchart
+ATMOSPHERIC COn (421 ppm, 2024; pre-industrial: 280 ppm) CHn (1.9 ppm; pre-industrial: 0.7 ppm)
+PHOTOSYNTHESIS (terrestrial + marine) 6COn +
+6HnO + hn ® CnHnnOn + 6On ~120 Pg C/yr
+terrestrial GPP Chlorophyll; C3/C4/CAM pathways
+OCEAN ABSORPTION Physical: COn dissolves in
+cold surface water Biological pump:
+phytoplankton fix COn ® sink as dead organic
+matter ~2.5 Pg C/yr net ocean uptake
+t
+ORGANIC CARBON IN BIOTA, SOIL, OCEAN Plants: ~560 Pg; Soil: ~1500–2400 Pg; Ocean DOC/POC: ~700
+Pg
+t
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 10
+RESPIRATION CnHnnOn +
+6On ® 6COn + 6HnO
+Autotrophic (plants): ~60 Pg
+C/yr Heterotrophic
+(animals+microbes): ~60 Pg
+DECOMPOSITION Microbial
+breakdown of dead organic
+matter Aerobic ® COn
+Anaerobic ® COn + CHn
+(Wetlands; rice paddies;
+landfills)
+FOSSIL FUEL COMBUSTION
+~10.5 Pg C/yr (2023) Coal + Oil
++ Gas + Cement Land use
+change: ~1.5 Pg
+t
+NET ATMOSPHERIC INCREASE: ~5 Pg C/yr (COn rising ~2.5 ppm/yr) Ocean absorbs ~2.5 Pg/yr ®
+acidification; Land sink ~3 Pg/yr
+4.3 Carbon Cycle Processes – Detailed Table
+Process Flux (Pg
+C/yr)
+Chemistry Significance
+Gross Primary Productivity
+(GPP)
+~120 6COn+6HnO+hn®CnHnnOn
++6On
+Total COn fixed by all plants; largest flux
+Net Primary Productivity
+(NPP)
+~60 NPP = GPP - plant respiration Carbon available to herbivores and
+decomposers
+Autotrophic respiration ~60 Reverse of photosynthesis Plants respire ~50% of what they fix
+Heterotrophic respiration ~55–60 Decomposers + animals
+respiring
+Releases C back to atmosphere from soils
+Ocean COn uptake ~2.5 (net) COn(g) n COn(aq) ® HnCOn
+® HCOnn
+Ocean = major C sink; causes acidification
+Fossil fuel combustion ~10.5 CnHn + On ® COn + HnO Primary driver of rising COn; 36 Gt COn/yr
+in 2023
+Land use change ~1.5 Deforestation releases SOM +
+biomass C
+Tropical deforestation major source
+Volcanic outgassing ~0.3 CaCOn + SiOn ® CaSiOn +
+COn (thermal)
+Natural geological source; tiny vs human
+flux
+Weathering (carbonate) ~0.3 (sink) COn + HnO + CaCOn ®
+2HCOnn + Ca²n
+Slow geological C removal over millennia
+Biological pump ~10 Phytoplankton fix C ® die ®
+sink to deep ocean
+Exports C to ocean depths; critical climate
+regulator
+Methane (wetlands/rice) ~0.5 as
+CHn
+COn + 4Hn ® CHn + 2HnO
+(methanogens)
+CHn GWP = 28–84; oxidised to COn in
+troposphere
+4.4 Ocean Carbon Chemistry
+The Biological Pump
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 11
+Surface phytoplankton fix COn via photosynthesis ® form organic matter ® consumed by zooplankton ®
+faecal pellets and dead organisms sink to deep ocean ® C stored for 100s–1000s of years away from
+atmosphere.
+~10 Pg C/yr exported to deep ocean; only ~0.2 Pg reaches sediment floor permanently.
+Ocean acidification (pH now ~8.1 vs pre-industrial 8.2) reduces calcification by corals, pteropods, coccolithophores ®
+weakens biological pump over time.
+n EXAM TIP: Largest C reservoir = lithosphere/rocks (~100,000,000 Pg). Largest active flux = GPP (~120
+Pg C/yr). Fossil fuel emission = ~10.5 Pg C/yr = ~36 Gt COn/yr. COn pre-industrial = 280 ppm; current =
+421 ppm (2024). CHn GWP = 28 (100-yr) or 84 (20-yr) vs COn=1. Permafrost stores ~1500–1700 Pg C;
+warming ® positive feedback loop.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 12
+5. Phosphorus Biogeochemical Cycle
+The phosphorus cycle is unique among major nutrient cycles because it has no significant gaseous phase.
+Phosphorus moves from rocks (via weathering) through soils and water to organisms, and returns via
+decomposition and sedimentation. P is often the limiting nutrient in freshwater ecosystems and many terrestrial
+systems.
+5.1 Phosphorus Forms in Environment
+Form Symbol Occurrence Availability
+Orthophosphate
+(soluble)
+HnPOnn (pH<7);
+HPOn²n (pH>7)
+Soil solution; water Directly available to plants and microbes
+Apatite (primary
+mineral)
+Can(POn)n(OH/F/
+Cl)
+Igneous/sedimentary rock;
+fertiliser
+Very slow release; requires acid weathering
+Adsorbed P P sorbed to Fe/Al
+oxides, CaCOn
+Soil solid phase Conditional release; pH dependent
+Organic P Phytate,
+phospholipids,
+DNA, RNA
+SOM; living organisms Released by phosphatase enzymes on
+mineralisation
+Polyphosphate (POn)n Detergents (banned in many
+countries); intracellular
+Hydrolysed to orthophosphate rapidly
+Struvite MgNHnPOn·6Hn
+O
+Wastewater; urine struvite
+recovery
+Slow-release fertiliser; P recovery from
+sewage
+5.2 Phosphorus Cycle – Flowchart
+PHOSPHATE ROCK / APATITE (Primary source; mined at ~50 Tg P/yr globally; non-renewable; peak
+phosphorus concerns)
+t
+WEATHERING HnSOn + Can(POn)nF ® 5Ca²n + 3HPOn²n + HF Slow; pH-dependent; primary P input to
+soil over geological time
+t
+SOIL INORGANIC P POOL HnPOnn / HPOn²n in solution; adsorbed to Fe(OH)n, Al(OH)n, CaCOn Highly
+pH-dependent: max availability pH 6–7
+PLANT UPTAKE HnPOnn
+absorbed actively Mycorrhizae
+greatly extend root P
+absorption surface
+ADSORPTION/FIXATION Fe/Al
+oxides fix P at low pH CaCOn
+fixes P at high pH Reduces P
+availability
+MICROBIAL UPTAKE P
+incorporated into microbial
+biomass; released on cell death
+t
+ORGANIC P IN BIOMASS ® DECOMPOSITION ® MINERALISATION Phosphatases break down organic P ®
+HnPOnn released ® cycle continues
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 13
+t
+RUNOFF/LEACHING ® RIVERS ® LAKES ® OCEAN Sedimentation ® Burial ® Eventual geological uplift
+(very slow return) No gaseous pathway = P is LOST from terrestrial systems to ocean permanently
+5.3 pH and Phosphorus Availability
+P Availability vs pH
+• Acid soils (pH < 5.5): Fe³n and Al³n abundant ® strong P fixation as FePOn and AlPOn ® P
+unavailable
+• Neutral soils (pH 6–7): Minimum P fixation ® MAXIMUM P availability
+• Alkaline soils (pH > 7.5): Ca²n abundant ® CaHPOn, Can(POn)n precipitation ® P unavailable
+Liming acid soil to pH 6–6.5 is the single most effective way to improve P availability.
+Mycorrhizal fungi extend root surface area by 100–1000× ® dramatically improve P uptake in P-poor soils.
+5.4 Phosphorus and Eutrophication
+P is the limiting nutrient in most freshwater lakes. Even small additions of P (from agriculture, detergents,
+sewage) cause massive algal blooms ® eutrophication ® DO depletion ® fish kills ® dead zones. The critical P
+threshold for eutrophication in lakes = 0.02 mg/L total P.
+Stage P Level Ecological Status Characteristics
+Oligotrophic < 0.01 mg/L Pristine; low nutrients Clear water; high DO; diverse biota; low productivity
+Mesotrophic 0.01–0.02 mg/L Transitional Moderate nutrients; good water quality; moderate
+productivity
+Eutrophic 0.02–0.1 mg/L Nutrient-enriched;
+impaired
+Algal blooms; reduced DO; loss of sensitive species
+Hypertrophic > 0.1 mg/L Severely eutrophied Dense algal mats; DO crash; HnS; fish kills; blue-green
+algae
+n EXAM TIP: Phosphorus cycle has NO gaseous phase (unlike N, C, S cycles). P limiting nutrient in
+freshwater; N limiting in marine. Apatite = Can(POn)nF = primary rock P mineral. Max P availability at pH
+6–7. Eutrophication threshold ~0.02 mg/L total P. Mycorrhizae critical for P uptake in poor soils. "Peak
+phosphorus" = finite rock phosphate reserves; a global food security concern.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 14
+6. Sulphur Biogeochemical Cycle
+Sulphur (S) is essential for amino acids (cysteine, methionine), proteins, coenzymes, and vitamins. The sulphur
+cycle is environmentally critical because it connects atmospheric chemistry (acid rain), marine chemistry (DMS),
+soil chemistry (HnS, sulphate reduction), and biological metabolism.
+6.1 Global Sulphur Reservoirs
+Reservoir Amount (Tg S) Main Form
+Lithosphere (rocks) Very large (>>10n) Pyrite (FeSn), gypsum (CaSOn·2HnO), evaporites
+Ocean 1.3 × 10n SOn²n (2.65 g/L = ~28 mM); second most abundant anion
+Soil ~5 × 10n SOn²n (adsorbed + solution); organic S; pyrite
+Atmosphere ~4.8 SOn, DMS, HnSOn aerosol, COS (carbonyl sulphide)
+Biota ~30,000 Organic S (amino acids, proteins, lipids)
+6.2 Sulphur Cycle – Key Processes Flowchart
+SULPHUR SOURCES TO ATMOSPHERE • Volcanic: SOn (~15 Tg S/yr) • Fossil fuel combustion: SOn
+(~70–100 Tg S/yr) ¬ DOMINANT ANTHROPOGENIC • Marine: DMS (dimethylsulphide from phytoplankton)
+~30 Tg S/yr • Biogenic: HnS from anaerobic soils, wetlands
+t
+ATMOSPHERIC OXIDATION SOn + OH• ®
+HOSOn• ® HnSOn (gas phase; hours) SOn +
+HnOn/On ® HnSOn (aqueous phase in clouds)
+Acid rain: HnSOn in precipitation
+DMS PATHWAY Phytoplankton produce DMSP ®
+DMS released to atmosphere ® DMS + OH• ®
+SOn + MSA ® HnSOn aerosol (cloud nuclei)
+CHARLSON–LOVELOCK–ANDREAE–WARREN
+(CLAW) hypothesis: DMS–climate feedback
+t
+WET & DRY DEPOSITION HnSOn (wet): acid rain; SOn (dry): direct deposition ~100 Tg S/yr deposited on
+land + ocean; pH of acid rain < 4.5 near smelters
+t
+SOIL SULPHATE POOL (SOn²n) Plant uptake ® organic S Adsorbed to Fe/Al oxides (high P fixation soils
+also fix SOn²n)
+t
+SULPHATE REDUCTION (anaerobic) SOn²n +
+8Hn + 8en ® HnS + 4HnO (Desulfovibrio,
+Desulfotomaculum) In sediments; swamps;
+mangroves HnS = rotten egg smell; toxic; forms
+FeS (black sediment)
+SULPHUR OXIDATION (aerobic) HnS + 2On ®
+HnSOn (Thiobacillus, Sulfolobus) Pyrite: FeSn +
+7/2On + HnO ® Fe²n + 2Hn + 2SOn²n Acid Mine
+Drainage (AMD)!
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 15
+6.3 Sulphur Oxidation States – The Full Spectrum
+Oxidation
+State
+Form / Compound Environment Significance
+-2 (most
+reduced)
+HnS (hydrogen
+sulphide); S²n; FeS;
+FeSn
+Anaerobic sediments;
+volcanic gases; oil wells
+Toxic; corrosive; rotten egg odour; black sediment
+(FeS)
+0 Sn (elemental sulphur) Hydrothermal vents;
+volcanic deposits;
+transitional
+Intermediate in S oxidation; S fertiliser
++2 - Rare intermediate —
++4 SOn (sulphur dioxide) Combustion gases;
+volcanic emissions
+Air pollutant; acid rain precursor; reduces visibility
++6 (most
+oxidised)
+SOn²n (sulphate);
+HnSOn
+Oxic soils; ocean;
+atmosphere
+Dominant S form in oxic environments; acid rain;
+plant nutrition
+6.4 Acid Mine Drainage (AMD) – Sulphur in Action
+Acid Mine Drainage Formation
+Step 1: FeSn + 7/2 On + HnO ® Fe²n + 2SOn²n + 2Hn (chemical/microbial)
+Step 2: Fe²n + ¼On + Hn ® Fe³n + ½HnO (Acidithiobacillus ferrooxidans catalyses)
+Step 3: FeSn + 14Fe³n + 8HnO ® 15Fe²n + 2SOn²n + 16Hn (Fe³n attacks more pyrite)
+Step 4: Fe³n + 3HnO ® Fe(OH)n¯ + 3Hn (orange/yellow precipitate = "yellow boy")
+Net result: pH 2–4; high Fe, SOn²n, heavy metals; orange streams; ecosystem destruction
+Treatment: Lime addition (raise pH); constructed wetlands; anaerobic SRB treatment
+6.5 Comparison of All Four Biogeochemical Cycles
+Feature N Cycle C Cycle P Cycle S Cycle
+Gaseous phase Yes (Nn, NnO, NHn,
+NOx)
+Yes (COn, CHn) No (sedimentary
+cycle)
+Yes (SOn, HnS,
+DMS)
+Primary reservoir Atmosphere (Nn, 78%) Lithosphere
+(rocks/sediments)
+Lithosphere
+(apatite rock)
+Lithosphere (pyrite,
+gypsum, evaporites)
+Key organisms Rhizobium,
+Nitrosomonas,
+Nitrobacter,
+Pseudomonas
+All (photosynthesisers +
+decomposers)
+Mycorrhizae, phosp
+hate-solubilisers,
+decomposers
+Thiobacillus (oxidiser);
+Desulfovibrio
+(reducer)
+Main GHG NnO (GWP=273) COn (GWP=1); CHn
+(GWP=28–84)
+None directly SOn not GHG;
+HnSOn = cooling
+aerosol
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 16
+Feature N Cycle C Cycle P Cycle S Cycle
+Limiting nutrient Marine ecosystem
+(limiting)
+Not typically limiting Freshwater
+(limiting)
+Rarely limiting (except
+in some soils)
+Main pollution
+issue
+Eutrophication; NOnn in
+groundwater; acid rain
+(NOx)
+Climate change; ocean
+acidification
+Eutrophication; P in
+runoff
+Acid rain (SOn);
+AMD; HnS toxicity
+Human disruption Haber–Bosch; fertilisers;
+combustion
+Fossil fuel combustion;
+deforestation
+Mining; fertilisers;
+sewage
+Coal/oil combustion;
+mining; smelting
+Recycling speed Fast (biological;
+days–years)
+Fast (biological) + slow
+(geological)
+Very slow
+(geological); no
+gaseous shortcut
+Both fast (biotic) and
+slow (geological)
+n EXAM TIP: DMS (dimethylsulphide) from phytoplankton ® SOn ® HnSOn aerosol ® cloud
+condensation nuclei ® climate cooling (CLAW hypothesis). Thiobacillus = key S oxidiser; Desulfovibrio =
+key sulphate reducer (SRB). AMD: Acidithiobacillus ferrooxidans catalyses Fe²n®Fe³n which attacks
+FeSn. P cycle = only sedimentary cycle (no gas phase). S oxidation states: HnS(-2) ® Sn(0) ® SOn(+4)
+® SOn²n(+6).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 17
+7. UGC NET Pattern MCQs with Explanations
+Q1. Which clay mineral is responsible for the shrink-swell behaviour of Black Cotton Soils?
+(a) Kaolinite
+(b) Illite
+(c) Montmorillonite (Smectite)
+(d) Chlorite
+4 Answer: (c)
+Explanation: Montmorillonite (smectite) is a 2:1 expanding clay mineral with very high surface area (600–800 m²/g)
+and CEC (80–120 cmol/kg). It absorbs large amounts of water between layers ® swells. On drying ® shrinks
+dramatically. This creates the cracking and swelling behaviour of Black Cotton Soils (Vertisols) in Maharashtra,
+Karnataka, and MP.
+Q2. A crop residue with C:N ratio of 80:1 is incorporated into soil. What will happen to soil mineral
+nitrogen in the short term?
+(a) Net mineralisation – mineral N increases
+(b) Net immobilisation – mineral N decreases as microbes consume it
+(c) No change – C:N has no effect on N dynamics
+(d) Denitrification – Nn is produced
+4 Answer: (b)
+Explanation: C:N > 30 ® net N immobilisation. Microbes need N to decompose the high-carbon material. They
+consume available soil mineral N (NHnn, NOnn) ® temporary N deficiency for crops. Farmers should avoid
+incorporating fresh straw before planting; allow partial decomposition first.
+Q3. The process of conversion of ammonium (NHnn) to nitrate (NOnn) in soil is called:
+(a) Ammonification
+(b) Denitrification
+(c) Nitrification
+(d) Nitrogen fixation
+4 Answer: (c)
+Explanation: Nitrification is a two-step aerobic process: Step 1: NHnn ® NOnn (by Nitrosomonas); Step 2: NOnn
+® NOnn (by Nitrobacter). It requires oxygen, optimal pH 6–8, and temperature 25–30°C. NOnn is mobile and can
+leach to groundwater or be lost by denitrification.
+Q4. Which of the following is the largest active flux in the global carbon cycle?
+(a) Fossil fuel combustion (~10.5 Pg C/yr)
+(b) Gross Primary Productivity – GPP (~120 Pg C/yr)
+(c) Ocean uptake (~2.5 Pg C/yr)
+(d) Land use change (~1.5 Pg C/yr)
+4 Answer: (b)
+Explanation: GPP (photosynthesis by all plants and phytoplankton) is the largest flux at ~120 Pg C/yr. Fossil fuel
+combustion (~10.5 Pg C/yr), though the primary driver of rising COn, is much smaller than the natural biological
+fluxes. However, natural fluxes are roughly balanced; it is the human addition that causes net increase.
+Q5. Phosphorus availability in soil is maximum at pH:
+(a) 4–5
+(b) 5–6
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 18
+(c) 6–7
+(d) 8–9
+4 Answer: (c)
+Explanation: At pH 6–7: Fe/Al phosphate precipitation is minimal AND Ca-phosphate precipitation is minimal. Below
+pH 5.5: Al³n and Fe³n fix P as insoluble phosphates. Above pH 7.5: Ca²n precipitates P as CaHPOn, Can(POn)n.
+This is why liming acid soil to pH 6–6.5 is the most effective P management strategy.
+Q6. The CLAW hypothesis in the sulphur cycle relates to:
+(a) Coal combustion causing acid rain
+(b) DMS produced by phytoplankton acting as cloud condensation nuclei and influencing climate
+(c) Sulphate reduction in marine sediments producing HnS
+(d) Lime treatment of acid mine drainage
+4 Answer: (b)
+Explanation: The CLAW hypothesis (Charlson, Lovelock, Andreae, Warren, 1987) proposes a climate feedback loop:
+warmer climate ® more phytoplankton ® more DMS ® oxidised to HnSOn aerosol ® more cloud condensation
+nuclei ® brighter clouds ® more solar reflection ® cooling. A negative feedback (self-regulating) mechanism,
+though its strength is debated.
+Q7. Which organism is responsible for the ANAEROBIC AMMONIUM OXIDATION (anammox) reaction?
+(a) Nitrosomonas europaea
+(b) Pseudomonas denitrificans
+(c) Planctomycetes (e.g., Brocadia anammoxidans)
+(d) Rhizobium leguminosarum
+4 Answer: (c)
+Explanation: Anammox (anaerobic ammonium oxidation) is carried out by Planctomycetes bacteria, principally
+Brocadia anammoxidans. Reaction: NHnn + NOnn ® Nn + 2HnO. It requires NO anaerobic conditions and is
+responsible for ~50% of marine Nn production. It is also used in wastewater treatment (SHARON-ANAMMOX
+process).
+Q8. The biogeochemical cycle that LACKS a significant gaseous phase is:
+(a) Carbon cycle
+(b) Nitrogen cycle
+(c) Phosphorus cycle
+(d) Sulphur cycle
+4 Answer: (c)
+Explanation: The phosphorus cycle is a SEDIMENTARY cycle – it moves from rocks (apatite) through weathering to
+soil and water, through organisms, and back to sediments. There is no significant volatile phosphorus compound (no
+PHn gas at scale). This makes P cycling very slow and explains why P is often limiting in ecosystems.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 19
+8. Assertion–Reason Questions
+Q1. [Assertion–Reason]
+Assertion (A): Kaolinite has a much lower cation exchange capacity (CEC) than montmorillonite.
+Reason (R): Kaolinite is a 1:1 clay mineral held together by strong hydrogen bonds between layers,
+allowing little isomorphous substitution and no interlayer expansion.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+Explanation: Both A and R are true and R correctly explains A. Kaolinite CEC = 2–15 cmol/kg; montmorillonite =
+80–120 cmol/kg. Kaolinite's 1:1 structure (T-O) has fixed layers (H-bonding prevents swelling), minimal isomorphous
+substitution ® very low permanent charge ® low CEC. Montmorillonite's 2:1 structure has extensive isomorphous
+substitution + expands ® high CEC. Select (a).
+Q2. [Assertion–Reason]
+Assertion (A): Biological nitrogen fixation requires an anaerobic microsite even in aerobic organisms
+like Azotobacter.
+Reason (R): The enzyme nitrogenase, which fixes Nn, is irreversibly inactivated by oxygen.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+Explanation: Both A and R are true and R correctly explains A. Nitrogenase (containing Mo-Fe and Fe-Fe proteins) is
+extremely On-sensitive. Azotobacter protects nitrogenase by: (1) very high On consumption rate (respiratory
+protection); (2) conformational change of enzyme under On stress. Rhizobium uses leghaemoglobin (pink colour of
+nodule) to maintain low On. Select (a).
+Q3. [Assertion–Reason]
+Assertion (A): Phosphorus is more often the limiting nutrient in freshwater lakes, while nitrogen is more
+often limiting in marine ecosystems.
+Reason (R): Freshwater systems receive P from terrestrial runoff, while marine systems receive N from
+atmospheric deposition which is easily utilised.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (b)
+Explanation: A is TRUE: This is Liebig's Law applied to aquatic systems. Freshwater is P-limited because external P
+loading from agriculture/sewage exceeds N loading relative to algal needs (Redfield ratio ~16N:1P); marine is
+N-limited because Nn fixation inputs are lower relative to P. R is PARTIALLY true but NOT the correct/complete
+explanation of the limiting nutrient difference. The correct reason relates to Redfield ratio and relative input rates.
+Select (b).
+Q4. [Assertion–Reason]
+Assertion (A): Acid mine drainage (AMD) can have pH as low as 2, lower than most acid rain.
+Reason (R): Sulphate-reducing bacteria (SRB) accelerate pyrite oxidation in mine environments,
+producing large amounts of HnSOn.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (c)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 20
+Explanation: A is TRUE: AMD can reach pH 2–3 near active mines (much more acidic than acid rain at pH 4–5). R is
+FALSE: it is Sulphur/Iron-OXIDISING bacteria (Acidithiobacillus ferrooxidans, Thiobacillus thiooxidans) that
+accelerate pyrite oxidation and generate HnSOn. SULPHATE-REDUCING bacteria actually CONSUME sulphate
+(reverse direction) and are used in AMD TREATMENT (producing HnS that precipitates metals). Select (c).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 21
+9. Master Revision Summary Table
+Concept Key Fact / Formula / Value Environmental Relevance UGC NET Focus
+Clay minerals 1:1=Kaolinite;
+2:1=Illite,Smectite,Vermiculite
+Soil CEC; nutrient retention;
+Black Cotton Soil
+Layer type; CEC values;
+expansion
+CEC order OM(200–400)>Smectite(80–120)>Ver
+miculite>Illite>Kaolinite(2–15) cmol/kg
+Soil fertility; nutrient leaching
+resistance
+Rank the minerals; units
+Humic fractions Humin (insoluble); Humic acid (alkali
+soluble); Fulvic acid (always soluble)
+SOM chemistry; metal
+complexation; soil C
+Solubility of each fraction
+C:N ratio <20 ® mineralisation; >30 ®
+immobilisation; microbes~8:1
+N release/tie-up in soil;
+compost management
+Predict N release from
+residue
+N fixation Rhizobium (legumes); Azotobacter
+(free aerobic); Anabaena
+(cyanobacteria)
+Agricultural N input; rice
+paddy N supply
+Organisms; conditions;
+nitrogenase
+Nitrification NHnn®NOnn
+(Nitrosomonas)®NOnn
+(Nitrobacter); aerobic
+NOnn leaching; soil
+acidification; NnO
+Two organisms; steps;
+conditions
+Denitrification NOnn®Nn (Pseudomonas);
+anaerobic; produces NnO
+N loss from soil; wastewater
+treatment
+Organisms; anaerobic;
+NnO GWP=273
+Anammox NHnn+NOnn®Nn
+(Planctomycetes); anaerobic; no
+organic C
+Marine Nn production;
+WWTP
+Reaction; organisms; no
+On
+Carbon reservoirs Lithosphere>>Ocean(38,000)>Soil(15
+00)>Atmosphere(860 Pg)
+Climate change; carbon
+sinks
+Sizes; residence times
+Carbon fluxes GPP=120; FF combustion=10.5;
+ocean uptake=2.5 Pg C/yr
+Net COn rise 2.5 ppm/yr Flux magnitudes; net
+imbalance
+P cycle No gaseous phase; apatite source;
+max availability pH 6–7; P limiting in
+freshwater
+Eutrophication; P fixation in
+soil
+Only sedimentary;
+pH-availability
+Eutrophication Threshold [P]=0.02 mg/L;
+oligotrophic<0.01; hypertrophic>0.1
+mg/L
+Lake management; algal
+blooms
+P levels and trophic status
+S cycle SOn (+4) ® HnSOn (+6) ® acid
+rain; HnS (-2) from SRB
+Acid rain; AMD; climate
+(DMS)
+Oxidation states;
+organisms; AMD
+CLAW hypothesis DMS®SOn®HnSOn
+aerosol®cloud nuclei®climate
+cooling
+Marine S-climate feedback Acronym; mechanism;
+significance
+Cycle comparison N,C,S = gaseous; P = sedimentary
+(no gas)
+Cycling speed; limiting
+nutrient
+Which cycles have
+gaseous phase
+n Final Exam Strategy for Topic 2.5
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.5 – Soil Components & Biogeochemical Cycles (N, C, P, S)
+© UGC NET Env. Sci. Study Notes | Topic 2.5 Page 22
+1. Clay minerals: Kaolinite=1:1(lowest CEC); Smectite=2:1 expanding(highest CEC); Illite=2:1
+non-expanding; remember Black Cotton Soil = montmorillonite.
+2. Humic fractions: Humin(insoluble both)®Humic acid(acid-precipitate)®Fulvic acid(always soluble;
+most mobile; lowest MW).
+3. C:N ratio: <20=mineralisation; >30=immobilisation. Wheat straw(80:1) will tie up soil N; legume
+residue(15:1) releases N.
+4. N cycle: Fixation®Ammonification®Nitrification(aerobic)®Assimilation or
+Denitrification(anaerobic)®Nn. Know every organism.
+5. NnO: GWP=273; from nitrification+denitrification; agriculture biggest source; ozone depleter.
+6. C cycle: GPP=120 Pg/yr (largest flux); FF=10.5 Pg/yr; COn now 421 ppm; permafrost=1500–1700 Pg
+C (time bomb).
+7. P cycle: Only sedimentary (no gas); apatite®weathering®soil®plants®decomposition®sediment.
+Max availability pH 6–7. Eutrophication at [P]>0.02 mg/L.
+8. S cycle: DMS(marine)®SOn®HnSOn(acid rain). AMD: Acidithiobacillus+FeSn®HnSOn.
+Desulfovibrio reduces SOn²n®HnS. Oxidation states: -2,0,+4,+6.
