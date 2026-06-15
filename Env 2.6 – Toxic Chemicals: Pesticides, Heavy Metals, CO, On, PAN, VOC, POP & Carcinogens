@@ -1,0 +1,1166 @@
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 1
+Topic 2.6
+Toxic Chemicals: Pesticides · Heavy Metals
+(Hg,Cd,Pb,Cr) · Metalloids (As,Se) · CO · On ·
+PAN · VOC · POP · Carcinogens
+Syllabus Coverage – Topic 2.6
+Sub-Topic Key Concepts
+Pesticides Classification (organochlorine, OP, carbamate, pyrethroid, fungicide, herbicide); mechanisms;
+bioaccumulation; regulation
+Heavy Metals Hg, Cd, Pb, Cr – sources, speciation, biochemical mechanisms, health effects, Indian disasters
+Metalloids As and Se – sources, speciation, toxicity mechanisms, environmental occurrence
+CO Sources, mechanism of toxicity (Hb binding), carboxyhaemoglobin, standards
+Tropospheric Ozone
+(On)
+Formation, effects on health/plants/materials, NAAQS standard
+PAN Formation from VOC+NOx+UV; structure; effects; NOx reservoir
+VOCs Classification; sources; role in smog; HAPs; BTEX
+POPs Stockholm Convention; dirty dozen + new POPs; fate; bioaccumulation; toxicity
+Carcinogens in Air IARC classification; PAHs; asbestos; benzene; formaldehyde; radon
+1. Pesticides – Classification and Effects
+Pesticides are chemical or biological agents used to kill, repel, or control pests (insects, weeds, fungi, rodents,
+nematodes). While essential for agriculture, they pose serious environmental and health risks through
+persistence, bioaccumulation, and non-target organism toxicity.
+1.1 Classification by Target Pest
+Class Target Examples Major Use
+Insecticides Insects DDT, Malathion,
+Chlorpyrifos, Cypermethrin
+Agriculture, vector control (malaria, dengue)
+Herbicides Weeds/plant
+s
+Glyphosate, Atrazine, 2,4-D,
+Paraquat
+Crop fields, plantations, non-crop areas
+Fungicides Fungi Mancozeb, Captan,
+Carbendazim, Propiconazole
+Fruit, vegetable, cereal crops
+Rodenticides Rodents Warfarin, Bromadiolone,
+Zinc phosphide
+Grain stores, urban pest control
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 2
+Class Target Examples Major Use
+Nematicides Nematodes Fenamiphos, Carbofuran
+(dual)
+Soil treatment; vegetable crops
+Acaricides Mites/ticks Dicofol, Amitraz, Abamectin Orchards, livestock, horticulture
+Fumigants All soil pests Methyl bromide (phased
+out), Chloropicrin
+Soil sterilisation, post-harvest storage
+1.2 Classification by Chemical Family
+Chemical
+Class
+Mechanism of Action Persistenc
+e
+Examples Key Issue
+Organochlorines
+(OC)
+Disrupt Nan/Kn channels
+in nerve axon ® repetitive
+nerve firing; CNS
+hyperexcitation
+Very
+persistent (y
+ears–decad
+es);
+fat-soluble
+DDT, Aldrin,
+Dieldrin, Endrin,
+BHC/Lindane,
+Chlordane,
+Heptachlor
+Bioaccumulation in food chain;
+eggshell thinning; banned in most
+countries; POPs
+Organophosphat
+es (OP)
+Irreversibly inhibit
+acetylcholinesterase
+(AChE) ® acetylcholine
+accumulates ®
+continuous nerve
+stimulation
+Low
+persistence
+(days–week
+s);
+hydrolyse in
+soil
+Malathion,
+Parathion,
+Chlorpyrifos,
+Dimethoate,
+Monocrotophos
+Highly toxic to humans, birds; nerve
+agent precursors (sarin, VX);
+cholinergic crisis
+Carbamates Reversibly inhibit AChE
+(similar to OP but
+reversible)
+Moderate
+persistence
+(weeks)
+Carbaryl (Sevin),
+Carbofuran,
+Aldicarb, Methomyl
+Less persistent than OP; some
+systemic; Bhopal disaster =
+MIC®carbaryl plant
+Pyrethroids Keep Nan channels open
+® prolonged
+depolarisation ® paralysis
+Low
+persistence;
+rapidly
+degraded in
+UV/soil
+Cypermethrin,
+Deltamethrin,
+Permethrin,
+Allethrin
+Synthetic pyrethrins; low mammalian
+toxicity; highly toxic to fish/aquatic
+invertebrates
+Neonicotinoids Bind nicotinic
+acetylcholine receptors
+(nAChR) ® continuous
+activation; systemic in
+plants
+Moderate–hi
+gh; water
+soluble;
+systemic
+Imidacloprid,
+Thiamethoxam,
+Clothianidin,
+Acetamiprid
+Bee colony collapse disorder; EU
+banned for outdoor use; honeybee
+crisis
+Triazines
+(Herbicide)
+Inhibit photosystem II
+(PSII) ® block electron
+transport ® no
+photosynthesis
+Moderate (w
+eeks–month
+s)
+Atrazine, Simazine Endocrine disruptor; groundwater
+contamination; US common
+contaminant
+Glyphosate
+(Herbicide)
+Inhibits EPSPS enzyme
+(shikimate pathway) in
+plants; essential amino
+acid synthesis blocked
+Low–moder
+ate; binds
+soil
+Roundup
+(Glyphosate +
+surfactant)
+IARC 2A (probable carcinogen);
+most widely used herbicide globally
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 3
+Chemical
+Class
+Mechanism of Action Persistenc
+e
+Examples Key Issue
+Paraquat
+(Herbicide)
+Generates reactive
+oxygen species (ROS) ®
+oxidative stress in
+chloroplasts
+Low;
+inactivated
+by soil
+Gramoxone Extremely acutely toxic; no antidote;
+banned in many countries (including
+EU, India partially)
+1.3 Bioaccumulation and Biomagnification
+Bioaccumulation vs Biomagnification
+Bioaccumulation: Increase in concentration of a substance in an organism over time, faster than it can
+be metabolised or excreted. Occurs for lipophilic compounds (log Kow > 3).
+Biomagnification: Increase in concentration at each trophic level of a food chain (each predator has
+higher concentration than its prey).
+Bioconcentration Factor (BCF) = concentration in organism / concentration in water
+Classic example – DDT in aquatic food chain:
+Water (0.003 ppb) ® Phytoplankton (0.04 ppm) ® Zooplankton (0.5 ppm) ® Small fish (2 ppm) ® Large fish (25 ppm)
+® Fish-eating birds (75 ppm)
+Magnification factor ~25,000× from water to bird. Caused eggshell thinning ® reproductive failure of raptors (bald
+eagle, osprey, peregrine falcon).
+1.4 Organophosphate Toxicity – Mechanism in Detail
+OP Pesticide enters body (skin/inhalation/ingestion)
+t
+Binds IRREVERSIBLY to AChE (acetylcholinesterase) (Ageing: covalent bond strengthens over hours ®
+antidote window closes)
+t
+Acetylcholine (ACh) accumulates at nerve synapses (Not broken down as normal)
+t
+CHOLINERGIC CRISIS: Muscarinic effects: SLUDGE = Salivation, Lacrimation, Urination, Defecation, GI
+distress, Emesis Nicotinic effects: Muscle fasciculations ® paralysis ® respiratory failure CNS: Seizures,
+coma
+t
+ANTIDOTES: Atropine (blocks muscarinic receptors) + Pralidoxime/2-PAM (reactivates AChE if given early)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 4
+n EXAM TIP: Organochlorines = persistent, bioaccumulate, now POPs (DDT banned). Organophosphates
+= irreversible AChE inhibitor; antidote = Atropine + 2-PAM. Carbamates = reversible AChE inhibitor.
+Pyrethroids = low mammalian toxicity; toxic to fish. Neonicotinoids ® bee colony collapse. SLUDGE =
+muscarinic symptoms of OP poisoning. Bhopal disaster (1984) = MIC gas leak from carbaryl (carbamate
+pesticide) plant.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 5
+2. Biochemical Aspects of Heavy Metals (Hg, Cd, Pb, Cr)
+Heavy metals are metallic elements with high density (> 5 g/cm³) and atomic number, many of which are toxic
+even at low concentrations. They are persistent (cannot be degraded), accumulate in organisms, and interfere
+with biochemical processes by binding to sulphydryl (–SH) groups, displacing essential metals, or generating
+free radicals.
+2.1 Mercury (Hg)
+Mercury – The Methylation Menace
+Sources: Coal combustion (largest global source ~40%); gold mining (artisanal); chlor-alkali plants;
+thermometers/fluorescent lamps; volcanic emissions
+Chemical forms and toxicity:
+• Elemental Hg (Hgn): vapour; inhaled ® CNS; less toxic by ingestion (poorly absorbed)
+• Inorganic Hg²n (mercuric): skin/GI damage; kidney damage; less able to cross BBB
+• Methylmercury (CHnHgn): MOST TOXIC; lipid soluble; crosses blood-brain barrier AND placenta;
+bioaccumulates in fish; neurotoxin
+Methylation: Sulphate-reducing bacteria (Desulfovibrio) in anaerobic sediments methylate Hg²n ®
+CHnHgn
+Mechanism: CHnHgn binds –SH groups on enzymes and proteins ® disrupts neurological function; inhibits
+tubulin (cell division); teratogen
+Minamata Disease (Japan, 1956): Chisso Corporation dumped Hg into Minamata Bay ® bioaccumulated in fish ®
+2,000+ deaths; 10,000+ affected; neurological damage
+WHO limit in fish: 0.5 mg/kg (0.1 mg/kg for methylmercury)
+2.2 Cadmium (Cd)
+Cadmium – The Kidney Destroyer
+Sources: Zinc smelting (Cd is a by-product); phosphate fertilisers; Ni-Cd batteries; cigarette smoke
+(smokers have 2–4× higher Cd); plastics/pigments
+Speciation: Cd²n is the main toxic form; highly mobile at low pH
+Mechanism of toxicity:
+• Mimics Ca²n and Zn²n ® enters cells via Ca channels; displaces Zn²n from enzymes
+• Accumulates in kidneys (half-life 10–30 years in body!)
+• Induces metallothionein (MT) protein synthesis in liver ® MT-Cd complex transported to kidney ® MT
+degrades ® free Cd²n damages renal tubules
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 6
+• Renal tubular dysfunction ® bn-microglobulin in urine (biomarker)
+• Also: inhibits DNA repair; bone demineralisation (competes with Ca); possible carcinogen (IARC Group
+1)
+Itai-Itai Disease (Japan, 1912–1960s): Cd from Mitsui Mining contaminated Jinzu River ® rice/water ® severe
+osteomalacia + renal failure; name = "ouch-ouch" disease
+WHO drinking water limit: 0.003 mg/L; BIS: 0.003 mg/L
+2.3 Lead (Pb)
+Lead – The Children's Neurotoxin
+Sources: Leaded petrol (phased out globally but legacy soil Pb remains); lead-based paint; smelting;
+water pipes; ammunition; batteries; traditional cosmetics (sindoor, kajal)
+Speciation: Pb²n dominant; organic Pb (tetraethyl lead TEL, tetramethyl lead TML) were fuel additives
+Mechanism of toxicity:
+• Pb²n mimics Ca²n ® enters neurons; disrupts neurotransmission
+• Inhibits haem synthesis (d-ALAD enzyme ® proto/coproporphyrin in urine = biomarker)
+• Anaemia: Pb inhibits haem synthesis + increases RBC fragility
+• Stored in bone (t½ ~25 years) – re-mobilised during pregnancy, osteoporosis
+• Children most vulnerable: IQ reduction (each 10 μg/dL blood Pb = 2–4 IQ points lost)
+• "Saturnism" = chronic Pb poisoning; Burton's line (blue-black gum line)
+Blood Pb standard: WHO reference value = 5 μg/dL (no safe level for children); Air NAAQS: 0.5 μg/m³ (annual)
+2.4 Chromium (Cr)
+Chromium – The Speciation Story
+Sources: Leather tanning (largest Cr source in India); electroplating; stainless steel; pigments; chromate
+salts
+The two faces of Chromium:
+• Cr³n (trivalent): ESSENTIAL micronutrient (glucose tolerance factor); low toxicity; insoluble at neutral pH;
+NOT a carcinogen
+• Crnn (hexavalent – chromate CrOn²n, dichromate CrnOn²n): CARCINOGEN (IARC Group 1); soluble;
+mobile; easily absorbed
+Mechanism of Crnn toxicity:
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 7
+• Crnn enters cells via sulphate/phosphate transporters (anionic mimicry)
+• Inside cell: reduced to Cr³n, Crnn ® generates ROS (reactive oxygen species)
+• Cr³n/Crnn bind DNA ® DNA adducts ® mutations ® lung cancer, nasal cancer
+• Also: contact dermatitis (cement workers, leather workers); chrome ulcer; perforation of nasal septum
+Standard: WHO drinking water: 0.05 mg/L total Cr; Occupational TLV-TWA: 0.05 mg/m³ (Crnn)
+Tannery pollution in Kanpur/Unnao (Jajmau): major Crnn contamination of Ganga and groundwater
+2.5 Heavy Metals Comparison Table
+Metal IARC Primary Target
+Organ
+Biomarker Key
+Disease/Disaster
+Standard (Drinking
+Water)
+Mercury
+(Hg)
+2A
+(inorganic);
+Group 1
+(MeHg
+exposure)
+Brain, CNS,
+kidney (inorganic)
+Blood/hair MeHg;
+urinary Hg
+Minamata disease
+(Japan, 1956);
+Hakata Bay
+0.001 mg/L (WHO)
+Cadmium
+(Cd)
+Group 1 Kidney (proximal
+tubule)
+Urinary
+bn-microglobulin;
+urinary Cd
+Itai-Itai disease
+(Japan, Jinzu River)
+0.003 mg/L (WHO/BIS)
+Lead
+(Pb)
+Group 2A Brain (children);
+kidney; blood
+(haem)
+Blood Pb; urinary
+d-ALA; ZPP
+Saturnism; tetraethyl
+lead phaseout
+0.01 mg/L (WHO)
+Chromiu
+m (Cr)
+Crnn=Grou
+p 1;
+Cr³n=Group
+3
+Lung (Crnn);
+liver; kidney
+Urinary Cr; RBC
+Cr
+Kanpur tannery
+pollution; chromate
+workers
+0.05 mg/L (WHO/BIS)
+n EXAM TIP: Minamata = mercury (methylmercury in fish); Japan 1956. Itai-Itai = cadmium (rice/water);
+Japan; osteomalacia + renal failure. Lead = IQ loss in children; inhibits ALAD (haem synthesis). Cr³n =
+essential; Crnn = IARC Group 1 carcinogen (lung cancer). Cd half-life in body = 10–30 years (longest of
+common metals). Blood Pb reference = 5 μg/dL (no safe level in children).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 8
+3. Metalloids: Arsenic (As) and Selenium (Se)
+Metalloids have properties intermediate between metals and non-metals. Arsenic and selenium are
+environmentally critical because they occur naturally at toxic concentrations in groundwater of many regions, and
+their toxicity is highly dependent on chemical speciation.
+3.1 Arsenic (As)
+Parameter Details
+Atomic number 33; Group 15 (pnictogen); metalloid
+Sources Geogenic (natural rock weathering; primary); coal combustion; copper smelting; wood preservatives
+(CCA); pesticides (lead arsenate); herbicides
+Speciation As³n (arsenite: HnAsOn, HnAsOnn) = more toxic, more soluble, mobile in reducing conditions
+Asnn (arsenate: HnAsOnn, HAsOn²n) = less toxic, adsorbed to Fe oxides in oxic conditions
+Organic: MMA (monomethylarsonic), DMA (dimethylarsinic) = LEAST toxic (methylation =
+detoxification)
+Mechanism of
+toxicity
+As³n: binds –SH groups ® inhibits pyruvate dehydrogenase, a-ketoglutarate dehydrogenase ®
+disrupts Krebs cycle; ATP depletion Asnn: uncouples oxidative phosphorylation (replaces phosphate
+in ATP synthesis ® unstable As-ADP)
+Target organs Skin, liver, kidney, lung, bladder, nervous system
+Health effects Arsenicosis: keratosis (skin hardening), hyperpigmentation, Mees lines on nails Cancers: IARC Group
+1: skin, lung, bladder, kidney cancer Vascular effects: Blackfoot disease (Taiwan; peripheral vascular
+disease)
+Indian crisis West Bengal + Bangladesh: 70+ million people exposed to As > 50 μg/L in groundwater Mechanism:
+reducing groundwater ® reductive dissolution of FeOOH ® As³n released
+Standard WHO: 10 μg/L; BIS 10500: 10 μg/L (previously 50 μg/L)
+3.2 Selenium (Se)
+Parameter Details
+Atomic number 34; Group 16 (chalcogen); metalloid
+Sources Coal combustion fly ash; agricultural drainage from Se-rich soils; glass manufacturing; animal feed (Se
+supplementation)
+Speciation Senn (selenate SeOn²n): oxidising conditions; mobile; plant-available Senn (selenite SeOn²n): less
+mobile; adsorbed; reducing conditions Se²n (selenide): reducing; forms metal selenides; insoluble
+Organic Se (selenomethionine, selenocysteine): incorporated into proteins
+Dual role ESSENTIAL at low concentrations (0.04–0.1 mg/kg diet): component of glutathione peroxidase
+(antioxidant); thyroid hormone metabolism; immune function TOXIC at high concentrations (> 0.5
+mg/kg diet): narrow therapeutic window
+Deficiency disease Keshan disease (cardiomyopathy; China); Kashin-Beck disease (osteoarthropathy; China/Tibet)
+Toxicity effects Selenosis: hair loss, nail deformity, garlic breath (dimethylselenide), neurological symptoms
+Teratogenic to birds (deformed embryos; Kesterson Reservoir, California – selenium drainage crisis)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 9
+Parameter Details
+Kesterson Crisis
+(1983–85)
+Agricultural drainage high in Se ® Kesterson Reservoir, California ® bioaccumulation in fish ® birth
+deformities and deaths in waterbirds (avocets, stilts)
+Standard WHO: 0.04 mg/L; BIS: 0.01 mg/L (drinking water)
+n EXAM TIP: As³n > Asnn > MMA > DMA (decreasing toxicity). As³n = reducing conditions; Asnn =
+oxidising. As³n inhibits pyruvate dehydrogenase (–SH binding). Arsenicosis: keratosis + hyperpigmentation
++ Mees lines. IARC Group 1 carcinogen (lung, skin, bladder). Se = essential trace element (glutathione
+peroxidase) AND toxic (narrow window). Kesterson crisis = selenium ecotoxicity in waterbirds.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 10
+4. CO, Tropospheric On, PAN and VOCs
+4.1 Carbon Monoxide (CO)
+Carbon Monoxide – The Silent Killer
+Sources: Incomplete combustion of fossil fuels (vehicles = 80% urban CO); biomass burning; cigarette
+smoke; indoor cookstoves (major indoor air pollutant in India)
+Formation: C + ½On ® CO (incomplete; oxygen-deficient combustion)
+Mechanism of toxicity:
+CO binds haemoglobin with 200–250× GREATER AFFINITY than On
+Hb + CO ® COHb (carboxyhaemoglobin) ® cannot carry On ® tissue hypoxia
+Also binds myoglobin (muscle) and cytochrome c oxidase (mitochondria) ® impairs cellular respiration
+COHb also shifts On dissociation curve LEFT (Haldane effect) ® reduced On release from remaining
+OxyHb
+Symptoms by % COHb: <20% = headache, fatigue; 20–40% = confusion, vomiting; 40–60% = convulsions;
+>60% = fatal
+Treatment: 100% On (displaces CO from Hb); hyperbaric On for severe cases
+NAAQS India: 4.0 mg/m³ (8-hr average); WHO: 10 mg/m³ (8-hr)
+4.2 Tropospheric Ozone (On)
+Tropospheric ozone is a secondary pollutant formed by photochemical reactions of NOx and VOCs in sunlight.
+Unlike stratospheric On (beneficial UV shield), ground-level On is a powerful oxidant harmful to health,
+vegetation, and materials.
+Target Effect of Tropospheric On Threshold / Concentration
+Human
+respiratory
+Inflammation of airways; reduced lung function;
+aggravates asthma and COPD; coughing; chest
+tightness; long-term: permanent lung damage
+> 100 μg/m³ (8-hr; NAAQS India)
+Vegetation Inhibits photosynthesis (damages stomatal cells);
+accelerates leaf senescence; reduces crop yield
+(wheat -7%; soybean -6% per study)
+Visible injury (flecking) at > 60 ppb chronic
+Materials Rubber cracking (On attacks double bonds); textile
+fading; dye degradation; polymer degradation
+Significant at urban levels
+Climate On is a short-lived climate forcer (GWP~1000 over
+20 years); warms troposphere
+Rising On contributes to warming
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 11
+Target Effect of Tropospheric On Threshold / Concentration
+Ecosystems Reduces plant productivity ® less COn uptake ®
+positive feedback to climate change
+Widespread at current levels
+4.3 PAN (Peroxyacyl Nitrate)
+PAN – Structure, Formation and Effects
+Full name: Peroxyacetyl Nitrate (PAN); formula: CHnC(O)OnNOn
+Formation: From oxidation of VOCs (especially acetaldehyde, acetone) by OH• ® peroxyacetyl radical +
+NOn:
+CHnCHO + OH• ® CHnC(O)• + HnO ® CHnC(O)On• + On ® CHnC(O)On• + NOn n PAN
+Thermally unstable: Decomposes at > 25°C ® releases NOn (acts as NOx reservoir for long-range
+transport)
+Stable at low T: Can travel thousands of km at high altitude ® deposits NOx in remote areas
+Health effects: Potent lachrymator (eye irritant at 1–2 ppb); respiratory irritant; mutagenic (alkylating
+agent)
+Phytotoxicity: Most phytotoxic compound in smog; damages chloroplasts; causes "glazing" and
+"bronzing" of leaves at < 20 ppb (sensitive plants)
+PAN family: PAN (most studied), PPN (peroxypropionic nitrate), PBN (peroxybutyryl nitrate)
+4.4 Volatile Organic Compounds (VOCs)
+VOCs are organic compounds with high vapour pressure at room temperature (boiling point < 250°C). They
+evaporate readily and play a central role in photochemical smog formation, indoor air quality, and toxicology.
+VOC Category Examples Major Sources Environmental Role
+Alkanes Methane (CHn),
+Propane, n-Hexane,
+Octane
+Natural gas; vehicle
+exhaust; gasoline
+evaporation
+Smog precursors; CHn = GHG; hexane =
+neurotoxin
+Alkenes
+(Olefins)
+Ethylene (CnHn),
+Propylene, Isoprene
+(biogenic)
+Vehicle exhaust; forests
+(isoprene=largest global
+VOC); industrial
+Highly reactive; major SOA precursors; smog
+Aromatics
+(BTEX)
+Benzene, Toluene,
+Ethylbenzene, Xylene
+Petrol, diesel, solvents,
+paints, dry cleaning
+Benzene=IARC Group 1 (leukaemia);
+toluene=neurotoxin
+Aldehydes/Keto
+nes
+Formaldehyde (HCHO),
+Acetaldehyde, Acetone
+Vehicle exhaust; paints;
+tobacco smoke; wood
+products
+HCHO=IARC Group 1; lachrymators; smog
+intermediates
+Halogenated
+VOCs
+Chloroform (CHCln),
+TCE, PCE, CCln
+Dry cleaning; industrial;
+groundwater
+contamination
+Liver/kidney toxins; carcinogens; groundwater
+DNAPLs
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 12
+VOC Category Examples Major Sources Environmental Role
+Terpenes
+(biogenic)
+a-Pinene, b-Pinene,
+Limonene
+Coniferous forests,
+citrus, cleaning products
+SOA formation; "forest haze"; not regulated but
+relevant
+Oxygenated
+VOCs
+Methanol, Ethanol,
+MTBE, Acetone
+Fuel additives; solvents;
+paints; industry
+MTBE = fuel oxygenate; groundwater taste/odour
+problem
+4.5 BTEX – Most Important VOC Group
+Compound Formula IARC Target Key Effect
+Benzene CnHn Group 1 Bone marrow Aplastic anaemia; acute myeloid leukaemia (AML);
+metabolite = benzene epoxide ® DNA adducts
+Toluene CnHnCHn Group 3 CNS Neurotoxin (inhalation abuse); reproductive toxin; no
+carcinogen classification
+Ethylbenzene CnHnCnHn Group 2B Liver, kidney Possible carcinogen; hepatotoxic; cochleotoxic
+(hearing loss)
+Xylene (o,m,p) CnHn(CHn)n Group 3 CNS, liver Narcotic; liver/kidney damage; irritant; least toxic of
+BTEX
+n EXAM TIP: CO: 200–250× more affinity for Hb than On; COHb; treatment = 100% On. NAAQS CO: 4
+mg/m³ (8-hr); On: 100 μg/m³ (8-hr). PAN: CHnC(O)OnNOn; decomposes at >25°C; NOx reservoir;
+lachrymator; phytotoxic at <20 ppb. Benzene = Group 1 carcinogen ® leukaemia. BTEX = Benzene,
+Toluene, Ethylbenzene, Xylene from petroleum products. Isoprene = largest biogenic VOC globally (from
+plants; ~600 Tg/yr).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 13
+5. Persistent Organic Pollutants (POPs)
+Persistent Organic Pollutants (POPs) are organic chemicals that are resistant to environmental degradation,
+accumulate in living organisms, and pose risks to human health and the environment. They share four key
+properties captured in the "4-P" framework: Persistence, Partitioning, Potency, Pathways.
+5.1 Four Properties of POPs
+The 4 Key Characteristics of POPs
+1. Persistence: Half-life > 2 months in water, > 6 months in soil/sediment. Resist photolysis, hydrolysis,
+biodegradation. Example: DDT half-life in soil = 10–15 years.
+2. Bioaccumulation: Log Kow (octanol-water partition coefficient) > 5 ® highly lipophilic ® accumulate in
+fatty tissues. BCF (bioconcentration factor) > 5000.
+3. Toxicity: Cause adverse effects at very low concentrations (ng/kg to μg/kg): carcinogenicity, endocrine
+disruption, reproductive toxicity, immunotoxicity, neurotoxicity.
+4. Long-range transport: Volatile enough to evaporate from tropical regions ® condense in cold polar
+regions ("grasshopper effect" / global distillation). Found in Arctic despite never being used there.
+5.2 Stockholm Convention (2001) – Regulating POPs
+The Stockholm Convention on POPs was adopted in 2001 and entered into force in 2004. India ratified in
+2006. It lists POPs in three annexes:
+Annex Category Action Examples
+Annex A Elimination Ban production and
+use
+Aldrin, Dieldrin, Endrin, Heptachlor, Chlordane, Mirex,
+Toxaphene, PCBs, HCB, DDT* (Annex B)
+Annex B Restriction Restrict; acceptable
+purpose exemptions
+DDT (malaria vector control only; being phased out)
+Annex C Unintentional
+releases
+Minimise and where
+possible eliminate
+Dioxins (PCDD), Furans (PCDF), PCBs (unintentional), HCB,
+Pentachlorobenzene
+5.3 The "Dirty Dozen" and Key POPs
+POP Type Key Source Primary Effect IARC
+DDT Organochlorine
+insecticide
+Agriculture;
+malaria control
+(Annex B)
+Eggshell thinning; endocrine
+disruptor; possible carcinogen
+2A
+PCBs
+(Polychlorinated
+biphenyls)
+Industrial
+chemical
+(transformer oil,
+capacitors)
+Electrical
+equipment; old
+building materials;
+ocean sediments
+Carcinogen; immunotoxin;
+neurotoxin; Yusho/YuCheng
+disease (contaminated rice oil)
+Group 1
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 14
+POP Type Key Source Primary Effect IARC
+Dioxins (PCDD) Unintentional
+by-product
+Incomplete
+combustion;
+bleaching;
+smelting; chlorine
+chemistry
+Most toxic compound (TCDD =
+"Agent Orange" contaminant);
+carcinogen; teratogen; "dirty
+dozen" leader
+Group 1 (TCDD)
+Furans (PCDF) Unintentional
+by-product
+Similar to dioxins Similar to dioxins; TEQ
+calculation used
+Group 3
+Aldrin/Dieldrin OC insecticide Soil insecticide
+(termites, corn
+rootworm)
+Neurotoxin; carcinogen; highly
+persistent
+3 (aldrin); 2A (dieldrin)
+Endrin OC insecticide Rodenticide; bird
+control (historic)
+Most toxic cyclodiene;
+convulsant
+3
+Heptachlor OC insecticide Soil and seed
+treatment
+Liver damage; possible
+carcinogen
+2B
+Chlordane OC insecticide Termite
+treatment; lawn
+treatment
+Neurotoxin; liver damage;
+carcinogen
+2B
+Mirex OC
+insecticide/flame
+retardant
+Fire ant control;
+plastics
+Liver toxin; carcinogen;
+bioaccumulates highly
+2B
+Toxaphene OC insecticide Cotton insecticide
+(US and Africa)
+Carcinogen; thyroid disruption 2B
+Hexachlorobenz
+ene (HCB)
+Fungicide +
+unintentional
+Grain fungicide;
+combustion
+by-product
+Porphyria; liver damage;
+carcinogen
+2B
+Lindane (g-BHC) OC insecticide Head lice
+treatment;
+agriculture
+Neurotoxin; endocrine
+disruptor; carcinogen (IARC 1)
+Group 1
+PFOS/PFAS
+(new POPs)
+Fluorinated
+compounds
+(per- and
+polyfluoroalkyl)
+Non-stick
+cookware;
+firefighting foam;
+waterproofing
+Liver/kidney toxicity; immune
+disruption; thyroid; "forever
+chemicals"
+2B (PFOA)
+5.4 Grasshopper Effect (Global Distillation)
+TROPICAL REGIONS: Warm temperatures ® POPs volatilise from soil/water ® enter atmosphere
+t
+ATMOSPHERIC TRANSPORT: POPs travel poleward on air currents; repeated cycles of evaporation and
+deposition
+t
+COLD POLAR/ALPINE REGIONS: Cold temperatures ® POPs condense and deposit permanently ® Found
+in Arctic wildlife (polar bears, seals, Inuit people) despite no local use!
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 15
+n EXAM TIP: Stockholm Convention (2001): Annex A=eliminate; Annex B=restrict (DDT); Annex
+C=minimise (dioxins/furans). TCDD (2,3,7,8-tetrachlorodibenzo-p-dioxin) = most toxic dioxin = IARC Group
+1; TEQ used for dioxin mixtures. PCBs = Yusho disease (Japan 1968) and YuCheng (Taiwan 1979) –
+contaminated rice cooking oil. Grasshopper effect = POPs concentrate at poles despite being used in
+tropics. Log Kow > 5 = lipophilic = bioaccumulates. PFAS = "forever chemicals" (no degradation). Lindane
+(g-BHC) = IARC Group 1 carcinogen.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 16
+6. Carcinogens in Air
+Carcinogens are substances capable of causing cancer. The International Agency for Research on Cancer
+(IARC), part of WHO, classifies agents based on evidence of carcinogenicity in humans and experimental
+animals.
+6.1 IARC Classification System
+IARC
+Group
+Classification Evidence Basis Examples
+Group 1 Carcinogenic to
+humans
+Sufficient evidence in
+humans
+Benzene, Formaldehyde, Asbestos, Radon, Dioxins (TCDD),
+Crnn, As, Cd, Benzo[a]pyrene, Tobacco smoke, Diesel
+exhaust
+Group 2A Probably
+carcinogenic
+Limited human
+evidence + sufficient
+animal
+DDT, Glyphosate, PCBs (some), Inorganic Pb, Hg, Acrylamide,
+Red meat
+Group 2B Possibly
+carcinogenic
+Limited evidence
+(human or animal)
+Chloroform, Carbon tetrachloride, DDT (hist.), Styrene, Titanium
+dioxide (inhaled), Talc, Heptachlor
+Group 3 Not classifiable Inadequate evidence Most chlorinated solvents (historic), Toluene, Xylene
+Group 4 Probably not
+carcinogenic
+Evidence of
+non-carcinogenicity
+Caprolactam (only compound in this group)
+6.2 Key Airborne Carcinogens
+Carcinogen IARC Cancer Type Source in Air Mechanism
+Benzene
+(CnHn)
+Group 1 Acute myeloid
+leukaemia (AML);
+Non-Hodgkin
+lymphoma
+Vehicle exhaust;
+petrol vapour;
+cigarette smoke;
+industrial solvents
+Metabolised to benzene oxide ® epoxide ®
+forms DNA adducts; disrupts topoisomerase II
+Formaldehyde
+(HCHO)
+Group 1 Nasopharyngeal
+cancer; leukaemia
+Vehicle exhaust;
+indoor off-gassing
+(plywood, MDF,
+paints); tobacco
+smoke
+Reacts with DNA ® DNA-protein crosslinks;
+triggers inflammatory pathways
+Benzo[a]pyrene
+(BaP)
+Group 1 Lung cancer; skin
+cancer
+Diesel exhaust;
+tobacco smoke;
+grilling/BBQ; coal
+combustion; wood
+smoke
+Epoxide (BPDE) forms bulky DNA adducts ®
+G®T transversions; activates p53 mutations
+Asbestos (all
+forms)
+Group 1 Mesothelioma; lung
+cancer; asbestosis
+Building demolition;
+old insulation;
+friction materials;
+ship/pipe insulation
+Fibres lodge in pleura ® chronic inflammation
+® free radicals ® DNA damage;
+mesothelioma latency 20–50 years
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 17
+Carcinogen IARC Cancer Type Source in Air Mechanism
+Radon (Rn-222) Group 1 Lung cancer (2nd
+leading cause after
+smoking)
+Natural decay of
+U-238 in rock/soil
+® enters buildings;
+granitic rocks;
+basements
+Alpha decay products (Po-218, Pb-214) lodge
+in lung ® ionise DNA ® lung cancer
+Diesel exhaust
+particles
+Group 1
+(IARC
+2012)
+Lung cancer Diesel vehicles;
+generators;
+shipping; mining
+equipment
+PMn.n + PAHs + nitro-PAHs + metals ®
+oxidative stress; inflammation; genotoxicity
+Crnn
+(hexavalent Cr)
+Group 1 Lung cancer; nasal
+cancer
+Chrome plating;
+stainless steel
+welding; cement
+(trace); leather
+tanning dust
+Crnn enters via SOn²n transporter ®
+intracellular reduction ® ROS + Cr-DNA
+adducts
+Dioxins (TCDD) Group 1 Multiple cancers;
+soft tissue sarcoma
+Waste incineration;
+chlorine bleaching;
+incomplete
+combustion
+Binds AhR (aryl hydrocarbon receptor) ®
+alters gene expression ® cell proliferation,
+immune disruption
+Tobacco smoke Group 1 Lung, oral,
+laryngeal,
+oesophageal,
+bladder cancers
+(10+ types)
+Cigarettes; bidis;
+hookah; cigars
+> 70 carcinogens including NNK (nitrosamine),
+BaP, benzene, formaldehyde, polonium-210
+Arsenic (As) Group 1 Lung, skin, bladder
+cancer (inhalation
+of As dust from
+smelting)
+Copper/gold
+smelting; coal fly
+ash; wood
+preservative (CCA)
+Inhibits DNA repair enzymes; ROS generation;
+epigenetic changes
+6.3 PAHs (Polycyclic Aromatic Hydrocarbons) as Key Air Carcinogens
+PAH Rings Source IARC
+Group
+Associated Cancer
+Naphthalene 2 Mothballs, coal tar, fuel
+combustion
+2B Nasal; haemolytic anaemia
+Fluoranthene 4 Diesel, tyres, coal
+combustion
+3 Indicator PAH
+Pyrene 4 Petroleum products, vehicle
+exhaust
+3 Biomarker (1-hydroxypyrene in urine)
+Chrysene 4 Tobacco smoke, coal tar 2B —
+Benzo[a]pyrene 5 Diesel, grilling, tobacco 1 Lung, skin cancer
+Benzo[a]anthracene 4 Coal tar, diesel, tobacco 2B —
+Indeno[1,2,3-cd]pyrene 6 Vehicle exhaust, wood
+combustion
+2B —
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 18
+PAH Rings Source IARC
+Group
+Associated Cancer
+Dibenz[a,h]anthracene 5 Tobacco, coal, diesel 2A Potent carcinogen in animal studies
+n EXAM TIP: IARC Group 1 airborne carcinogens: Benzene®AML; Formaldehyde®nasopharyngeal;
+BaP®lung; Asbestos®mesothelioma; Radon®lung (2nd cause); Diesel exhaust®lung; Crnn®lung;
+TCDD dioxin®multiple; Tobacco®10+ cancers. Mesothelioma latency = 20–50 years (longest).
+Radon=alpha emitter; decay products in lung. BaP-BPDE = most studied PAH-DNA adduct; causes G®T
+mutations in p53 gene.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 19
+7. UGC NET Pattern MCQs with Explanations
+Q1. Which class of pesticides acts by IRREVERSIBLY inhibiting acetylcholinesterase (AChE)?
+(a) Organochlorines
+(b) Pyrethroids
+(c) Organophosphates
+(d) Carbamates
+4 Answer: (c)
+Explanation: Organophosphates (e.g., parathion, malathion, chlorpyrifos) irreversibly phosphorylate the serine
+residue of AChE ® cannot break down acetylcholine ® cholinergic crisis. Carbamates also inhibit AChE but
+REVERSIBLY. OCs affect Na channels. Pyrethroids keep Na channels open.
+Q2. The Minamata disease was caused by contamination of the food chain with:
+(a) Lead (Pb) from battery smelting
+(b) Cadmium (Cd) from zinc mining drainage
+(c) Methylmercury (CHnHgn) from industrial discharge
+(d) Arsenic (As) from groundwater
+4 Answer: (c)
+Explanation: Minamata disease (Japan, 1956): Chisso Corporation discharged inorganic Hg into Minamata Bay.
+Sulphate-reducing bacteria methylated Hg²n ® CHnHgn ® bioaccumulated in fish ® humans. Symptoms: ataxia,
+sensory loss, deafness, blindness, congenital Minamata (cerebral palsy-like). Named after Minamata city in
+Kumamoto, Japan.
+Q3. Carbon monoxide (CO) is toxic because it:
+(a) Reacts with haemoglobin forming methaemoglobin
+(b) Binds haemoglobin with 200–250× greater affinity than On forming COHb
+(c) Inhibits acetylcholinesterase in the brain
+(d) Generates reactive oxygen species in blood cells
+4 Answer: (b)
+Explanation: CO binds haemoglobin at the same site as On but with 200–250 times greater affinity ® forms
+carboxyhaemoglobin (COHb) ® On cannot bind ® tissue hypoxia. Additionally, COHb shifts the On-Hb dissociation
+curve left (Haldane effect), making remaining OxyHb give up On less readily. Treatment: 100% On or hyperbaric
+On.
+Q4. PAN (Peroxyacetyl Nitrate) in photochemical smog acts as a NOx reservoir because:
+(a) It stores NOx permanently, preventing smog formation
+(b) It is thermally unstable at high temperatures and decomposes to release NOn
+(c) It absorbs NOx from the atmosphere at all temperatures
+(d) It reacts with water to form nitric acid
+4 Answer: (b)
+Explanation: PAN n CHnC(O)On• + NOn (equilibrium; reversible). At > 25°C, PAN decomposes releasing NOn. At
+cold high altitudes, PAN is stable ® transported thousands of km ® warms and decomposes ® deposits NOx in
+remote areas far from the original emission source. This is why rural/arctic On levels are elevated by urban NOx
+transported as PAN.
+Q5. Which of the following POPs is classified under Annex B of the Stockholm Convention (restriction
+rather than complete elimination)?
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 20
+(a) Aldrin
+(b) Dieldrin
+(c) DDT
+(d) PCBs
+4 Answer: (c)
+Explanation: DDT is in Annex B (restricted use) because it is still permitted for indoor residual spraying (IRS) to
+control malaria-transmitting mosquitoes in countries where no effective alternatives exist. All other options (Aldrin,
+Dieldrin, PCBs) are in Annex A (complete elimination).
+Q6. Itai-Itai disease is associated with chronic poisoning by which heavy metal?
+(a) Mercury
+(b) Lead
+(c) Cadmium
+(d) Arsenic
+4 Answer: (c)
+Explanation: Itai-Itai ("ouch-ouch") disease occurred in Toyama prefecture, Japan from the 1910s–60s. Cadmium
+from Mitsui Mining and Smelting (Kamioka mine) contaminated the Jinzu River ® irrigated rice fields ® dietary Cd
+exposure. Caused severe osteomalacia (bone softening), renal tubular dysfunction, and multiple fractures. Cd
+accumulates in kidneys (t½ 10–30 yr).
+Q7. Benzo[a]pyrene (BaP) is classified as IARC Group 1 carcinogen. Its primary mechanism involves:
+(a) Direct alkylation of DNA without metabolic activation
+(b) Metabolic activation to BPDE which forms bulky adducts with DNA guanine
+(c) Inhibition of DNA polymerase during replication
+(d) Disruption of mitochondrial electron transport chain
+4 Answer: (b)
+Explanation: BaP is a pro-carcinogen requiring metabolic activation: BaP ® BaP-7,8-epoxide ® BaP-7,8-diol ®
+BaP-7,8-diol-9,10-epoxide (BPDE) by cytochrome P450 (CYP1A1). BPDE forms bulky covalent adducts with N2 of
+guanine ® G®T transversions ® p53 mutations. Classic lung cancer signature mutation from tobacco/diesel
+exposure.
+Q8. The "grasshopper effect" in the context of POPs refers to:
+(a) Insects developing resistance to organochlorine pesticides
+(b) POPs jumping between trophic levels through biomagnification
+(c) Step-wise poleward transport of POPs through repeated cycles of evaporation and deposition
+(d) The rapid degradation of POPs in tropical soils
+4 Answer: (c)
+Explanation: The grasshopper effect (global distillation) describes how semi-volatile POPs repeatedly evaporate in
+warm regions (tropics), travel north on air currents, deposit in cooler regions, re-evaporate, and move further
+poleward in a series of "hops." Eventually, they accumulate in cold polar regions where re-evaporation is minimal.
+This explains why DDT, PCBs, and dioxins are found in Arctic seals and polar bears despite never being used there.
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 21
+8. Assertion–Reason Questions
+Q1. [Assertion–Reason]
+Assertion (A): Organochlorine pesticides like DDT are found in the fatty tissues of Arctic animals despite
+never being used in the Arctic.
+Reason (R): DDT is semi-volatile and lipophilic (log Kow ~6.9), enabling it to undergo global distillation
+and concentrate in cold polar environments via the grasshopper effect.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+Explanation: Both A and R are true and R correctly explains A. DDT's combination of semi-volatility (can evaporate
+from warm soil/water) and lipophilicity (log Kow=6.9; bioaccumulates) allows it to travel poleward and accumulate in
+polar food chains (krill®fish®seals®polar bears®Inuit). This is the basis for the Stockholm Convention. Select (a).
+Q2. [Assertion–Reason]
+Assertion (A): Chromium(VI) is carcinogenic while Chromium(III) is considered an essential
+micronutrient.
+Reason (R): Crnn mimics phosphate ions and enters cells via anion transporters, whereas Cr³n cannot
+penetrate cell membranes easily.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+Explanation: Both A and R are true. Cr³n (glucose tolerance factor) is essential; Crnn (chromate) is IARC Group 1
+carcinogen. The uptake mechanism in R is correct: Crnn (CrOn²n) enters cells via SOn²n and POn³n transporters
+® reduced inside ® ROS + DNA adducts ® lung/nasal cancer. Cr³n is poorly absorbed and large. R correctly
+explains differential toxicity. Select (a).
+Q3. [Assertion–Reason]
+Assertion (A): Arsenic contamination of groundwater in West Bengal is primarily of anthropogenic origin
+due to agricultural use of arsenic-based pesticides.
+Reason (R): Reducing groundwater conditions cause reductive dissolution of iron oxyhydroxides that
+had adsorbed naturally-occurring arsenic, releasing it into groundwater.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (d)
+Explanation: A is FALSE: The West Bengal/Bangladesh arsenic crisis is GEOGENIC (natural origin), not
+anthropogenic from pesticides. R is TRUE and correctly describes the actual mechanism: aquifer flooding ® On
+depletion ® reducing conditions ® Fe(OH)n dissolves ® adsorbed As released ® As³n in groundwater. Select (d):
+A false, R true.
+Q4. [Assertion–Reason]
+Assertion (A): PAN is more phytotoxic than ozone at equal concentrations.
+Reason (R): PAN can cause visible leaf injury ("glazing" and "bronzing") in sensitive plants at
+concentrations below 20 ppb, while ozone requires higher concentrations for similar effects.
+(a) Both A and R true; R is correct explanation (b) Both true; R NOT correct explanation (c) A true, R false (d) A
+false, R true
+4 Answer: (a)
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 22
+Explanation: Both A and R are true. PAN is indeed more phytotoxic than On on a per-molecule basis. PAN enters
+stomata and inhibits COn fixation (oxidises SH-groups of Calvin cycle enzymes) and causes characteristic
+silver-bronze glazing of lower leaf surface at < 20 ppb. On requires > 60 ppb for visible injury to most plants (though
+chronic effects occur lower). R correctly explains A. Select (a).
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 23
+9. Master Revision Summary Table
+Topic Key Fact / Value Disaster /
+Disease Link
+UGC NET Focus
+Organochlorines Persistent; fat-soluble; POPs;
+banned; OC inhibits Na channels
+DDT®eagle
+eggshell thinning;
+biomagnification
+Classification; mechanism; bioaccumulate
+Organophosphat
+es
+Irreversible AChE inhibitor;
+SLUDGE symptoms;
+antidote=Atropine+2PAM
+Bhopal
+(MIC®carbaryl
+plant accident)
+AChE mechanism; SLUDGE; antidote
+Carbamates Reversible AChE inhibitor; less
+persistent than OP
+Bhopal disaster
+connection
+Reversible vs irreversible; examples
+Pyrethroids Na channel (open); low mammalian
+toxicity; toxic to fish
+— Na channel; fish toxicity
+Neonicotinoids nAChR agonist; systemic; bee CCD Honeybee colony
+collapse disorder
+Bee CCD; imidacloprid
+Mercury Minamata (1956); MeHg via SRB;
+crosses BBB; binds –SH
+Minamata
+disease; Hg in
+fish
+Methylation; SRB; BBB crossing; WHO
+0.001 mg/L
+Cadmium Itai-Itai; renal tubule;
+bn-microglobulin; t½=10–30yr
+Itai-Itai (Jinzu
+River, Japan)
+MT; bn-microglobulin; kidney; BIS 0.003
+mg/L
+Lead No safe level for children; IQ loss;
+inhibits ALAD; stored in bone
+Saturnism; TEL
+phaseout
+ALAD inhibition; IQ; blood Pb <5μg/dL
+Chromium Cr³n=essential; Crnn=IARC 1;
+enters via SOn²n transporter
+Kanpur tannery
+Cr pollution;
+chrome ulcer
+Cr³n vs Crnn; mechanism; lung cancer
+Arsenic As³n>Asnn>MMA>DMA toxicity;
+WB crisis=geogenic; IARC 1
+West Bengal
+groundwater
+crisis; Blackfoot
+disease
+Speciation; mechanism; IARC; WHO 10
+μg/L
+Selenium Essential+toxic; narrow window;
+glutathione peroxidase; Keshan
+disease
+Kesterson
+Reservoir bird
+deformities
+Dual role; deficiency vs toxicity
+CO 200–250× Hb affinity; COHb;
+NAAQS=4 mg/m³; antidote=100%
+On
+CO poisoning
+from
+stoves/vehicles
+Mechanism; symptoms; treatment
+Tropospheric
+On
+Secondary; NAAQS=100μg/m³;
+crops -7%; rubber cracking
+— Formation; health+crop effects; NAAQS
+PAN CHnC(O)OnNOn; decomposes
+>25°C; lachrymator; NOx reservoir;
+<20ppb phytotoxic
+— Structure; formation; effects; temperature
+stability
+UGC NET / JRF · Environmental Sciences (Code 89)
+Unit II · Topic 2.6 – Toxic Chemicals: Pesticides, Heavy Metals, CO, On, PAN, VOC, POP & Carcinogens
+© UGC NET Env. Sci. Study Notes | Topic 2.6 Page 24
+Topic Key Fact / Value Disaster /
+Disease Link
+UGC NET Focus
+BTEX Benzene=IARC 1 (AML);
+Toluene=neuro; Ethylbenzene=2B;
+Xylene=3
+— BTEX source; Benzene=leukaemia
+mechanism
+POPs 4Ps: Persistence; Partition;
+Potency; Pathways; Stockholm
+Convention 2001
+PCBs®Yusho;
+Dioxins®Agent
+Orange
+Annex A/B/C; dirty dozen; grasshopper
+effect
+Air carcinogens IARC 1: Benzene(AML);
+HCHO(nasopharyngeal);
+BaP(lung);
+Asbestos(mesothelioma);
+Radon(lung)
+Mesothelioma
+latency 20–50yr
+IARC classification; mechanism; cancer type
+n Final Exam Strategy for Topic 2.6
+1. Pesticide mechanisms: OC®Na channels; OP®irreversible AChE; Carbamate®reversible AChE;
+Pyrethroid®Na channels (keep open); Neonicotinoid®nAChR.
+2. OP poisoning: SLUDGE symptoms; antidote = Atropine (muscarinic block) + Pralidoxime/2-PAM
+(AChE reactivation within hours of exposure).
+3. Heavy metals diseases: Minamata=Hg; Itai-Itai=Cd; Saturnism=Pb; Kanpur tannery=Cr. Memorise the
+country and year.
+4. Speciation rules: As³n>Asnn toxicity; Crnn carcinogenic, Cr³n essential; Hg²n®CHnHgn by SRB
+in anaerobic sediments.
+5. CO: 200–250× affinity for Hb; COHb; NAAQS 4 mg/m³; antidote 100% On (hyperbaric for severe); no
+smell = "silent killer."
+6. PAN: forms in smog; NOx reservoir (decomposes >25°C); lachrymator; most phytotoxic smog
+component (<20 ppb leaf injury).
+7. POPs: Stockholm Convention Annex A=eliminate, B=restrict (DDT), C=minimise (dioxins). Grasshopper
+effect = poleward accumulation. TCDD=most toxic dioxin.
+8. Air carcinogens: IARC 1 = Benzene (AML via BPDE-DNA adducts), Formaldehyde (nasopharyngeal),
+BaP (lung), Asbestos (mesothelioma; 20–50yr latency), Radon (lung; 2nd cause).
