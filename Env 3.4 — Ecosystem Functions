@@ -1,0 +1,800 @@
+Page 1 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+UGC NET / JRF — Environmental Sciences | Code: 89
+Unit III: Environmental Biology
+3.4 — Ecosystem Functions
+Energy Flow | Food Chains & Webs | Biogeochemical Cycles | Ecological Succession
+Beginner ® JRF Expert Level | Diagrams + Tables + Mnemonics
+ENERGY FLOW FOOD CHAINS & WEBS BIOGEOCHEM CYCLES SUCCESSION
+"Energy flows, matter cycles — these two principles govern all life on Earth."
+n TABLE OF CONTENTS
+1. Energy Flow in Ecosystems — Fundamentals
+2. Laws of Thermodynamics in Ecology
+3. Energy Flow Models (Lindeman, Odum)
+4. Ecological Pyramids — Numbers, Biomass, Energy
+5. Food Chains — Definition, Types, Examples
+6. Food Webs — Definition, Properties, Significance
+7. Biogeochemical Cycles — Introduction
+8. Carbon Cycle — Complete with Diagram
+9. Nitrogen Cycle — Complete with Diagram
+10. Phosphorus Cycle
+11. Sulphur Cycle
+12. Ecological Succession — Definition, Types, Stages
+13. Primary Succession vs Secondary Succession
+14. Hydrosere and Xerosere
+15. Glossary | Comparison Tables | Mnemonics & Exam Tips
+Page 2 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 1 — Energy Flow in Ecosystems
+The engine that drives all life
+1.1 What is Energy Flow?
+Energy flow is the transfer of energy through the biotic components of an ecosystem via feeding
+relationships. It is unidirectional (one-way) and non-cyclic — unlike matter, energy cannot be recycled
+within the ecosystem. Once energy is lost as heat, it cannot be reused.
+Key Principle: Energy enters ecosystems as solar radiation, is fixed by producers through
+photosynthesis, flows through consumers, and is ultimately lost as heat. Matter cycles; energy
+flows.
+Energy Flow Through an Ecosystem (Unidirectional)
+SUN
+Solar
+Energy
+PRODUCERS
+(TL-1)
+10,000 kcal
+PRIMARY
+CONSUMERS
+(TL-2)
+1,000 kcal
+SECONDARY
+CONSUMERS
+(TL-3)
+100 kcal
+TERTIARY
+CONSUMERS
+(TL-4)
+10 kcal
+¬ 90% lost as heat at each step ®
+Energy flow is UNIDIRECTIONAL (one-way: Sun®Producers®Consumers) and NON-CYCLIC
+Fig 1: Unidirectional Energy Flow — 10% Rule at Each Trophic Level
+1.2 Key Energy Concepts
+Concept Definition & Formula
+Gross Primary Production
+(GPP)
+Total rate of photosynthesis (including plant respiration). All energy fixed by producers.
+GPP = total carbon fixed by photosynthesis per unit time per unit area.
+Net Primary Production
+(NPP)
+Energy available to primary consumers. NPP = GPP - Plant Respiration (R). NPP
+represents the actual biomass accumulated by producers.
+Net Secondary Production
+(NSP)
+Energy stored by consumers after their own respiration. NSP = Consumption -
+Respiration - Excretion
+Assimilation Energy actually absorbed and used by an organism from its food. Assimilation =
+Ingestion - Faeces
+Ecological Efficiency Ratio of energy at one trophic level to energy at the previous level. Typically ~10%
+(Lindeman's Efficiency). Range: 5-20% in different ecosystems.
+n EXAM TIP: NPP = GPP - Respiration. This formula is DIRECTLY asked in UGC NET. Also:
+Tropical rainforests have highest NPP (~2000 g C/m²/yr); Deserts have lowest NPP (~3 g C/m²/yr).
+1.3 NPP of Major Ecosystems
+Ecosystem NPP (g dry matter/m²/yr) Ranking
+Tropical Rainforest 2,000–3,500 Highest
+Page 3 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+Estuaries & Mangroves 1,500–3,000 Very High
+Temperate Forest 600–2,500 High
+Coral Reef 500–4,000 High (aquatic)
+Tropical Grassland (Savanna) 200–2,000 Medium
+Cropland (Agriculture) 100–3,500 Variable
+Open Ocean 2–400 Low
+Desert 0–250 Very Low
+Tundra 10–400 Low
+Page 4 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 2 — Laws of Thermodynamics in Ecology
+Physical laws that govern energy in ecosystems
+The flow of energy in ecosystems is governed by the Laws of Thermodynamics. These are universal
+physical laws that apply to all energy transformations, including those in living systems.
+First Law of
+Thermodynamics (Law of
+Conservation of Energy)
+"Energy can neither be created nor destroyed, only converted from one
+form to another." Ecological application: The total energy entering an
+ecosystem (solar radiation) equals the energy stored in biomass + energy
+lost as heat. When plants photosynthesize: Light energy ® Chemical
+energy (glucose). When animals eat: Chemical energy ® Kinetic energy +
+Heat + Body growth. The total energy is always conserved — just
+changed in form.
+Second Law of
+Thermodynamics (Law of
+Entropy)
+"In every energy transformation, some energy is lost as heat (unusable
+energy). Entropy (disorder) always increases in a closed system."
+Ecological application: This is WHY only ~10% energy transfers
+between trophic levels — the rest (90%) is lost as heat during respiration,
+movement, and metabolic processes. This is why energy pyramids are
+always upright. This is why food chains are short (3-5 levels). Energy
+cannot be recycled — it flows in ONE direction only.
+n SIMPLE ANALOGY: Imagine 1,000 rupees given to a grasshopper (it eats grass worth 1,000 cal).
+The grasshopper spends 900 on "expenses" (heat, movement, excretion) and saves only 100. The
+frog that eats the grasshopper gets only 100 cal, spends 90, saves 10. The snake gets only 10 cal
+— and so on. This is the 2nd Law in action.
+Page 5 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 3 — Energy Flow Models
+Classic models by Lindeman and Odum
+Energy Flow Models in Ecology
+Lindeman's
+Trophic
+Dynamics
+(1942)
+10% energy
+transfer rule
+Cedar Bog Lake
+Odum's
+Systems
+Ecology
+(1956)
+Energy circuit
+language
+Silver Springs
+H.T. Odum's
+EMERGY
+Model
+Solar Embodied
+Energy (emergy)
+all energy in
+solar equiv.
+Lotka's
+Thermodynamic
+Ecology
+Max power
+principle
+energy use
+Most important for NET: Lindeman (1942) and E. Odum (Silver Springs, Florida)
+Fig 2: Major Energy Flow Models in Ecology
+Lindeman's Trophic
+Dynamics Model (1942)
+Raymond Lindeman studied Cedar Bog Lake (Minnesota, USA) and
+proposed the 10% Law — only ~10% of energy at any trophic level is passed
+to the next level. Published in the journal Ecology (1942) at age 27, shortly
+before his death. This was the first quantitative model of energy flow in an
+ecosystem. He coined the terms: Eutrophication, trophic level, trophic
+efficiency.
+Odum's Silver Springs
+Model (1957)
+Eugene Odum studied Silver Springs, Florida (USA) and created the first
+detailed energy budget for an entire ecosystem. He quantified: GPP, NPP,
+energy at each trophic level, and heat losses. His work confirmed Lindeman's
+10% rule and showed how energy flows through a real ecosystem. Silver
+Springs had: GPP=20,810 kcal/m²/yr; NPP=11,977 kcal/m²/yr.
+H.T. Odum's Energy
+Circuit Language
+Howard T. Odum (Eugene's brother) developed a symbolic language to
+diagram energy flows in ecosystems. He introduced the concept of EMERGY
+(solar Embodied Energy) — converting all energy inputs into solar energy
+equivalents to compare systems.
+3.1 Ecological Pyramids
+Ecological pyramids are graphical representations of trophic structure showing the relationship between
+different trophic levels. Proposed by Charles Elton (1927) — called "Eltonian pyramids".
+Page 6 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+Three Types of Ecological Pyramids
+Numbers
+(Upright in most)
+TL-1
+TL-2
+TL-3
+TL-4
+Biomass
+(Upright on landnInverted in sea)
+High g/m²
+Medium
+Low
+Few g/m²
+Energy
+(ALWAYS upright)
+10000 kcal
+1000 kcal
+100 kcal
+10 kcal
+Energy pyramid is ALWAYS upright | Biomass pyramid can be inverted in ocean (phytoplankton < zooplankton biomass)
+Fig 3: Three Types of Ecological Pyramids
+Pyramid Type What it shows Shape Exception / Key Note
+Pyramid of Numbers Shows the NUMBER of
+organisms at each
+trophic level.
+Usually upright (more
+producers than
+herbivores than
+carnivores).
+EXCEPTION: Inverted in parasitic
+food chain (one tree supports many
+insects). Spindle-shaped in a forest
+(few trees support many
+herbivorous insects).
+Pyramid of Biomass Shows total DRY
+WEIGHT (biomass) at
+each trophic level (g/m²).
+Upright in terrestrial
+ecosystems. INVERTED
+in aquatic/ocean
+ecosystems.
+INVERTED in ocean because
+phytoplankton (small, rapid
+turnover) supports large
+zooplankton biomass. This seems
+contradictory but phytoplankton
+reproduce very fast.
+Pyramid of Energy Shows total ENERGY
+content at each trophic
+level (kcal/m²/yr).
+ALWAYS UPRIGHT —
+no exception. Energy
+always decreases up the
+chain.
+Most accurate representation of
+trophic structure. Pyramid of energy
+is the MOST FUNDAMENTAL of the
+three. It is NEVER inverted.
+n EXAM TIP: "Which pyramid is ALWAYS upright?" ® Pyramid of Energy. "Which pyramid can be
+inverted in aquatic ecosystems?" ® Pyramid of Biomass. "Who proposed ecological pyramids?"
+® Charles Elton (1927).
+Page 7 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 4 — Food Chains
+Definition, types and ecological significance
+4.1 Definition
+A food chain is a linear sequence of organisms through which nutrients and energy pass as one organism
+eats another. Arrows in a food chain show the direction of energy flow (from eaten to eater). The
+concept was described by Charles Elton (1927).
+Types of Food Chains
+¬ Grazing Food Chain (GFC) — starts with LIVING green plants
+Green
+Plants
+Herbivores
+(Deer/Rabbit)
+Carnivores
+(Fox/Snake)
+Top Carnivore
+(Eagle/Lion)
+­ Detritus Food Chain (DFC) — starts with DEAD organic matter (detritus)
+Dead
+Organic
+Matter
+Detritivores
+(Earthworm)
+Predators
+(Frog)
+Top
+Predator
+(Snake)
+® Parasitic Food Chain — starts with HOST, energy flows to parasite
+Large
+Host
+(Deer)
+External
+Parasite
+(Tick)
+Hyperparasite
+(on tick)
+GFC: Dominant in AQUATIC and PRODUCTIVE ecosystems | DFC: Dominant in FOREST ecosystems (80-90% energy through DFC)
+Key: In most terrestrial ecosystems, more energy flows through DFC than GFC
+Fig 4: Three Types of Food Chains
+4.2 Types of Food Chains in Detail
+Grazing Food Chain
+(GFC)
+Starts with LIVING green plants (producers). Energy flows from autotrophs to
+herbivores to carnivores. This is the most visible food chain. Examples: •
+Terrestrial: Grass ® Grasshopper ® Frog ® Snake ® Eagle • Aquatic:
+Phytoplankton ® Zooplankton ® Small fish ® Large fish ® Shark • Pond: Algae
+® Water insect ® Small fish ® Crane Dominant in: Aquatic ecosystems,
+productive grasslands.
+Detritus Food Chain
+(DFC)
+Starts with DEAD organic matter (detritus). Energy flows from dead
+plant/animal material to detritivores and decomposers. Detritus = dead organic
+matter (fallen leaves, dead animals, faeces, etc.) Examples: • Forest leaf litter
+® Millipede ® Centipede ® Frog ® Snake • Dead wood ® Fungi ® Springtail
+® Beetle ® Bird Dominant in: Forest ecosystems (80-90% of energy flows
+through DFC!). More efficient than GFC as energy is not wasted fighting
+predators.
+Page 8 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+Parasitic Food Chain Starts with HOST organism. Energy flows from large host to smaller parasites
+(unlike GFC where larger eats smaller). Examples: • Buffalo ® Tick ® Protozoa
+(on tick) • Tree ® Bark beetle ® Mite Key feature: In this chain, organisms get
+SMALLER at each step (opposite of grazing food chain). The host loses energy
+to parasites.
+4.3 Characteristics of Food Chains
+• Food chains are rarely longer than 4-5 trophic levels due to energy loss (10% rule)
+• Arrows always show direction of energy flow (prey ® predator)
+• The first organism is always the producer (autotroph) in GFC
+• Food chains are interconnected to form food webs in real ecosystems
+• Longer food chains = less energy available at top = less biomass at top
+• In most forests, DFC > GFC in terms of energy flow
+• Omnivores connect multiple trophic levels simultaneously
+Page 9 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 5 — Food Webs
+Interconnected food chains — the real picture
+5.1 Definition
+A food web is a complex network of interconnected food chains within an ecosystem. In nature, most
+organisms eat more than one type of food and are eaten by more than one type of predator. The food web
+represents this real complexity. Term coined by Charles Elton (1927).
+Food Web — Grassland Ecosystem Example
+Grass
+Grasshopper Rabbit Mouse
+Frog Snake Hawk Fox
+Eagle
+Arrows show direction of energy flow (prey ® predator)
+Fig 5: Food Web in a Grassland Ecosystem — Multiple interconnected food chains
+5.2 Properties of Food Webs
+Property Explanation
+Complexity More species = more connections = more complex web
+Connectance Proportion of possible links that actually exist in a food web
+Keystone species A species whose removal causes disproportionate collapse of the web
+Trophic cascade Effect where changes at top predator level ripple down to producers
+Redundancy Multiple species can fill the same trophic role — provides stability
+Omnivory Organisms feeding at multiple trophic levels — increases web complexity
+5.3 Food Chain vs Food Web — Comparison
+Feature Food Chain Food Web
+Structure Linear, single sequence Network of interconnected chains
+Page 10 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+Realism Simplified / theoretical More realistic representation
+Stability Less stable (one link broken = collapse) More stable (alternative pathways exist)
+Trophic levels Clearly defined Organisms may span multiple levels
+Complexity Simple Complex
+Energy flow One pathway Multiple pathways
+Proposed by Charles Elton (1927) Charles Elton (1927)
+n KEY INSIGHT: A more complex food web = higher ecosystem stability. If a species is removed
+from a simple food chain, the whole chain collapses. In a food web, energy can take alternative
+routes, maintaining stability. This is why biodiversity loss reduces ecosystem resilience.
+Page 11 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 6 — Biogeochemical Cycles
+How matter cycles through ecosystems — unlike energy, matter is recycled
+6.1 Introduction
+Biogeochemical cycles (BGC) are the pathways by which chemical elements and molecules (nutrients)
+move through biotic (bio) and abiotic (geo, chemical) components of the Earth. Unlike energy, matter is
+recycled — the same atoms cycle through organisms and the environment repeatedly.
+Key distinction from Energy Flow: Energy flows UNIDIRECTIONALLY (Sun ® Producers ®
+Consumers ® Heat — lost forever). Matter CYCLES (same atoms used over and over by different
+organisms).
+6.2 Classification of Biogeochemical Cycles
+Gaseous Cycles
+(Atmospheric)
+The reservoir (main store) is the atmosphere or ocean. These cycles are
+FAST and GLOBAL — disturbances recover quickly. Examples: Carbon cycle
+(COn reservoir), Nitrogen cycle (Nn reservoir), Oxygen cycle (On reservoir),
+Hydrogen cycle (HnO reservoir).
+Sedimentary Cycles
+(Lithospheric)
+The reservoir is the rocks and soil (lithosphere). These cycles are SLOW
+and LOCAL — disturbances take millions of years to recover. Examples:
+Phosphorus cycle (in rocks), Sulphur cycle (in rocks/soil), Iron cycle, Calcium
+cycle.
+6.3 Carbon Cycle
+Carbon is the backbone of all organic molecules. The carbon cycle describes how carbon moves
+between the atmosphere, biosphere, hydrosphere, and lithosphere. Main reservoir: atmosphere (COn)
+and oceans (dissolved COn, carbonate).
+Carbon Cycle — Biogeochemical Cycle
+COn in
+Atmosphere
+Green
+Plants
+(Producers)
+Animals
+(Consumers)
+Decomposers
+(Bacteria/Fungi)
+Fossil
+Fuels
+Ocean
+(Carbon sink)
+Photosynthesis
+Respirationn+ Decomp
+Feedingn(food chain)
+Death/Excretionn® Decomp
+Decompositionn® COn
+Combustionn(fossil fuels)
+Oceannabsorption
+Human activities adding COn: fossil fuel combustion, deforestation, cement production ® GREENHOUSE EFFECT
+Page 12 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+Fig 6: Carbon Cycle with all major pathways
+Process Equation Effect on COn Agent
+Photosynthesis 6COn + 6HnO ® CnHnnOn +
+6On
+Removes COn from
+atmosphere
+Plants, algae, cyanobacteria
+Respiration CnHnnOn + 6On ® 6COn +
+6HnO
+Releases COn to
+atmosphere
+All living organisms
+Decomposition Dead organic matter ® COn +
+HnO
+Releases COn from
+dead matter
+Bacteria, fungi
+Combustion Fossil fuels + On ® COn +
+HnO
+Releases ancient
+stored carbon
+Human activity
+Ocean absorption COn + HnO ® HnCOn
+(carbonic acid)
+Ocean acts as carbon
+sink
+Chemical/physical
+Sedimentation Dead organisms ® limestone,
+coal
+Locks carbon in rock
+for millions of years
+Geological
+n EXAM TIP: Human activities disrupting carbon cycle: (1) Fossil fuel combustion — adds ancient
+carbon to atmosphere; (2) Deforestation — removes carbon sinks; (3) Cement production —
+releases COn. Result: atmospheric COn rose from 280 ppm (pre-industrial) to 420 ppm (2023). This
+is the primary cause of climate change.
+Page 13 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 7 — Nitrogen Cycle
+The most bacterially-driven biogeochemical cycle
+7.1 Why Nitrogen Matters
+Nitrogen (N) is essential for making proteins, DNA, RNA, chlorophyll, and ATP. The atmosphere is 78%
+Nn, but plants CANNOT use Nn directly — they need it as ammonium (NHnn) or nitrate (NOnn). The
+nitrogen cycle involves converting Nn into usable forms and back again, driven primarily by bacteria.
+Nitrogen Cycle — Biogeochemical Cycle
+Nn in
+Atmosphere
+(78%)
+Nitrogen
+Fixation
+(Bacteria)
+Denitrification
+(Bacteria)
+NHnn
+Ammonium
+in soil
+NOnn
+Nitrite
+NOnn
+Nitrate
+Plant
+Uptake
+Nn fixation Denitrificationn(reverse)
+Ammonification
+Nitrificationn(Nitrosomonas) Nitrificationn(Nitrobacter)
+Plant uptake
+Decomp ®nAmmonium
+Key bacteria: Rhizobium (symbiotic fix), Azotobacter (free-living fix), Nitrosomonas, Nitrobacter (nitrification), Pseudomonas (denitrification)
+Fig 7: Nitrogen Cycle — Key Bacteria and Processes
+Process Conversion Organisms & Details
+Nitrogen Fixation Nn ® NHnn
+(ammonium)
+Biological: Rhizobium (symbiotic in legumes), Azotobacter,
+Anabaena (free-living) Industrial: Haber-Bosch process (Nn + Hn ®
+NHn) Atmospheric: Lightning
+Ammonification
+(Mineralisation)
+Organic N ® NHnn Decomposers (bacteria, fungi) break down dead organic matter.
+Proteins ® amino acids ® NHnn released to soil.
+Nitrification NHnn ® NOnn ®
+NOnn
+Two-step aerobic oxidation: Step 1: Nitrosomonas: NHnn ® NOnn
+(nitrite) Step 2: Nitrobacter: NOnn ® NOnn (nitrate) Makes
+nitrogen available to most plants.
+Assimilation NOnn / NHnn ®
+Plant protein
+Plants absorb NOnn or NHnn from soil and incorporate into amino
+acids, proteins, nucleic acids. Animals get nitrogen by eating plants
+or other animals.
+Denitrification NOnn ® NnO ® Nn Anaerobic bacteria (Pseudomonas, Thiobacillus denitrificans)
+convert nitrates back to Nn gas — returns nitrogen to atmosphere.
+Occurs in waterlogged, anaerobic soils.
+Page 14 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+n MNEMONIC for Nitrogen Cycle steps: "Famous Animals Never Assemble Dumbly" Fixation ®
+Ammonification ® Nitrification ® Assimilation ® Denitrification
+n EXAM TIP (Nitrogen bacteria — most asked): • Rhizobium — symbiotic N-fixation in legume root
+nodules • Azotobacter — free-living aerobic N-fixation in soil • Anabaena / Nostoc — N-fixation in
+aquatic systems (cyanobacteria) • Nitrosomonas — NHnn ® NOnn (first step nitrification) •
+Nitrobacter — NOnn ® NOnn (second step nitrification) • Pseudomonas — denitrification (NOnn
+® Nn)
+Page 15 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 8 — Phosphorus and Sulphur Cycles
+Sedimentary cycles — no atmospheric reservoir
+8.1 Phosphorus Cycle
+Phosphorus is essential for ATP, DNA, RNA, phospholipids (cell membranes), and bones. Unlike C
+and N, phosphorus has NO ATMOSPHERIC RESERVOIR — it moves only between rocks/soil, water, and
+organisms. It is a sedimentary cycle — the slowest biogeochemical cycle.
+Step What Happens
+1. Weathering of
+rocks
+Phosphate-containing rocks (apatite) weather ® POn³n released to soil/water
+2. Plant uptake Plants absorb POn³n from soil; bacteria help solubilise phosphate (e.g., Bacillus
+megaterium)
+3. Consumer
+absorption
+Animals get P by eating plants; stored in bones, teeth, cell membranes
+4. Decomposition Dead matter decomposed ® POn³n returned to soil
+5. Runoff to water Phosphate washed into rivers, lakes, oceans
+6. Sedimentation Phosphate settles in ocean sediments ® forms new rock over millions of years
+7. Uplift (geological) Rock uplift brings phosphate back to land (very slow — millions of years)
+Why Phosphorus is a Limiting Nutrient: In most aquatic ecosystems, phosphorus is the limiting
+nutrient (controls primary productivity). When excess P enters water bodies (from fertilisers,
+detergents) ® Eutrophication (algal blooms, oxygen depletion, fish kills).
+8.2 Sulphur Cycle
+Sulphur is essential for amino acids (cysteine, methionine), proteins, vitamins (thiamine), and
+enzyme cofactors. Sulphur has BOTH atmospheric (SOn, HnS) and sedimentary (pyrite, gypsum)
+reservoirs.
+Process Details
+Weathering Sulphur-containing minerals (pyrite FeSn, gypsum CaSOn) ® SOn²n in soil/water
+Plant uptake Plants absorb SOn²n and incorporate into amino acids
+Decomposition Desulphovibrio, Thiobacillus decompose organic S ® HnS (hydrogen sulphide)
+Oxidation Thiobacillus oxidises HnS ® SOn²n (sulphate) — used by plants
+Volcanic emission Volcanoes release SOn and HnS into atmosphere
+Human emission Burning fossil fuels (coal, oil) ® SOn ® acid rain (HnSOn)
+Sedimentation Sulphate precipitates as gypsum (CaSOn) in ocean sediments
+n EXAM TIP: Sulphur cycle connects to ACID RAIN: SOn (from coal combustion) + HnO ® HnSOn
+(sulphurous acid) 2SOn + On + HnO ® HnSOn (sulphuric acid) — main component of acid rain
+Also: HnS released during decomposition creates the characteristic "rotten egg" smell.
+Page 16 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 9 — Ecological Succession
+How communities change over time — from bare rock to forest
+9.1 Definition
+Ecological succession is the process of change in the species composition of a community over
+time — a directional, predictable sequence of community changes in response to disturbance or the
+creation of new habitat. The process continues until a climax community is reached — a stable,
+self-sustaining community in equilibrium with the environment.
+Who studied it: Frederic Clements (1916) — concept of climax community and monoclimax theory.
+Henry Gleason (1926) — individualistic concept. F.E. Clements coined the term "sere" for the entire
+successional sequence.
+Ecological Succession — Primary vs Secondary
+PRIMARY SUCCESSION
+(Bare substrate)
+Bare Rock / Sand
+(no soil, no life)
+Pioneer Species
+(Lichens, mosses)
+Herbaceous Plants
+(grasses, ferns)
+Shrubs & Bushes
+Young Forest
+(pioneer trees)
+CLIMAX COMMUNITY
+(mature stable forest)
+SECONDARY SUCCESSION
+(Disturbed area)
+Disturbed Area
+(soil present, seeds)
+Annual Weeds
+(fast colonisers)
+Perennial Grasses
+Shrubs
+Pioneer Trees
+(shade intolerant)
+CLIMAX COMMUNITY
+(same as primary)
+Example: Rock®Lichen®Moss®Grass®Shrub®Forest Example: Burnt forest / Abandoned cropland
+Fig 8: Primary vs Secondary Succession — Step-by-Step Flowchart
+9.2 Key Terms in Succession
+Term Definition
+Sere The complete successional sequence from pioneer to climax community
+Seral Stage / Seral
+Community
+Each intermediate stage in succession
+Pioneer Community First organisms to colonise a bare/disturbed area
+Climax Community Final stable community in equilibrium with the environment
+Facilitation Pioneer species modify the environment making it suitable for next species
+Inhibition Current species prevent establishment of next successional species
+Page 17 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+Tolerance Species can establish despite current residents but grow slower
+Retrogression Succession going backward — caused by fire, overgrazing, human disturbance
+9.3 Primary vs Secondary Succession
+Feature Primary Succession Secondary Succession
+Starting condition Bare substrate — NO soil, NO life Disturbed area — soil present,
+seeds/organisms remain
+Speed Very slow (hundreds to thousands of years) Faster (decades to centuries)
+Pioneer species Lichens, mosses (rock); algae (water) Annual weeds, grasses
+Soil development Gradual soil formation from scratch Soil already present — faster recovery
+Nutrient availability Very low initially Higher — nutrients in soil
+Examples Bare rock, new volcanic island, sand
+dunes, retreating glaciers
+Abandoned cropland, cleared forest, burnt
+area
+Endpoint Climax community (same as secondary) Climax community (same as primary)
+Energy/biomass trend Increases during succession Rebuilds to climax level
+9.4 Changes During Succession (General Trends)
+Parameter Trend During Succession
+Biodiversity Increases (pioneers few ® climax very diverse)
+Biomass Increases (from near-zero to maximum at climax)
+NPP Increases initially, stabilises at climax
+Species richness Increases progressively
+Community structure Becomes more complex (stratification, niches)
+Stability / Resilience Increases
+Nutrient cycling Becomes more complete and efficient
+Soil quality Improves (depth, organic matter, water-holding capacity)
+Microclimate More buffered (humidity ­, temperature fluctuation ¯)
+9.5 Hydrosere and Xerosere
+Page 18 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+Hydrosere vs Xerosere — Habitat-Specific Succession
+HYDROSERE (Water ® Land)
+Step 1: Phytoplankton stage
+Step 2: Rooted submerged plants
+Step 3: Reed swamp stage
+Step 4: Sedge-meadow stage
+Step 5: Woodland ® Climax forest
+XEROSERE (Rock ® Forest)
+Step 1: Crustose Lichen stage
+Step 2: Foliose Lichen stage
+Step 3: Moss stage
+Step 4: Herbaceous stage
+Step 5: Shrub ® Climax forest
+Fig 9: Hydrosere (Water®Land) and Xerosere (Rock®Forest) — Habitat-specific Succession
+Hydrosere — Aquatic Succession (Water to Land):
+Stage Organisms Key Feature
+Stage 1 —
+Phytoplankton
+Microscopic algae colonise open
+water
+Substrate fills with sediment; water body shrinks
+Stage 2 — Rooted
+submerged plants
+Myriophyllum, Potamogeton
+colonise shallow water
+Substrate fills with sediment; water body shrinks
+Stage 3 — Reed
+swamp
+Typha, Phragmites (tall reeds)
+form dense stands
+Substrate fills with sediment; water body shrinks
+Stage 4 —
+Sedge-meadow
+Carex and grasses colonise
+former swamp
+Substrate fills with sediment; water body shrinks
+Stage 5 —
+Woodland
+Alder, willow trees establish;
+shade out grasses
+Substrate fills with sediment; water body shrinks
+Stage 6 — Climax
+forest
+Oak or mixed deciduous forest
+(in temperate regions)
+Substrate fills with sediment; water body shrinks
+Xerosere — Dry/Rock Succession (Rock/Sand to Forest):
+Stage Pioneer Organisms & Process
+Stage 1 — Crustose
+Lichen
+Rhizocarpon, Lecidea — secrete acids that weather rock
+Stage 2 — Foliose
+Lichen
+Larger leafy lichens; more weathering, dust accumulates
+Stage 3 — Moss
+stage
+Mosses trap dust/organic matter; thin soil forms
+Stage 4 —
+Herbaceous stage
+Annual grasses, herbs; more soil accumulates
+Stage 5 — Shrub
+stage
+Shrubs and bushes; significant soil depth now
+Stage 6 — Climax
+forest
+Mature deciduous/tropical forest
+n EXAM TIP: In Xerosere, Lichens are the PIONEER species. They weather rock by secreting
+carbonic and oxalic acids. Lichens = symbiosis of algae + fungi. This is VERY FREQUENTLY
+Page 19 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+asked.
+Page 20 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 10 — Key Terms Glossary
+Term Definition
+Ammonification Decomposition of organic nitrogen ® NHnn by bacteria/fungi.
+Assimilation (energy) Energy absorbed from food by organism = Ingestion - Faeces.
+Biogeochemical cycle Pathway of chemical elements through biotic and abiotic components.
+Climax community Final stable community in equilibrium with environment; endpoint of succession.
+Detritus Dead organic matter (fallen leaves, dead animals, excreta).
+Denitrification Conversion of NOnn ® Nn by anaerobic bacteria (Pseudomonas); returns N to
+atmosphere.
+Ecological efficiency Energy transferred to next TL / energy at current TL × 100%. Typically ~10%.
+Eltonian pyramid Ecological pyramid proposed by Charles Elton (1927) — numbers, biomass, energy.
+Eutrophication Excess nutrients (P, N) in water ® algal blooms ® On depletion ® fish kills.
+Food chain Linear sequence of organisms through which energy flows.
+Food web Network of interconnected food chains in an ecosystem.
+GPP (Gross Primary
+Production)
+Total photosynthesis by producers per unit area per unit time.
+Hydrosere Succession starting in water (aquatic ® terrestrial community).
+Keystone species Species whose removal causes disproportionate ecosystem collapse.
+Limiting nutrient Nutrient whose scarcity limits primary productivity. P in water; N on land.
+Nitrification NHnn ® NOnn ® NOnn by Nitrosomonas then Nitrobacter (aerobic oxidation).
+Nitrogen fixation Conversion of atmospheric Nn ® NHnn by bacteria (Rhizobium, Azotobacter).
+NPP (Net Primary
+Production)
+GPP - plant respiration = energy available to consumers.
+Pioneer species First colonisers of bare/disturbed habitat (lichens in xerosere).
+Retrogression Backward succession — community moves to earlier seral stage.
+Sere Complete successional sequence from pioneer to climax.
+Trophic cascade Top-down effect where top predator changes affect entire food web.
+Trophic efficiency ~10% — Lindeman's law of energy transfer between trophic levels.
+Xerosere Succession starting on dry/rocky substrate (rock ® forest).
+Page 21 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 11 — Rapid Revision Comparison Tables
+Comparison 1: Gaseous vs Sedimentary Biogeochemical Cycles
+Feature Gaseous Cycles Sedimentary Cycles
+Reservoir Atmosphere / Oceans Rocks and Soil (Lithosphere)
+Speed Fast — global recovery Slow — millions of years
+Examples C, N, O, H cycles P, S (partly), Ca, Fe
+Atmosphere involved? Yes (COn, Nn, On) Mainly No (P has no atmospheric form)
+Human impact COn­ (climate change), NnO­ (fertilisers) P pollution (eutrophication), S pollution
+(acid rain)
+Self-regulation Good (homeostatic) Poor (easily disrupted by mining)
+Comparison 2: GFC vs DFC (Grazing vs Detritus Food Chain)
+Feature Grazing Food Chain (GFC) Detritus Food Chain (DFC)
+Starting point Living green plants / producers Dead organic matter (detritus)
+First consumer Herbivores (deer, grasshopper) Detritivores (earthworm, millipede)
+Energy source Solar energy (recently fixed) Stored energy in dead matter
+Dominant in Aquatic, productive ecosystems Forest, terrestrial ecosystems
+% energy in forest 10-20% 80-90%
+Efficiency Lower (energy lost at each step) Higher (less energy wasted in feeding)
+Example Grass®Deer®Lion Leaf litter®Earthworm®Frog®Snake
+Comparison 3: Energy Flow vs Nutrient Cycling
+Feature Energy Flow Nutrient Cycling
+Direction Unidirectional (one-way) Cyclic (circular)
+Source Solar radiation (external) Internal (recycled within ecosystem)
+Can be recycled? NO — heat cannot be reused YES — same atoms used again and again
+Governed by Laws of Thermodynamics Biogeochemical cycles
+Trophic levels Decreases up the chain Moves between biotic and abiotic
+Example Sun®Plant®Deer®Lion®Heat Carbon in
+COn®Plant®Deer®Decomposer®COn
+Page 22 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+SECTION 12 — Mnemonics, Memory Tips & Exam Strategy
+n Nitrogen Cycle Steps Famous Animals Never Assemble Dumbly Fixation ® Ammonification ®
+Nitrification ® Assimilation ® Denitrification
+n N-cycle bacteria Rhizobium, Azotobacter ® FIXATION Nitrosomonas ® NHnn®NOnn |
+Nitrobacter ® NOnn®NOnn | Pseudomonas ® DENITRIFICATION "Really
+Amazing Nights Never Produce results" (R=Rhizobium, A=Azotobacter,
+N=Nitrosomonas, N=Nitrobacter, P=Pseudomonas)
+n Types of Food Chains GDP: Grazing, Detritus, Parasitic "Good Detectives Pursue"
+n Biogeochemical
+cycles
+Gaseous = CNOHS in atmosphere | Sedimentary = P, Ca, Fe in rocks "Clever
+Nigel Only Has Strength" (C,N,O,H,S = gaseous)
+n Succession stages
+(Xerosere)
+Lichens ® Mosses ® Herbs ® Shrubs ® Trees ® Forest "Large Magnificent
+Herbivores Surely Transform Forests"
+n Ecological pyramids Numbers can be inverted; Biomass can be inverted; Energy NEVER inverted
+"NoBE" = Numbers OK inverted, Biomass OK inverted, Energy NEVER inverted
+n KEY FACTS FOR UGC NET — Unit 3.4
+4 1. Energy flow is UNIDIRECTIONAL; Nutrient cycling is CYCLIC — most fundamental distinction
+4 2. Lindeman's 10% Law (1942) — only 10% energy transferred between trophic levels
+4 3. Pyramid of Energy is ALWAYS upright — no exception (Second Law of Thermodynamics)
+4 4. Pyramid of Biomass is INVERTED in aquatic/ocean ecosystems (phytoplankton < zooplankton
+biomass)
+4 5. Ecological pyramids proposed by Charles Elton (1927) — called Eltonian pyramids
+4 6. NPP = GPP - Plant Respiration. Tropical rainforest has highest NPP.
+4 7. Grazing Food Chain starts with living plants; Detritus Food Chain starts with dead matter
+4 8. In forest ecosystems, 80-90% energy flows through DFC (not GFC)
+4 9. Carbon cycle = GASEOUS (atmospheric reservoir COn). Phosphorus = SEDIMENTARY (no
+atmosphere)
+4 10. Nitrogen fixation: Rhizobium (legumes, symbiotic), Azotobacter (free-living, aerobic)
+4 11. Nitrification: Nitrosomonas (NHnn®NOnn) then Nitrobacter (NOnn®NOnn)
+4 12. Denitrification: Pseudomonas/Thiobacillus (NOnn®Nn) — anaerobic process
+4 13. Lichen = PIONEER species in Xerosere (rock succession)
+4 14. First stage of Hydrosere = Phytoplankton stage (open water)
+4 15. Climax community = final stable community; Sere = entire successional sequence
+4 16. Clements (1916) proposed monoclimax theory; "sere" terminology
+4 17. P is limiting nutrient in aquatic ecosystems; N is limiting on land
+4 18. Acid rain: SOn + HnO ® HnSOn/HnSOn (from sulphur cycle disruption)
+Page 23 | UGC NET Env. Sciences — Unit 3.4 Ecosystem Functions
+4 19. Eutrophication caused by excess P (phosphorus) entering water bodies
+4 20. Food web = interconnected food chains; more complex = more stable ecosystem
+n UGC NET QUESTION PATTERNS — Unit 3.4
+® "10% law of energy transfer was proposed by?" ® Raymond Lindeman (1942)
+® "NPP = ?" ® GPP - Plant Respiration
+® "Which ecological pyramid is ALWAYS upright?" ® Pyramid of Energy
+® "Which pyramid is inverted in aquatic ecosystems?" ® Pyramid of Biomass
+® "In forest ecosystems, which food chain carries more energy?" ® Detritus Food Chain
+® "Which bacteria is involved in nitrogen fixation in legume root nodules?" ® Rhizobium
+® "Nitrification is carried out by?" ® Nitrosomonas and Nitrobacter
+® "Pioneer species in xerosere is?" ® Lichen
+® "First stage in hydrosere is?" ® Phytoplankton stage
+® "Phosphorus cycle is a _____ cycle?" ® Sedimentary (no atmospheric reservoir)
+® "Eutrophication is caused by excess?" ® Phosphorus (and Nitrogen)
+® "Ecological succession ends with?" ® Climax Community
+® "Sere was coined by?" ® Frederic Clements (1916)
+® "Energy flow is _____ while nutrient cycling is _____?" ® Unidirectional; Cyclic
+UGC NET Env. Sciences (Code 89) — Unit 3.4: Energy Flow, Food Chains & Webs, Biogeochemical Cycles, Ecological Succession |
+JRF Guide
