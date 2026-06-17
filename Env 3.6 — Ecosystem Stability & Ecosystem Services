@@ -1,0 +1,780 @@
+Page 1 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+UGC NET / JRF — Environmental Sciences | Code: 89
+Unit III: Environmental Biology
+3.6 — Ecosystem Stability & Ecosystem Services
+Resistance | Resilience | Factors | Tipping Points | MEA Services Framework
+Beginner ® JRF Expert Level | 7 Diagrams | Complete Tables & Mnemonics
+STABILITY TYPES FACTORS TIPPING POINTS ECOSYSTEM SERVICES
+"Stability is the ability of an ecosystem to resist perturbation and recover from disturbance."
+n TABLE OF CONTENTS
+1. Ecosystem Stability — Definition & Importance
+2. Types of Stability: Resistance and Resilience
+3. Other Stability Concepts: Persistence, Constancy, Elasticity
+4. Factors Affecting Ecosystem Stability
+5. Biodiversity-Stability Relationship
+6. Keystone Species and Stability
+7. Tipping Points and Regime Shifts
+8. Ecosystem Services — Introduction & Classification (MEA 2005)
+9. Provisioning Services
+10. Regulating Services
+11. Cultural Services
+12. Supporting Services
+13. Valuation of Ecosystem Services
+14. Threats to Ecosystem Stability & Services
+15. Glossary | Comparison Tables | Mnemonics & Exam Tips
+Page 2 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 1 — Ecosystem Stability: Definition & Importance
+The capacity of an ecosystem to maintain its structure and function
+1.1 What is Ecosystem Stability?
+Ecosystem stability is the capacity of an ecosystem to maintain its structure (species composition, food
+web) and function (energy flow, nutrient cycling, productivity) in the face of disturbances, and to recover
+when disturbed. It is an emergent property — it arises from the interactions among all components of the
+ecosystem.
+Why stability matters: A stable ecosystem provides continuous ecosystem services (food, water,
+climate regulation, etc.) on which human civilisation depends. Unstable ecosystems collapse,
+losing these services permanently.
+1.2 Key Definitions
+n Perturbation / Disturbance:
+Any event that disrupts the ecosystem structure, function, or composition. Can be natural (fire, flood,
+drought, storm, volcanic eruption) or anthropogenic (pollution, deforestation, overgrazing, invasive
+species).
+n Equilibrium:
+A state in which ecosystem properties (species composition, biomass, nutrient levels) remain relatively
+constant over time. Can be stable equilibrium (returns after disturbance) or unstable equilibrium.
+n Homeostasis:
+The ability of an ecosystem to self-regulate and return to a stable state after a small disturbance —
+through negative feedback mechanisms.
+n Regime Shift:
+A sudden, dramatic change in an ecosystem from one stable state to another, triggered when a tipping
+point is crossed. Often irreversible.
+Page 3 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 2 — Types of Stability: Resistance & Resilience
+The two most important stability concepts
+Two Components of Ecosystem Stability
+RESISTANCE
+"Ability to stay the same"
+Eco
+Disturbance
+Deep cup = HIGH resistancen(hard to disturb)
+RESILIENCE
+"Ability to bounce back"
+Dis.
+Eco
+Spring back = HIGH resiliencen(recovers quickly)
+VS
+Generally: HIGH biodiversity ® HIGH resistance | Simpler ecosystems ® HIGHER resilience
+Fig 1: Resistance (stays same) vs Resilience (bounces back) — Ball-in-cup analogy
+Resistance Definition: The ability of an ecosystem to resist displacement — to stay the same
+when subjected to a disturbance. A highly resistant ecosystem does not change
+much when disturbed. Analogy: A deep cup — the ball (ecosystem) stays put even
+when pushed. Related to: Inertia, robustness Examples: • Tropical rainforest —
+extremely resistant to moderate disturbances due to high biodiversity • Old-growth
+forests with complex structure resist wind damage better than plantations • Coral
+reefs with high diversity resist mild bleaching events Higher in: Complex,
+species-rich, mature ecosystems
+Resilience Definition: The ability of an ecosystem to recover quickly after a disturbance — to
+bounce back to its original state. Analogy: A shallow cup — ball gets displaced but
+springs back quickly. Types of resilience: • Engineering resilience: how fast it
+returns • Ecological resilience: how large a disturbance can be absorbed
+Examples: • Grasslands recover quickly after fire (high resilience) • Annual crops
+bounce back after pest attacks • Planktonic ecosystems recover rapidly from
+pollution Higher in: Simpler, early-successional, productive ecosystems
+Page 4 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+Resistance vs Resilience Trade-off in Ecosystems
+HIGH
+LOW
+® Complexity
+Resistance
+Resilience
+Tropical
+Rainforest
+Temperate
+Forest
+Grassland
+& Crops
+Complex ecosystems (rainforest): HIGH resistance, LOW resilience | Simple (grassland): LOW resistance, HIGH resilience
+Fig 2: Resistance-Resilience Trade-off — Complex ecosystems have higher resistance but lower resilience
+n EXAM TIP: Resistance = ability to RESIST change | Resilience = ability to RECOVER after
+change. These two are generally INVERSELY related. Tropical rainforest = HIGH resistance, LOW
+resilience. Grassland = LOW resistance, HIGH resilience. DIRECT question in NET.
+Page 5 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 3 — Other Stability Concepts
+Persistence, constancy, elasticity, amplitude, hysteresis
+Concept Definition Example
+Persistence The ability of an ecosystem to persist through
+time — to continue existing. Long-lived
+ecosystems have high persistence.
+Ancient forests (>500 years old); deep-sea
+ecosystems
+Constancy The absence of change in some ecosystem
+property over time — remaining relatively
+constant. Related to but distinct from
+resistance.
+A mature forest with stable species
+composition year after year
+Elasticity
+(Engineering
+Resilience)
+The speed with which an ecosystem returns to
+equilibrium after disturbance. High elasticity =
+fast return. Proposed by Pimm (1984).
+A plankton community recovering in weeks
+after pollution
+Amplitude (Ecological
+Resilience)
+The magnitude of disturbance an ecosystem
+can absorb before shifting to a new state.
+Large amplitude = can absorb big
+disturbances. C.S. Holling (1973).
+Coral reef can absorb mild warming but
+collapses at +2°C
+Hysteresis When the pathway of recovery is different from
+the pathway of degradation. An ecosystem that
+changed from State A to State B due to
+disturbance may NOT return to State A even
+when the disturbance is removed.
+Eutrophic lake — removing nutrients does
+NOT immediately clear water
+Robustness Ability to maintain function under a broad
+range of conditions, including
+novel/unexpected stresses.
+Mangroves surviving both drought and
+flood
+Redundancy
+(Functional)
+Multiple species performing the same
+ecological function. If one species is lost,
+others can compensate. Provides stability
+buffer.
+Multiple pollinator species — if one bee
+species declines, others compensate
+n MNEMONIC for stability types: "People Can Easily Acquire Healthy Robust Redundancy"
+P=Persistence, C=Constancy, E=Elasticity, A=Amplitude, H=Hysteresis, R=Robustness, R=Redundancy
+Page 6 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 4 — Factors Affecting Ecosystem Stability
+What makes an ecosystem more or less stable?
+Factors Affecting Ecosystem Stability
+ECOSYSTEM
+STABILITY
+Species
+Diversity
+Food Web
+Complexity
+Keystone
+Species
+Physical
+Disturbance Environment
+Regime
+Redundancy
+(Functional)
+Productivity
+& NPP
+Stability is an EMERGENT PROPERTY of the ecosystem — no single factor determines it
+Fig 3: Factors Affecting Ecosystem Stability — Mind Map
+1. Species Diversity MORE species = MORE stability (generally). Higher biodiversity provides
+functional redundancy — if one species is lost, another can fill its role. This is
+the diversity-stability hypothesis. Evidence: David Tilman's grassland
+experiments (1994) showed that plots with more plant species were more
+resistant to drought and more productive. Exception: Some simple
+ecosystems (e.g., grasslands) are MORE resilient than complex ones — the
+relationship is not always linear.
+2. Food Web Complexity More connections in food web = more stable ecosystem. Complex food
+webs provide alternative energy pathways — if one path is disrupted, energy
+can flow through another. Robert May (1972) challenged this with
+mathematical models showing that complexity can destabilise if too high
+(May's paradox). MacArthur (1955) proposed complexity-stability hypothesis
+originally. Current view: moderate complexity with functional redundancy =
+optimal stability.
+Page 7 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+3. Keystone Species
+Presence
+Keystone species have disproportionately large effects on ecosystem
+structure. Their presence/absence dramatically affects stability. Example:
+Sea otter (Enhydra lutris) — controls sea urchin populations which protects
+kelp forests. Without otters ® urchin explosion ® kelp forest collapse.
+Top-down control by apex predators stabilises ecosystems (trophic
+cascades).
+4. Disturbance Regime Intermediate Disturbance Hypothesis (Connell, 1978): Intermediate
+frequency/intensity disturbances maintain highest diversity, which supports
+stability. • Low disturbance ® competitive exclusion ® low diversity ® less
+stable • High disturbance ® only tolerant species survive ® less stable •
+Intermediate ® many species coexist ® more stable Regular disturbances
+(fire in grasslands, floods in riparian zones) are often ESSENTIAL for
+long-term stability.
+5. Functional
+Redundancy
+When multiple species perform the same ecological function (pollinators,
+decomposers, nitrogen fixers), the loss of one species does NOT cause
+function collapse — others compensate. Analogy: Like having backup
+electrical circuits — if one fails, others operate. HIGH functional redundancy
+® HIGH stability. Low redundancy (single-species functions) ® FRAGILE
+ecosystem.
+6. Physical Environment
+Stability
+Stable physical conditions (consistent temperature, rainfall, nutrient levels)
+support stable biological communities. • Stable environments ® specialist
+species ® high diversity ® high resistance • Variable environments ®
+generalist species ® lower diversity but high resilience Climate change is
+destabilising previously stable physical environments, threatening ecosystem
+stability globally.
+Page 8 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 5 — Biodiversity-Stability Relationship
+Diversity-stability hypothesis — Elton, MacArthur, Tilman's evidence
+Biodiversity-Stability Relationship
+Stability
+Biodiversity ®
+Monoculturen(low stability)
+TropicalnRainforestn(high stability)
+More biodiversity ® more functional redundancy ® more stability (diversity-stability hypothesis)
+Fig 4: Biodiversity-Stability Relationship — More diversity = more stability
+Charles Elton (1958) In "The Ecology of Invasions by Animals and Plants," Elton argued that
+simple ecosystems are more vulnerable to invasion than complex ones.
+Monocultures are fragile; diverse natural communities resist invaders better.
+This was an early statement of the diversity-stability hypothesis.
+Robert MacArthur (1955) Proposed the complexity-stability hypothesis: more complex food webs
+(more species, more connections) lead to more stable ecosystems. Stability
+measured by evenness of energy flow — more pathways = more stability.
+Robert May (1972) Using mathematical models, May showed that complexity can actually
+DESTABILISE ecosystems — contradicting MacArthur. This is "May's
+Paradox": why are real complex ecosystems stable despite theory? Answer:
+real food webs have non-random structure (compartments, weak links) that
+maintains stability.
+David Tilman (1994) Landmark grassland biodiversity experiments at Cedar Creek (Minnesota).
+Found that plots with MORE plant species were: (1) More resistant to drought
+(2) More productive (higher biomass) (3) More efficient at using nutrients
+Strong empirical evidence for diversity-stability hypothesis.
+n EXAM TIP: David Tilman (1994) — Cedar Creek grassland experiments proved diversity-stability.
+Robert May (1972) — mathematical paradox. Charles Elton (1958) — simple ecosystems more
+invasible. These scientists are DIRECTLY asked in NET paired with their contributions.
+Page 9 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 6 — Keystone Species and Stability
+Species with disproportionately large effects on ecosystem stability
+6.1 What is a Keystone Species?
+A keystone species is a species whose effect on its community or ecosystem is disproportionately large
+relative to its abundance. Removing a keystone species causes dramatic changes in the ecosystem —
+often collapse. Term coined by Robert Paine (1969) based on starfish removal experiments.
+Analogy: Just like the keystone in an arch — a small central stone that holds the entire arch together.
+Remove it and the whole arch collapses.
+Sea Otter (Enhydra
+lutris)
+Classic keystone predator. Controls sea urchin populations on Pacific coast.
+Without otters ® urchins explode ® overgraze kelp ® kelp forest disappears ®
+loss of shelter for hundreds of species. WITH otters ® healthy kelp forest. Studied
+by Paine and Estes in Pacific coast.
+African Elephant Ecosystem engineer and keystone species in African savanna. Elephants push
+over trees, creating open grassland habitat for grazers. Dig waterholes that other
+species use. Disperse seeds over large distances. Without elephants ® bush
+encroachment ® grassland species decline.
+Fig Trees (Ficus
+species)
+Keystone PLANT species in tropical forests. Fig trees produce fruit year-round
+(when other trees do not), supporting frugivores (fruit bats, birds, primates) during
+food scarcity. Called "survival foods" — without them, many tropical vertebrates
+would go extinct.
+Wolves (Canis
+lupus)
+Classic trophic cascade example — Yellowstone National Park. Wolves
+reintroduced in 1995 ® reduced deer/elk grazing ® vegetation recovered ®
+riverbanks stabilised ® rivers changed course. "How wolves change rivers" —
+famous trophic cascade.
+Sharks Apex predators in marine ecosystems. Control prey populations, maintaining
+trophic structure. Removing sharks ® prey explosion ® overgrazing of seagrass
+beds and algae ® coastal ecosystem collapse.
+Bees & Pollinators Keystone MUTUALISTS. ~80% of flowering plants depend on animal pollination.
+Decline of bees threatens food security and ecosystem function. Worth ~$577
+billion/year in global crop production.
+6.2 Trophic Cascade
+A trophic cascade occurs when a top predator controls herbivore populations, which in turn allows
+vegetation to thrive — a "top-down" effect flowing down through the food chain. Removing the top predator
+triggers a cascade of changes down to the producers.
+Example Without Top Predator With Top Predator
+Wolves in
+Yellowstone
+Elk overgraze ® riverbanks erode ® stream
+destabilises
+Elk controlled ® vegetation recovers ®
+rivers stabilise
+Page 10 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+Sea Otter in Pacific Sea urchins explode ® kelp forest destroyed Urchins controlled ® kelp forest thrives ®
+biodiversity high
+Sharks in ocean Medium predators expand ® prey of prey
+collapse
+Trophic structure balanced ® high
+biodiversity
+Tiger in India (forests) Deer/sambar overgraze ® forest degraded Prey controlled ® forest vegetation recovers
+Page 11 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 7 — Tipping Points and Regime Shifts
+The point of no return in ecosystem change
+Ecosystem Tipping Points and Regime Shifts
+EcosystemnState
+Disturbance ®
+TIPPINGnPOINT
+Healthy ecosystemn(Stable State 1)
+Degraded ecosystemn(Stable State 2)
+Once a tipping point is crossed, return to original state is very difficult (hysteresis)
+Fig 5: Tipping Point — Ecosystem collapses suddenly to a new degraded stable state
+7.1 What is a Tipping Point?
+A tipping point is a threshold at which a small change triggers a sudden, large, and often irreversible shift
+in ecosystem state. Once crossed, the system moves rapidly to a new stable state — a regime shift.
+Recovery to the original state is very difficult due to hysteresis (the recovery pathway differs from the
+degradation pathway).
+Ecosystem Tipping Point Process Threshold
+Amazon Rainforest ~40% deforestation could trigger savannification —
+transformation of the Amazon from rainforest to
+savanna. Currently at ~17-20% deforestation.
+~20-25% deforestation
+Arctic Ice Sheet Melting of Arctic sea ice creates positive feedback —
+less white ice ® more dark ocean absorbs heat ®
+more melting. Accelerating beyond tipping point.
+Warming beyond 1.5-2°C
+Coral Reefs Ocean warming ® coral bleaching ® algal takeover.
+Once dominated by algae, reefs rarely recover to
+coral-dominated state.
+Water temperature +2°C above
+average
+Eutrophic Lakes Excess nutrients (P, N) ® algal blooms ® oxygen
+depletion ® fish kill ® turbid, dead lake. Removing
+nutrients does NOT quickly restore clarity (hysteresis).
+Phosphorus loading exceeding ~0.1
+mg/L
+Sahel Desertification Overgrazing reduces vegetation ® less rainfall
+recycled ® more drought ® less vegetation ®
+feedback loop to desert state.
+Vegetation cover below ~15%
+Page 12 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 8 — Ecosystem Services: Introduction & Classification
+The Millennium Ecosystem Assessment (MEA, 2005) Framework
+8.1 What are Ecosystem Services?
+Ecosystem services are the benefits that humans obtain from ecosystems. The concept emphasises that
+healthy ecosystems provide essential services — many of which have economic value — to human
+society. The term was formalised by the Millennium Ecosystem Assessment (MEA, 2005), a
+UN-commissioned global study involving 1,360 scientists from 95 countries.
+Earlier framework: Costanza et al. (1997) published landmark paper in Nature estimating global
+ecosystem services at $33 trillion/year (greater than global GNP at the time). This was a major
+milestone in environmental economics.
+Ecosystem Services — MEA Framework (2005)
+ECOSYSTEM
+SERVICES
+(MEA 2005)
+PROVISIONING
+SERVICES
+REGULATING
+SERVICES
+CULTURAL
+SERVICES
+SUPPORTING
+SERVICES
+MEA = Millennium Ecosystem Assessment (2005) | Published by UN | Valuing nature's contributions
+Fig 6: MEA (2005) Framework — 4 Categories of Ecosystem Services
+8.2 MEA Classification — Overview
+Category Definition Examples
+Provisioning Services Products obtained from ecosystems Food, water, timber, fibre, genetic resources,
+medicines, fuel
+Regulating Services Benefits from regulation of ecosystem
+processes
+Climate regulation, water purification, flood control,
+pollination, disease control
+Cultural Services Non-material benefits from ecosystems Recreation, ecotourism, spiritual value, aesthetic
+beauty, education
+Supporting Services Services necessary for production of all
+other services
+Nutrient cycling, soil formation, primary production,
+habitat provision
+Page 13 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 9 — Provisioning Services
+Direct products we obtain from ecosystems
+Service Description Example
+Food Crops, livestock, fisheries, wild game, wild fruits
+and vegetables. ~75% of global food supply
+comes from just 12 plant species and 5 animal
+species, but wild relatives and biodiversity are
+essential for crop improvement.
+Rice, wheat, maize, fish (2.9B people depend
+on fish as primary protein)
+Fresh Water Ecosystems (forests, wetlands, mountains) collect,
+filter, and store freshwater. Forests act as "water
+towers" — regulate the hydrological cycle. ~1.1
+billion people lack access to safe drinking water.
+Himalayan glaciers provide water to 1.5 billion
+people; Amazon basin freshwater
+Timber & Fibre Wood for construction and fuel; plant fibres for
+textiles and paper. ~2 billion people depend on
+wood as primary cooking fuel.
+Teak, sal, bamboo (fastest growing plant),
+cotton, jute
+Genetic
+Resources
+Genes from wild species used for crop
+improvement, medicine development,
+biotechnology. Wild relatives of crops contain
+disease-resistance genes.
+Wild rice relatives (disease resistance), Taxol
+from Pacific Yew (cancer drug)
+Medicinal
+Resources
+~25% of modern medicines derived from
+plant/animal/microbial compounds. Estimated
+50,000+ plant species used medicinally.
+Aspirin (willow bark), quinine (malaria),
+artemisinin (malaria), penicillin (fungi)
+Fuel & Energy Biomass for cooking/heating; peat as fuel; fossil
+fuels (ancient ecosystem services).
+2.6 billion people use biomass for cooking;
+biofuel crops
+Page 14 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 10 — Regulating Services
+How ecosystems control and regulate natural processes
+Service Mechanism Example / Value
+Climate
+Regulation
+Forests absorb COn (carbon sequestration),
+regulate temperature through
+evapotranspiration, and influence rainfall
+patterns. Tropical forests = "lungs and air
+conditioners of Earth."
+Amazon forest transpires 20 billion tonnes of
+water/day; forests sequester 2.6 Gt COn/year
+Water Purification
+& Regulation
+Wetlands, soil organisms, and riparian
+vegetation filter pollutants, regulate water flow
+(flood control), and recharge groundwater.
+New York City protects Catskill watershed
+($1.5 billion cheaper than water treatment
+plant)
+Flood & Erosion
+Control
+Forests reduce runoff, roots bind soil, wetlands
+absorb floodwater. Loss of forests ® increased
+flooding and soil erosion.
+Mangroves reduce storm surge by 50-70%;
+forests reduce runoff by 50%
+Pollination ~75-80% of flowering plant species require
+animal pollination. ~35% of global food
+production depends on pollinators (bees,
+butterflies, birds).
+Honey bee — $15 billion/year service in USA
+alone; India's pollination service worth ~n2
+lakh crore/year
+Disease Control Biodiversity regulates disease by diluting
+pathogen load — "dilution effect." Intact
+ecosystems prevent disease outbreaks.
+Lyme disease increases with reduced
+biodiversity; malaria increases with
+deforestation
+Air Quality
+Regulation
+Trees absorb COn, On, SOn, NOn,
+particulates. Urban trees provide significant air
+purification.
+Urban forests remove 711,000 tonnes of air
+pollutants/year in USA
+Natural Hazard
+Mitigation
+Mangroves, coral reefs, and coastal vegetation
+buffer against storms, tsunamis, and erosion.
+Coral reefs reduce wave energy by 97%;
+mangroves reduced 2004 tsunami damage in
+India
+Page 15 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 11 — Cultural Services
+Non-material benefits — spiritual, recreational, aesthetic
+Service Description Indian / Global Example
+Recreation &
+Tourism
+Ecotourism, hiking, bird watching, fishing,
+swimming in natural areas. Global ecotourism
+worth ~$77 billion/year. India: ~10 million
+tourists visit tiger reserves annually.
+Jim Corbett National Park, Ranthambore,
+Kerala backwaters
+Spiritual &
+Religious Value
+Sacred groves (devarvans in India), sacred
+rivers (Ganga), sacred forests. Many cultures
+have spiritual relationships with nature.
+100,000+ sacred groves in India; Ganga =
+sacred river; Bodhi tree (Buddhism)
+Aesthetic Value Beauty of landscapes, species, seasons.
+Inspires art, music, literature, photography.
+Western Ghats scenery; Cherry blossoms in
+Japan; Autumn colours in deciduous forests
+Educational &
+Scientific Value
+Natural ecosystems serve as outdoor
+classrooms and laboratories. Biodiversity
+provides untold potential for scientific
+discovery.
+Darwin's Galapagos insights; Fleming's
+Penicillin from fungi; Medical advances from
+natural compounds
+Cultural Identity Many indigenous communities define their
+identity through their relationship with specific
+ecosystems, species, or landscapes.
+Bishnoi community protecting blackbuck; Warli
+art (trees/nature); Chipko movement
+Sense of Place Natural areas provide psychological wellbeing,
+sense of calm, connection to home and
+heritage.
+Urban parks reduce stress; nature exposure
+improves mental health
+Page 16 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 12 — Supporting Services
+Foundation services — all other services depend on these
+Supporting services are the fundamental processes that underlie all other ecosystem services. Without
+supporting services, provisioning, regulating, and cultural services would cease to exist. They operate at
+long time scales and large spatial scales.
+Service Process & Importance Data / Example
+Nutrient Cycling Biogeochemical cycles (N, C, P, S, water)
+recycle essential elements between biotic and
+abiotic components. Ensures continuous
+supply of nutrients for plant growth.
+Nitrogen fixation by Rhizobium; phosphorus
+weathering from rocks; decomposer activity
+recycling 200 MT nutrients annually
+Soil Formation Physical weathering + biological activity
+(earthworms, bacteria, fungi, plant roots)
+create soil from parent rock over thousands of
+years. 1cm of topsoil takes ~100-1000 years to
+form.
+1.5 billion soil organisms per m²; earthworms
+process 36 tonnes soil/hectare/year
+Primary
+Production
+Photosynthesis by producers converts solar
+energy into organic matter — the energy base
+for all other services.
+Global NPP ~120 Gt carbon/year; Oceans
+contribute 50% (phytoplankton)
+Habitat Provision Ecosystems provide physical structure
+(shelter, nesting sites, breeding grounds,
+refuge) for the organisms that deliver all other
+services.
+Mangroves as fish nurseries; old-growth trees
+as raptor nesting sites; wetlands as waterfowl
+habitat
+Water Cycling Hydrological cycle — evapotranspiration from
+vegetation, groundwater recharge, cloud
+formation. Forests influence local and regional
+rainfall.
+Amazon forest generates 50% of own rainfall
+through transpiration; Indian monsoon linked to
+Himalayan forests
+Oxygen
+Production
+Photosynthesis produces On essential for all
+aerobic life. ~50% of Earth's On comes from
+marine phytoplankton.
+Prochlorococcus (marine cyanobacterium)
+produces ~20% of all On
+Page 17 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 13 — Valuation of Ecosystem Services
+Putting a number on nature — economic valuation methods
+Estimated Economic Value of Ecosystem Services (Constanza et al. 1997)
+$1341B
+Gas
+Regulation
+$1115B
+Water
+Regulation
+$576B
+Erosion
+Control
+$2294B
+Nutrient
+Cycling
+$1386B
+Food
+Production
+$721B
+Raw
+Materials
+$815B
+Recreation
+$684B
+Climate
+Values in billion USD/year | Total estimated at $33 trillion/year globally (Constanza et al. 1997) Regulation
+Fig 7: Estimated Annual Value of Key Ecosystem Services (Costanza et al. 1997)
+13.1 Why Valuation?
+Economic valuation of ecosystem services is important because: (1) Decisions are often made based on
+economic arguments — giving nature a monetary value helps protect it; (2) It shows the cost of ecosystem
+degradation; (3) Helps design payment for ecosystem services (PES) schemes; (4) Informs policy on
+conservation vs development trade-offs.
+Method Approach Example
+Market Price Method Value based on actual market prices of
+ecosystem products.
+Price of timber, fish, crops, water
+Replacement Cost
+Method
+What it would cost to replace the
+ecosystem service with technology.
+Cost of water treatment plant if wetland
+filtration lost
+Hedonic Pricing Value inferred from property prices —
+houses near forests/parks worth more.
+Property values near Central Park, NY are
+higher
+Travel Cost Method People's willingness to travel and pay to
+visit natural areas reveals value.
+Visitor spending on ecotourism to estimate
+value of wildlife
+Contingent Valuation Surveys asking people how much they
+would pay to protect a service (WTP).
+Survey: how much would you pay to
+prevent tiger extinction?
+Ecosystem Service
+Valuation
+Total economic value (TEV) = Direct use +
+Indirect use + Option + Existence values
+Costanza (1997): $33 trillion/yr globally;
+TEEB project updates
+13.2 Key Valuation Data Points (for NET Exams)
+• Costanza et al. (1997): Global ecosystem services = $33 trillion/year
+• Global pollination service: ~$577 billion/year (IPBES 2016)
+• Coral reefs: ~$375 billion/year (food, tourism, coastal protection)
+• Mangroves: coastal protection worth ~$65 billion/year globally
+• India: biodiversity value estimated at n31 trillion/year (TERI 2018)
+Page 18 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+• Carbon sequestration by forests: ~2.6 Gt COn/year
+• New York Catskill watershed protection: saved $6-8 billion in treatment costs
+Page 19 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 14 — Threats to Ecosystem Stability & Services
+What is destabilising the world's ecosystems
+Habitat Loss &
+Fragmentation
+Largest threat to ecosystem stability. Deforestation, wetland drainage, urban
+sprawl reduce ecosystem size and connectivity. India: 35% forest cover lost;
+80% of wetlands degraded. Fragmentation isolates populations ® reduced
+genetic diversity ® lower resilience.
+Invasive Alien
+Species
+Species introduced outside their native range disrupt established food webs,
+outcompete native species, alter ecosystem processes. Examples: Lantana
+camara in Indian forests; Water hyacinth in Indian lakes; Parthenium (Congress
+grass) in Indian grasslands.
+Overexploitation Unsustainable harvesting of species (hunting, fishing, logging) removes
+keystone species and disrupts trophic structure. Examples: Overfishing
+collapsing marine food webs; Poaching removing tigers (keystone predators).
+Pollution Chemical pollution (pesticides, heavy metals, plastics) kills species and disrupts
+ecosystem processes. Eutrophication (excess N, P) triggers tipping points in
+aquatic ecosystems. Air pollution damages forests, reduces pollinator
+populations.
+Climate Change Alters temperature, precipitation, seasonality — disrupts species ranges,
+phenology, and ecosystem processes. Pushes ecosystems past tipping points.
+Coral bleaching; Arctic sea ice loss; Himalayan glacier retreat; Amazon die-back
+risk.
+Overgrazing & Land
+Degradation
+Excessive livestock grazing removes vegetation, compacts soil, initiates
+desertification — crossing tipping points to degraded state. India: 120 million
+hectares of degraded land (ICAR 2019).
+Page 20 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+SECTION 15 — Key Terms Glossary
+Term Definition
+Amplitude Amount of disturbance an ecosystem can absorb before regime shift (C.S. Holling,
+1973).
+Cascade (Trophic) Top-down effect where removal of apex predator causes ripple changes down the
+food chain.
+Constanza et al. (1997) Estimated global ecosystem services at $33 trillion/year. Published in Nature.
+Disturbance Event that disrupts ecosystem structure/function — fire, flood, pollution, deforestation.
+Ecosystem engineer Species that physically modifies the environment, creating/maintaining habitat for
+others.
+Ecosystem services Benefits humans obtain from ecosystems — provisioning, regulating, cultural,
+supporting.
+Elasticity Speed of return to equilibrium after disturbance (Pimm, 1984). = Engineering
+resilience.
+Functional redundancy Multiple species performing same ecological function — provides stability buffer.
+Homeostasis Ecosystem's ability to self-regulate and return to stable state through negative
+feedback.
+Hysteresis Recovery pathway differs from degradation pathway — makes ecosystem restoration
+difficult.
+Keystone species Species with disproportionately large ecosystem effect relative to abundance (Paine,
+1969).
+MEA 2005 Millennium Ecosystem Assessment — UN study classifying ecosystem services into 4
+categories.
+Paine (1969) Coined "keystone species" based on Pisaster sea star removal experiments.
+Persistence Ability of ecosystem to continue existing over long time periods.
+Regime shift Sudden change from one stable ecosystem state to another; triggered by crossing
+tipping point.
+Resilience Ability of ecosystem to recover after disturbance (bounce back).
+Resistance Ability of ecosystem to resist displacement when disturbed (stay the same).
+Robustness Ability to maintain function under diverse/novel conditions.
+Tipping point Threshold beyond which small change triggers sudden, large, often irreversible
+ecosystem change.
+Tilman (1994) Cedar Creek experiments proving more plant diversity ® higher stability and
+productivity.
+Page 21 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+Comparison Tables & Exam Strategy
+Comparison 1: Resistance vs Resilience
+Feature Resistance Resilience
+Definition Ability to resist displacement Ability to recover after disturbance
+Analogy Deep cup — ball stays put Shallow cup — ball springs back
+Relationship Generally inversely related Generally inversely related
+Higher in Complex, diverse ecosystems Simpler, early-successional ecosystems
+Example Tropical rainforest (resists mild
+disturbance)
+Grassland (recovers fast after fire)
+Measurement Amount of change after disturbance Speed of recovery
+Biodiversity link Higher biodiversity ® higher resistance Higher productivity ® higher resilience
+Comparison 2: Four Categories of Ecosystem Services (MEA)
+Category Direct/Indirect Time Scale Key Examples
+Provisioning Direct benefit Short-term Food, water, timber, medicine
+Regulating Indirect benefit Medium-term Climate, flooding, pollination, disease
+Cultural Direct benefit
+(non-material)
+Medium-term Recreation, spiritual, aesthetic
+Supporting Indirect (foundational) Long-term Nutrient cycling, soil formation, On
+n Mnemonics & Memory Tips
+n MEA 4 Services PRCS: Provisioning, Regulating, Cultural, Supporting "Please Regulate Cultural
+Support" — easy to recall all 4 categories
+n Stability types (all) PCEAHR: Persistence, Constancy, Elasticity, Amplitude, Hysteresis, Resistance
+(& Resilience) "People Can Easily Achieve Happy Results Reliably"
+n Keystone species
+examples
+SOW-EBS: Sea Otter, Wolves, Elephants, Bees, Sharks "Sea Otters Watch
+Elephants Bite Sharks"
+n Resistance vs
+Resilience
+Resistance = Refuses to change | Resilience = Rapidly Returns Both start with R
+— Resistance = stays, Resilience = springs
+n Tipping point
+examples
+ACELS: Amazon, Coral reef, Eutrophic lake, Sahel, Arctic "All Coral Ecosystems
+Suffer Acutely at tipping points"
+n KEY FACTS FOR UGC NET — Unit 3.6
+Page 22 | UGC NET Env. Sciences — Unit 3.6 Ecosystem Stability & Services
+4 1. Resistance = ability to RESIST change | Resilience = ability to RECOVER after change
+4 2. Tropical rainforest: HIGH resistance, LOW resilience (inverse relationship)
+4 3. Grassland: LOW resistance, HIGH resilience
+4 4. Keystone species coined by Robert Paine (1969) — sea star Pisaster experiments
+4 5. Sea otter is the classic keystone predator (controls urchins ® protects kelp)
+4 6. Wolves reintroduction in Yellowstone — classic trophic cascade example
+4 7. David Tilman (1994) — Cedar Creek grassland experiments proved diversity-stability
+4 8. MEA 2005 = Millennium Ecosystem Assessment — 4 categories: Provisioning, Regulating,
+Cultural, Supporting
+4 9. Costanza et al. (1997) — global ecosystem services = $33 trillion/year
+4 10. Supporting services are FOUNDATIONAL — all others depend on them
+4 11. Intermediate Disturbance Hypothesis (Connell, 1978) — max diversity at intermediate
+disturbance
+4 12. C.S. Holling (1973) proposed amplitude/ecological resilience concept
+4 13. Hysteresis = recovery path ¹ degradation path — makes restoration difficult
+4 14. Functional redundancy = multiple species doing same job ® stability buffer
+4 15. Tipping point in Amazon: ~20-25% deforestation could cause savannification
+4 16. Pollination service worth ~$577 billion/year globally (IPBES 2016)
+4 17. Robert May (1972) — mathematical models showed complexity can destabilise (May's Paradox)
+4 18. Phytoplankton provides ~50% of Earth's oxygen
+4 19. 1 cm topsoil takes 100-1000 years to form — soil formation is a critical supporting service
+4 20. Bees/pollinators are keystone mutualists — 35% of global food depends on them
+n UGC NET QUESTION PATTERNS — Unit 3.6
+® "Resistance vs Resilience — which is higher in tropical rainforest?" ® Resistance
+® "Keystone species was coined by?" ® Robert Paine (1969)
+® "MEA 2005 classifies ecosystem services into how many categories?" ® 4
+® "Supporting services are different because?" ® They are foundational; others depend on them
+® "Costanza et al. (1997) estimated global ecosystem services at?" ® $33 trillion/year
+® "Cedar Creek grassland experiments proving diversity-stability were by?" ® David Tilman (1994)
+® "Classic example of trophic cascade?" ® Wolves in Yellowstone
+® "Hysteresis in ecosystems means?" ® Recovery path differs from degradation path
+® "Which stability concept is related to speed of recovery?" ® Elasticity (Pimm, 1984)
+® "Functional redundancy contributes to?" ® Ecosystem stability (buffer against species loss)
+® "Intermediate Disturbance Hypothesis was proposed by?" ® Connell (1978)
+UGC NET Env. Sciences (Code 89) — Unit 3.6: Ecosystem Stability & Ecosystem Services | JRF Preparation Guide
