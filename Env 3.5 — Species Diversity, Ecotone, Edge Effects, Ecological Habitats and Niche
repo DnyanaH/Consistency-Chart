@@ -1,0 +1,736 @@
+Page 1 | UGC NET Env. Sciences — Unit 3.5
+UGC NET / JRF — Environmental Sciences | Code: 89
+Unit III: Environmental Biology
+3.5 — Species Diversity, Ecotone, Edge Effects,
+Ecological Habitats and Niche
+Beginner ® JRF Expert Level | 8 Diagrams | Complete Tables & Mnemonics
+SPECIES DIVERSITY ECOTONE & EDGE HABITAT NICHE
+"Habitat is the address of an organism; niche is its profession." — Eugene Odum
+n TABLE OF CONTENTS
+1. Species Diversity — Definition and Scope
+2. Types of Diversity: Alpha, Beta, Gamma (Whittaker, 1960)
+3. Measures of Species Diversity — Indices (Shannon, Simpson, Jaccard, Sorensen)
+4. Patterns of Biodiversity — Latitudinal Gradient, Species-Area Relationship
+5. Ecotone — Definition, Features, Examples
+6. Edge Effect — Definition, Significance, Examples
+7. Ecological Habitat — Definition, Types, Characteristics
+8. Ecological Niche — Definition, History, Hutchinson's Hypervolume
+9. Types of Niche — Fundamental vs Realised Niche
+10. Competitive Exclusion Principle and Resource Partitioning
+11. Niche vs Habitat — Detailed Comparison
+12. Glossary | Comparison Tables | Mnemonics & Exam Tips
+Page 2 | UGC NET Env. Sciences — Unit 3.5
+SECTION 1 — Species Diversity: Definition and Scope
+The variety of life — the most fundamental concept in ecology
+1.1 What is Species Diversity?
+Species diversity is the variety of species in a given area or community. It is the most commonly used
+measure of biodiversity and includes both the number of species (species richness) and the evenness
+of their distribution (species evenness).
+Biodiversity (biological diversity) was popularised by E.O. Wilson (1988) and refers to the variety of
+life on Earth at all its levels — genetic, species, and ecosystem diversity.
+1.2 Components of Species Diversity
+Component Definition Measure Example
+Species Richness (S) Total number of different species
+in an area
+Simple count of
+species
+A forest with 200 tree species
+Species Evenness
+(E)
+How equally individuals are
+distributed among species
+Pielou's J: E =
+H'/ln(S)
+Equal abundance vs one
+dominant species
+Species Diversity Combines richness + evenness Shannon (H'),
+Simpson (D)
+High if both richness & evenness
+are high
+Relative abundance Proportion of each species in the
+total community
+pi = ni/N 60% sparrows, 30% crows, 10%
+eagles
+Page 3 | UGC NET Env. Sciences — Unit 3.5
+SECTION 2 — Alpha, Beta & Gamma Diversity
+Whittaker (1960) — the three scales of diversity
+Three Levels of Biodiversity (Whittaker, 1960)
+a-DIVERSITY
+Within-habitat diversity
+• Species richness
+• Shannon Index (H')
+• Simpson's Index (D)
+• Species evenness
+e.g. # species innone forest patch
+b-DIVERSITY
+Between-habitat diversity
+• Species turnover
+• Jaccard Index
+• Sorensen Index
+• Whittaker's b=g/a
+e.g. change in speciesnbetween forest & grassland
+g-DIVERSITY
+Landscape / regional diversity
+• Total regional pool
+• All habitats combined
+• Landscape-level
+• g = a × b
+e.g. all species inna mountain range
+®b ®g
+Formula: g = a × b | Whittaker (1960) first defined a, b, g diversity
+Fig 1: Three Levels of Biodiversity — a, b, g diversity (Whittaker, 1960)
+a (Alpha) Diversity —
+Within-habitat
+Definition: Species diversity within a single, uniform habitat or community.
+The simplest and most commonly measured type. Formula: Measured by
+species richness (S), Shannon index (H'), Simpson index (D), etc. Examples:
+• Number of bird species in a single forest patch • Number of fish species in
+one pond • Number of plant species in a 100m² grassland plot High alpha
+diversity ® many species coexist locally
+b (Beta) Diversity —
+Between-habitats
+Definition: Species diversity between different habitats or along an
+environmental gradient. Measures how much species composition
+CHANGES as you move from one habitat to another. Whittaker's formula: b
+= g / a (total diversity / average within-habitat diversity) Examples: • Species
+change from forest to grassland • Species turnover along an altitudinal
+gradient • How different two habitat patches are in species composition High
+beta diversity ® habitats are very different from each other
+g (Gamma) Diversity —
+Landscape/Regional
+Definition: Total species diversity of a large region or landscape
+encompassing multiple habitats. The overall diversity of a geographic region.
+Relationship: g = a × b Examples: • Total bird species in the entire Western
+Ghats • All plant species in a mountain range • Total biodiversity of India High
+gamma diversity ® region has many diverse habitats AND many species
+within each
+n EXAM TIP: a, b, g diversity coined by R.H. Whittaker (1960). a = within-habitat | b =
+between-habitats | g = total landscape. Formula: b = g/a and g = a × b. These are directly asked in
+NET.
+Page 4 | UGC NET Env. Sciences — Unit 3.5
+SECTION 3 — Measures of Species Diversity
+Shannon, Simpson, Jaccard, Sorensen — formulas and interpretation
+Species Diversity Indices — Conceptual Comparison
+60%
+30%
+10%
+Community A
+(Low diversity)
+35% 35%
+30%
+Community B
+(Medium diversity)
+34% 33% 33%
+Community C
+(High diversity)
+H'=0.85
+D=0.52
+H'=1.10
+D=0.67
+H'=1.10
+D=0.67
+Higher evenness ® Higher diversity index | Community C has maximum evenness
+Fig 2: Species diversity increases with evenness — conceptual bar chart
+3.1 Alpha Diversity Indices
+Index What it Measures Formula Key Notes
+Species Richness (S) Simple count of number of
+species in an area.
+S = total number of
+species
+• Easiest to measure • Does not
+account for abundance
+differences • Most commonly
+used in field surveys
+Shannon-Wiener
+Diversity Index (H')
+Accounts for both richness
+AND evenness. Most widely
+used diversity index.
+H' = -S(pi × ln pi) where pi
+= proportion of species i
+• Range: 0 (only 1 species) to
+ln(S) (all species equal) • Higher
+H' = higher diversity • Most
+common in ecology papers
+Simpson's Diversity
+Index (D)
+Probability that two randomly
+chosen individuals belong to
+the SAME species.
+D = S(ni(ni-1)/N(N-1)) or
+D = Spi²
+• Range: 0 to 1 • Higher D =
+LOWER diversity
+(counterintuitive!) • Often
+reported as 1-D (Simpson's
+diversity)
+Margalef's Richness
+Index (DMg)
+Relates species richness to
+total individuals sampled.
+DMg = (S-1)/ln N where
+N = total individuals
+• Corrects for sample size •
+Useful for comparing
+communities of different sizes
+Pielou's Evenness (J) Measures how evenly
+individuals are distributed
+among species.
+J = H'/H'max = H'/ln(S) • Range: 0 to 1 • J=1: perfectly
+even distribution • J close to 0:
+very uneven (one dominant
+species)
+3.2 Beta Diversity Indices
+Index Description Formula Interpretation
+Jaccard Index (Cj) Similarity based on
+presence/absence of
+species.
+Cj = j/(a+b-j) j=species in
+both; a=species in A;
+b=species in B
+Range 0-1. Higher = more similar
+communities.
+Page 5 | UGC NET Env. Sciences — Unit 3.5
+Sorensen Index (Cs) Similar to Jaccard but
+gives more weight to
+shared species.
+Cs = 2j/(a+b) or Cs =
+2c/(2c+a+b)
+More commonly used than Jaccard.
+Range 0-1.
+Whittaker's b Ratio of total diversity to
+average within-habitat
+diversity.
+b = g/a b=1 means no difference; b>1
+means high turnover between
+habitats.
+Bray-Curtis
+Dissimilarity
+Based on abundance
+data; measures
+dissimilarity between
+communities.
+BC = S|xi-yi|/(Sxi+Syi) Range 0-1. 0=identical;
+1=completely different.
+n MNEMONIC: "Surely Jaccard Shares Species" Shannon (H') = richness + evenness | Simpson (D) =
+dominance (invert for diversity) | Jaccard = presence/absence similarity | Sorensen = weighted similarity
+Page 6 | UGC NET Env. Sciences — Unit 3.5
+SECTION 4 — Patterns of Biodiversity
+Why are some places more diverse than others?
+4.1 Latitudinal Gradient in Species Diversity
+Latitudinal Gradient in Species Diversity
+SpeciesnRichnessn(HIGH)
+LOW
+Equatorn(0°) Polesn(90°)
+Latitude ®
+TropicalnRainforest
+TemperatenForest
+Tundran& Polar
+Tropics: HIGHEST diversity
+Poles: LOWEST diversity
+Reasons: More solar energy, stable climate, long evolutionary time, no glaciation at tropics
+Fig 3: Species richness decreases from equator to poles
+Species diversity is generally highest near the equator and decreases towards the poles. This is one of
+the most consistent patterns in ecology, observed across most taxonomic groups.
+Reason Explanation
+Greater Solar Energy Tropics receive more sunlight ® higher photosynthesis ® more primary productivity ®
+more food ® more species
+Stable Climate Tropical climate is more stable (less seasonal variation) ® species specialise more ®
+more niches ® more species
+Long Evolutionary Time Tropics were not glaciated during ice ages ® species evolved undisturbed for millions of
+years
+High Spatial
+Heterogeneity
+Complex vertical structure (canopy, understory, forest floor) ® more microhabitats ®
+more species
+High Productivity More energy available ® more organisms can be supported ® more species
+No Harsh Winter Year-round growth season ® organisms active longer ® more evolutionary diversity
+possible
+4.2 Species-Area Relationship
+Proposed by Preston (1962) and developed by MacArthur & Wilson (1967) — Theory of Island
+Biogeography. As the area of a habitat increases, the number of species also increases but at a
+decreasing rate.
+Formula: S = cA^z log S = log c + z log A Where: S = number of species | A = area | c = constant
+(depends on taxon) | z = slope (0.1–0.2 for mainland; 0.2–0.35 for islands) Implication: Doubling the
+area does NOT double the species. A 10× increase in area typically doubles species richness. This is
+why habitat fragmentation is so devastating to biodiversity.
+Page 7 | UGC NET Env. Sciences — Unit 3.5
+n EXAM TIP: Species-Area Relationship: S = cA^z z = 0.1-0.2 for mainland | z = 0.2-0.35 for oceanic
+islands. MacArthur & Wilson (1967) — Theory of Island Biogeography. This formula is DIRECTLY
+asked in NET exams.
+4.3 Other Patterns of Diversity
+Pattern Description
+Altitudinal Gradient Like latitudinal gradient, species richness decreases with increasing altitude. Mountain
+tops are like isolated islands — cold, low On, high UV. Exception: Mid-altitude
+hump-shaped pattern observed in some groups.
+Rapoport's Rule Species in higher latitudes have larger geographic ranges than those in lower
+latitudes. Proposed by Rapoport (1975). Explains why tropical species are more
+specialised.
+Diversity-Disturbance
+Hypothesis (IDH)
+Intermediate levels of disturbance maintain highest diversity. Proposed by Connell
+(1978). Low disturbance: competitive exclusion; High disturbance: only tolerant
+species survive; Intermediate: coexistence of many species. Example: coral reefs.
+Diversity-Productivity
+Relationship
+Hump-shaped relationship — maximum diversity at intermediate productivity. Very low
+productivity ® few species; Very high ® competitive exclusion; Intermediate ®
+highest diversity.
+Page 8 | UGC NET Env. Sciences — Unit 3.5
+SECTION 5 — Ecotone
+The transition zone between ecosystems
+5.1 Definition of Ecotone
+An ecotone is a transition zone or boundary between two adjacent ecosystems or biotic communities. The
+term was coined by F.E. Clements (1905) from the Greek words oikos (house) and tonos (tension/tone). It
+is a zone of tension where two ecological communities meet and integrate.
+Ecotone — Transition Zone Between Two Ecosystems
+FOREST
+• Dense canopy
+• Forest species
+• Low light
+• High humidity
+• Deer, Woodpecker
+• Oak, Pine trees
+ECOTONE
+(Transition zone)
+EDGE EFFECT:
+More species than
+either habitat alone
+Both forest & grassland
+species present
+Higher biodiversity
+GRASSLAND
+• Open canopy
+• Grassland species
+• High light
+• Low humidity
+• Rabbit, Skylark
+• Grasses, herbs
+Arrow shows species richness: Forest < Ecotone > Grassland ¬ This is the Edge Effect
+Fig 4: Ecotone between Forest and Grassland — showing transition zone
+5.2 Characteristics of Ecotones
+• Transitional zone — contains elements of BOTH adjacent communities
+• Variable width — can be sharp (cliff edge) or broad (forest-grassland)
+• Unique conditions — different microclimate, light, humidity from either community
+• Higher species diversity than either adjacent habitat (due to Edge Effect)
+• Distinct species — some species are unique to ecotones (edge species)
+• Tension zone — competing influences from both adjacent ecosystems
+• Dynamic — boundary shifts with seasons and disturbances
+• Importance for movement — many animals use ecotones as corridors
+5.3 Types/Examples of Ecotones
+Ecotone Type Description Key Feature
+Forest-Grassland Ecotone Savanna, woodland, shrubland — mix of tree
+and grass species
+Most studied ecotone
+Land-Water Ecotone
+(Riparian)
+River/lake margins — mix of aquatic and
+terrestrial species
+Riparian zone; highest biodiversity
+Intertidal Zone Between marine and terrestrial — exposed at
+low tide
+Unique barnacles, crabs, sea
+anemones
+Mangrove (Estuarine) Between marine and freshwater/terrestrial Rich in fish nurseries, birds
+Page 9 | UGC NET Env. Sciences — Unit 3.5
+Alpine Treeline Between forest and alpine meadow/tundra Distinct ecotonal community
+Desert-Grassland Margin Sparse vegetation transitioning to grassland Semi-arid ecotone
+Urban-Rural Fringe Human-influenced transition zone Growing importance in conservation
+Page 10 | UGC NET Env. Sciences — Unit 3.5
+SECTION 6 — Edge Effect
+Why ecotones have higher species diversity
+6.1 Definition of Edge Effect
+The edge effect is the tendency for greater variety and density of organisms to occur at the boundary
+(ecotone) between two ecosystems compared to either ecosystem alone. The ecotone supports species
+from both communities PLUS edge species that are unique to the boundary zone.
+Edge Effect — Species Richness Across an Ecotone
+SpeciesnRichness
+Distance ®
+FOREST ECPOETAOKNnE(Edge Effect) GRASSLAND
+Edge effect: maximum species richness occurs at the ecotone boundary
+Fig 5: Edge Effect — Species richness peaks at the ecotone boundary
+6.2 Why Edge Effect Occurs
+• Resource availability — organisms can access resources from BOTH adjacent ecosystems
+• Structural diversity — complex physical structure (trees + grasses at forest edge)
+• Microhabitat variety — gradients of light, temperature, humidity create many niches
+• Reduced competition — generalist species from both ecosystems can coexist
+• Edge species — some species are specialised for the ecotone itself
+6.3 Positive and Negative Edge Effects
+Aspect Positive Edge Effect Negative Edge Effect
+Biodiversity Higher species richness at edge Edge-sensitive interior species suffer
+Food availability More food types from both habitats Nest predation higher at forest edges
+Human context Wildlife can be viewed at forest edges Fragmentation creates too much edge
+Example species Deer, rabbits thrive at forest-grassland
+edge
+Ovenbird needs large forest interior
+Conservation Ecotones managed for game and wildlife Habitat fragmentation = too much edge =
+harmful
+n IMPORTANT: Edge effect is NOT always good for conservation. Habitat fragmentation creates
+excessive edge, which benefits generalist "edge species" (deer, crows, raccoons) but HARMS
+interior specialists (forest-interior birds, amphibians, large mammals). The Brown-headed Cowbird
+is a classic edge-effect pest — it parasitises nest of forest songbirds along forest edges.
+Page 11 | UGC NET Env. Sciences — Unit 3.5
+6.4 Edge Effect in Indian Context
+In India, ecotones and edge effects are important in these contexts:
+• Tiger reserves — tigers use forest-grassland ecotones for hunting
+• Mangrove-sea ecotone — critical fish nursery habitat; Sundarbans, Bhitarkanika
+• Riparian zones — river-land ecotone; crucial for birds and mammals in semi-arid areas
+• Western Ghats forest edges — edge effects due to encroachment and fragmentation threaten
+endemic species
+• Grassland-forest ecotone in Kanha, Bandhavgarh — key habitat for barasingha (swamp deer)
+Page 12 | UGC NET Env. Sciences — Unit 3.5
+SECTION 7 — Ecological Habitat
+WHERE an organism lives — the physical environment
+7.1 Definition of Habitat
+A habitat is the physical environment in which an organism lives, grows, and reproduces. It includes all
+the abiotic factors (temperature, soil, water, light) and the community of organisms that share that
+environment. It is the organism's "address" in nature.
+Etymology: From Latin habitare = to dwell/inhabit. A habitat is the "home" of an organism — the place where
+it is normally found.
+7.2 Components of Habitat
+Component Elements Ecological Role
+Abiotic Components Temperature range, rainfall, humidity, soil type,
+pH, altitude, salinity, water availability
+Determine which species CAN survive
+Biotic Components Other species (food, predators, competitors,
+parasites, mutualists)
+Determine which species DO survive
+Structural features Physical structure — tree cover, rock crevices,
+burrows, leaf litter depth
+Provide shelter, nesting sites, refugia
+Temporal factors Seasonal changes, day/night cycles, tidal
+rhythms
+Determine when organisms can use the
+habitat
+7.3 Types of Habitat
+Habitat Type Examples Key Features
+Terrestrial Habitats Forest (tropical, temperate, boreal) Grassland
+(savanna, prairie, steppe) Desert (hot, cold)
+Tundra Mountain/Alpine
+Land-based; determined by climate, soil,
+elevation
+Freshwater Habitats Lakes, ponds (lentic) Rivers, streams (lotic)
+Wetlands, marshes, bogs Ephemeral pools
+Water-based; low salinity (<0.5 ppt)
+Marine Habitats Open ocean, coastal, coral reef Estuaries,
+mangroves Intertidal zone Deep-sea (hadal))
+Salt water; high salinity (35 ppt avg)
+Microhabitat Small-scale habitats within larger ones Under a
+rock, in a tree hole Leaf litter, rotting log, soil
+pore
+Provides conditions for specialised
+organisms
+Artificial Habitats Cropland, gardens, ponds Buildings, pipes,
+reservoirs Urban green spaces
+Human-created; support generalist species
+7.4 Habitat vs Microhabitat vs Biotope
+Term Definition Scale Example
+Habitat Complete environment of a
+species
+Landscape level Tropical forest for tigers
+Microhabitat Small-scale habitat within larger
+one
+cm to m scale Under a log; in a tree hollow
+Page 13 | UGC NET Env. Sciences — Unit 3.5
+Biotope Specific physical location with
+uniform conditions
+Community level Coral reef; peat bog
+Ecotope Smallest ecologically distinct unit
+in landscape
+Between habitat &
+biotope
+A single pond edge
+Page 14 | UGC NET Env. Sciences — Unit 3.5
+SECTION 8 — Ecological Niche
+The functional role of a species — the most important concept in ecology
+8.1 Definition and History
+The ecological niche is the functional role and position of a species within an ecosystem —
+encompassing all of its interactions with the biotic and abiotic environment. It includes WHAT it eats,
+WHERE it lives, WHEN it is active, and HOW it interacts with other species.
+Habitat vs Niche — Key Distinction
+HABITAT
+"Address" of an organism
+n Physical location where organism lives
+n Forest, pond, desert, coral reef
+n Includes abiotic + biotic surroundings
+n A species can share habitat with others
+n WHERE an organism lives
+n Example: Tiger lives in tropical forest
+NICHE
+"Profession" of an organism
+n Functional role in the ecosystem
+n Food, behaviour, timing, interactions
+n Includes ALL ecological requirements
+n No two species share exact same niche
+n WHAT an organism does (+ where, when)
+n Example: Tiger is apex predator, eats deer
+VS
+"Habitat is the address; Niche is the profession" — Eugene Odum
+Fig 6: Habitat vs Niche — The address vs profession distinction
+8.2 Historical Development of Niche Concept
+Joseph Grinnell (1917) First used "niche" in ecology to mean the habitat requirements of a species —
+the spatial niche. He studied California Thrasher and defined its niche as the
+microhabitat it occupies. "Where does the species live?" — spatial aspect.
+Charles Elton (1927) Defined niche as the functional role of an organism in the community — its
+food, its enemies, its relationships. Focused on TROPHIC niche — "What
+does the species do?" — the animal's job in the community.
+G. Evelyn Hutchinson
+(1957)
+Most comprehensive definition: niche as an n-dimensional hypervolume —
+a multi-dimensional space defined by all environmental variables
+(temperature, humidity, food size, pH, etc.) within which a species can
+survive and reproduce. Each variable is one dimension of the niche.
+Introduced Fundamental vs Realised niche distinction.
+Eugene Odum (1971) Simplified as: "Habitat is the organism's address; niche is its
+profession." This analogy is the most famous description of niche and is
+DIRECTLY asked in NET.
+8.3 Hutchinson's N-Dimensional Hypervolume Niche
+Page 15 | UGC NET Env. Sciences — Unit 3.5
+Fundamental vs Realised Niche (Hutchinson, 1957)
+FUNDAMENTAL NICHE
+(Potential niche)
+Full range of conditions
+species COULD occupy
+in ABSENCE of competition
+REALISED NICHE
+(Actual niche)
+Actual range occupied
+WITH competition,
+predation, etc.
+Competition &
+predation REDUCE
+fundamental niche
+® realised niche
+Hutchinson (1957): Niche = n-dimensional hypervolume of environmental conditions allowing species survival
+Competitive Exclusion Principle (Gause's Law): No two species can occupy the same niche indefinitely
+Fig 7: Fundamental vs Realised Niche — Hutchinson's concept (1957)
+Key idea (Hutchinson, 1957): Imagine each environmental factor (temperature, humidity, food size, soil
+pH, etc.) as one axis. The niche of a species is the "hypervolume" (multi-dimensional space) defined by all
+these axes within which the species can survive. For example: species X can survive at temperature
+15-30°C AND humidity 60-90% AND food size 2-10g ® its niche is the intersection of all these ranges.
+Page 16 | UGC NET Env. Sciences — Unit 3.5
+SECTION 9 — Types of Niche
+Fundamental, Realised, Trophic, Spatial and more
+Types of Ecological Niche
+ECOLOGICAL NICHE
+Habitat Niche
+(WHERE)
+Trophic Niche
+(WHAT it eats)
+Multidimensional
+Niche (ALL)
+Physical space
++ microhabitat
+Food type, feeding
+time, technique
+Hutchinson's
+n-dimensional
+hypervolume
+Fundamental vs
+Realised Niche
+Resource
+Partitioning
+Competitive
+Exclusion Principle
+Fig 8: Types of Ecological Niche — Tree Diagram
+Fundamental Niche The full range of abiotic conditions within which a species CAN survive,
+reproduce, and persist, in the absence of biotic interactions (competition,
+predation, parasitism). It is the theoretical maximum niche. Example:
+Barnacles can physically survive across a wide intertidal range (fundamental
+niche), but competition restricts them to a smaller zone.
+Realised Niche The actual range of conditions a species occupies in the real world,
+reduced from the fundamental niche by biotic interactions (competition,
+predation, parasitism, disease). Realised niche £ Fundamental niche
+always Example: If a competitor is removed, a species often expands its
+realised niche back toward its fundamental niche. Classic experiment:
+Connell (1961) on barnacles Chthamalus and Balanus on Scottish rock
+shores.
+Trophic Niche Defined by what an organism EATS — its position in the food web, food type,
+feeding time, and feeding technique. Examples: • Tiger: apex predator, hunts
+large mammals at night • Hummingbird: nectar feeder, day-active, long beak •
+Vulture: scavenger, feeds on carcasses
+Spatial / Habitat Niche Defined by WHERE in the environment an organism lives — the physical
+space it occupies including microhabitat selection. Examples: Different
+warbler species in a single spruce tree occupy different zones — tip, middle,
+base — spatial niche differentiation (MacArthur's warbler study, 1958).
+Page 17 | UGC NET Env. Sciences — Unit 3.5
+SECTION 10 — Competitive Exclusion & Resource Partitioning
+Gause's Law and how species avoid it
+10.1 Competitive Exclusion Principle (Gause's Law)
+Proposed by G.F. Gause (1934) based on laboratory experiments with Paramecium. States: "Two
+species competing for the same limiting resource cannot coexist indefinitely — one will
+outcompete and eliminate the other."
+Also stated as: "Complete competitors cannot coexist" or "No two species can occupy the same
+niche at the same time and place indefinitely."
+Gause's Experiments:
+• Grew Paramecium aurelia and P. caudatum separately ® both survived
+• Grew them TOGETHER competing for same food (bacteria) ® P. aurelia won, P. caudatum
+eliminated
+• Grew P. caudatum and P. bursaria together ® COEXISTED because they used different food
+resources (P. bursaria ate yeast; P. caudatum ate bacteria)
+• Conclusion: coexistence requires niche differentiation
+10.2 Resource Partitioning
+Resource partitioning is the mechanism by which competing species avoid the competitive exclusion
+principle by dividing resources among themselves — each specialising on a slightly different part of the
+resource spectrum. This allows coexistence by reducing niche overlap.
+Example How Partitioning Works
+MacArthur's Warblers (1958) Five warbler species in same spruce tree fed at different vertical zones — tip, upper
+canopy, middle, lower branches, trunk. Classic example of spatial niche partitioning.
+Darwin's Finches Different beak sizes allow exploitation of different seed/food types on Galapagos
+Islands. Trophic niche partitioning after adaptive radiation.
+Lizard communities in
+deserts
+Different lizard species active at different times of day (morning, midday, evening) —
+temporal niche partitioning.
+Coral reef fish Different species feed at different depths, times, and on different food types — multiple
+dimensions of niche partitioning in same space.
+Indian hornbills Different hornbill species take different sized fruits from same fruiting trees — trophic
+niche partitioning by body/bill size.
+10.3 Character Displacement
+Character displacement occurs when two competing species evolve to become MORE DIFFERENT
+from each other where their ranges overlap, reducing competition. Classic example: Darwin's Ground
+Finches — beak sizes diverge more in sympatry than in allopatry. Another example: Darwin's Rock
+Nuthatches (Brown & Wilson, 1956 — who coined the term).
+Page 18 | UGC NET Env. Sciences — Unit 3.5
+SECTION 11 — Key Terms Glossary
+Term Definition
+Alpha diversity (a) Species diversity WITHIN a single habitat. Measured by species richness, Shannon
+H', Simpson D.
+Beta diversity (b) Species diversity BETWEEN habitats. Measures species turnover. b = g/a (Whittaker,
+1960).
+Biodiversity The variety of life at genetic, species, and ecosystem levels. Popularised by E.O.
+Wilson (1988).
+Character displacement Evolutionary divergence in morphology between competing species in sympatry.
+Competitive exclusion Gause's Law (1934): two species sharing identical niche cannot coexist indefinitely.
+Ecotone Transition zone between two ecosystems; coined by Clements (1905). Has higher
+diversity (edge effect).
+Edge effect Higher species diversity at ecotone boundaries than in either adjacent habitat alone.
+Edge species Species that live primarily or exclusively in ecotone/edge habitats.
+Evenness How equally individuals are distributed among species in a community.
+Fundamental niche Full range of conditions a species CAN occupy in absence of biotic interactions.
+Gamma diversity (g) Total species diversity of a large region or landscape. g = a × b.
+Grinnell (1917) First defined niche as the spatial/habitat requirements of a species.
+Habitat Physical environment where an organism lives — its "address" (Odum analogy).
+Hutchinson (1957) Defined niche as n-dimensional hypervolume. Introduced fundamental vs realised
+niche.
+Intermediate Disturbance
+Hypothesis
+Connell (1978): maximum diversity at intermediate disturbance levels.
+Jaccard Index Beta diversity index measuring habitat similarity based on presence/absence. Range
+0-1.
+Niche The ecological role of a species — "profession" in the ecosystem (Odum). WHAT,
+WHERE, WHEN, HOW.
+Niche differentiation Process by which competing species evolve to use resources differently.
+Pielou's J Evenness index. J = H'/ln(S). Range 0-1; 1=perfectly even.
+Realised niche Actual niche occupied by species in presence of biotic interactions; £ fundamental
+niche.
+Resource partitioning Division of resources among competing species; allows coexistence by reducing niche
+overlap.
+Shannon-Wiener Index (H') Diversity index accounting for richness and evenness. H' = -S(pi ln pi).
+Simpson Index (D) Diversity index = probability two random individuals are same species. Higher D =
+LOWER diversity.
+Sorensen Index Beta diversity similarity index. Cs = 2j/(a+b). More widely used than Jaccard.
+Species richness (S) Total number of different species in an area. Simplest diversity measure.
+Page 19 | UGC NET Env. Sciences — Unit 3.5
+Species-area relationship S = cA^z; more area = more species. MacArthur & Wilson (1967).
+Page 20 | UGC NET Env. Sciences — Unit 3.5
+SECTION 12 — Comparison Tables
+Comparison 1: a vs b vs g Diversity
+Feature a Diversity b Diversity g Diversity
+Scale Single habitat Between habitats Landscape/region
+Measures Local richness Species turnover Total regional diversity
+Formula S, H', D b=g/a; Jaccard; Sorensen g = a × b
+Coined by Whittaker (1960) Whittaker (1960) Whittaker (1960)
+Example Birds in one forest
+patch
+Change from forest to
+grassland
+All birds in Western Ghats
+Comparison 2: Habitat vs Niche
+Feature Habitat Niche
+Analogy (Odum) "Address" of organism "Profession" of organism
+Dimension Physical/spatial location Multi-dimensional (food, space, time,
+interactions)
+Definition Where organism lives What organism does — its functional role
+Sharing Many species share a habitat No two species share identical niche
+(Gause's law)
+Components Abiotic + biotic environment All ecological requirements (Hutchinson
+hypervolume)
+Types Terrestrial, freshwater, marine Fundamental, realised, trophic, spatial
+Scale Can be large or small Species-specific
+Example Tropical forest (tiger's habitat) Apex predator eating deer at night (tiger's
+niche)
+Comparison 3: Fundamental vs Realised Niche
+Feature Fundamental Niche Realised Niche
+Definition Full potential niche without biotic limits Actual niche with biotic interactions
+Biotic interactions Absent (theoretical) Present (competition, predation)
+Size Larger Smaller (subset of fundamental)
+Reality Theoretical/potential Actual/observed
+Formula Maximum possible Realised £ Fundamental
+Hutchinson (1957) n-dimensional hypervolume (full) Reduced hypervolume
+Classic example Barnacle range on rock (full) Barnacle range with competitor present
+(reduced)
+Page 21 | UGC NET Env. Sciences — Unit 3.5
+SECTION 13 — Mnemonics, Memory Tips & Exam Strategy
+n a, b, g Diversity Alpha=Within | Beta=Between | Gamma=Grand total "A Band of Gorgeous
+species" — A=Alpha, B=Beta, G=Gamma All coined by Whittaker (1960).
+Formula: g = a × b
+n Niche scientists in
+order
+Grinnell (1917) ® Elton (1927) ® Hutchinson (1957) ® Odum (1971) "Great
+Elephants Have Outstanding niches" G=Grinnell (spatial), E=Elton (trophic),
+H=Hutchinson (hypervolume), O=Odum (address/profession)
+n Diversity indices Shannon = "Share everything" ® accounts for richness + evenness (H') Simpson
+= "Simplest dominance" ® probability same species (D) Jaccard = "Just
+presence/absence" ® binary similarity Sorensen = "Shared species weighted" ®
+more sensitive than Jaccard
+n Ecotone features TUDES: Transition zone, Unique conditions, Diverse species, Edge effect, Stress
+(tension) Coined by Clements (1905)
+n Competitive
+Exclusion
+Gause (1934) — Paramecium experiment "GAUSE EXCLUDES
+COMPETITORS": G=Gause, E=Exclusion, C=Competitors No two species
+occupy same niche indefinitely
+n Species-Area formula S = cA^z | z = 0.1-0.2 mainland; 0.2-0.35 islands "Species grow with Area —
+Small on mainland (0.1-0.2), Strong on islands (0.2-0.35)"
+n KEY FACTS FOR UGC NET — Unit 3.5
+4 1. a, b, g diversity coined by R.H. Whittaker (1960)
+4 2. b = g/a | g = a × b — formulas must be memorised
+4 3. Shannon-Wiener Index H' = -S(pi × ln pi) — measures richness + evenness
+4 4. Simpson Index D = Spi² — measures dominance; HIGHER D = LOWER diversity
+4 5. Jaccard Index = presence/absence similarity | Sorensen = weighted similarity
+4 6. Species-Area relationship: S = cA^z | MacArthur & Wilson (1967)
+4 7. z = 0.1-0.2 for mainland habitats | z = 0.2-0.35 for oceanic islands
+4 8. Ecotone coined by Clements (1905) — transition zone between two ecosystems
+4 9. Edge effect = higher species diversity at ecotone than in either habitat
+4 10. Intermediate Disturbance Hypothesis — Connell (1978) — max diversity at intermediate
+disturbance
+4 11. Grinnell (1917) = first niche concept (spatial) | Elton (1927) = trophic niche
+4 12. Hutchinson (1957) = n-dimensional hypervolume niche concept
+4 13. "Habitat = address; Niche = profession" — Eugene Odum (1971)
+4 14. Fundamental niche > Realised niche always (biotic interactions reduce niche)
+4 15. Competitive Exclusion Principle = Gause's Law (1934) — no two species same niche
+Page 22 | UGC NET Env. Sciences — Unit 3.5
+4 16. Resource partitioning allows coexistence — reduces niche overlap
+4 17. MacArthur's warbler study (1958) — classic spatial niche partitioning
+4 18. Character displacement = species diverge MORE where ranges overlap (Brown & Wilson, 1956)
+4 19. Biodiversity = genetic + species + ecosystem diversity (E.O. Wilson, 1988)
+4 20. Tropical regions have highest species diversity — stable climate, long evolutionary history
+n UGC NET QUESTION PATTERNS — Unit 3.5
+® "a, b, g diversity was coined by?" ® R.H. Whittaker (1960)
+® "b diversity formula?" ® b = g/a
+® "Habitat is address; niche is profession — this statement is by?" ® Eugene Odum
+® "Hutchinson defined niche as?" ® n-dimensional hypervolume (1957)
+® "Ecotone was coined by?" ® F.E. Clements (1905)
+® "Edge effect means?" ® Higher species diversity at ecotone boundary
+® "Competitive exclusion principle was proposed by?" ® G.F. Gause (1934)
+® "Shannon-Wiener Index H' measures?" ® Both species richness and evenness
+® "Higher Simpson D value means?" ® LOWER diversity (dominance index)
+® "Species-Area formula?" ® S = cA^z (MacArthur & Wilson, 1967)
+® "z value for oceanic islands in S = cA^z?" ® 0.2 to 0.35
+® "Grinnell (1917) defined niche as?" ® Spatial/habitat niche
+® "Realised niche vs fundamental niche — which is larger?" ® Fundamental niche
+® "MacArthur's warbler study is an example of?" ® Resource/niche partitioning
+UGC NET Env. Sciences (Code 89) — Unit 3.5: Species Diversity, Ecotone, Edge Effects, Ecological Habitats and Niche | JRF
+Preparation Guide
+Complete beginner-to-expert coverage | All diagrams, comparisons and exam tips included
